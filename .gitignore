@@ -48,6 +48,73 @@ vendor/
 # Ignore files in 'tidak dipakai' folder
 tidak\ dipakai/
 
+# Ignore organized tmp folder structure
+tmp/testing/
+tmp/archive/
+tmp/unused/
+tmp/logs/
+
+# Ignore debug and test files
+debug_*.php
+test_*.php
+check_*.php
+analisis_*.php
+verifikasi_*.php
+
+# Ignore fix and import files
+fix_*.php
+import_*.php
+final_*.php
+force_*.php
+clean_*.php
+improve_*.php
+update_*.php
+create_*.php
+recalculate_*.php
+perbaiki_*.php
+sync_*.php
+
+# Ignore backup and old files
+*backup*.php
+*backup*.sql
+*.backup.*
+*_old.php
+restore*.php
+
+# Ignore temporary documentation files
+CHANGELOG_*.md
+DAFTAR_*.md
+DATABASE_*.md
+FIX_*.md
+HASIL_*.md
+IMPLEMENTASI_*.md
+IMPORT_*.md
+LAPORAN_*.md
+MAPPING_*.md
+PANDUAN_*.md
+PERBAIKAN_*.md
+SOLUSI_*.md
+STANDALONE_*.md
+TROUBLESHOOTING_*.md
+UPDATE_*.md
+
+# Ignore temporary output files
+promo_output*.html
+tesss.pdf
+rmhsmd.zip
+error_log
+webview-simad.html
+config_hosting_database.php
+database-compare.php
+
+# Ignore CSV and SQL data files
+*.csv
+daftar_*.php
+ringkasan_*.php
+laporan_*.php
+simulasi_*.php
+search_*.php
+
 # Ignore database files (if any)
 *.sqlite
 *.db
