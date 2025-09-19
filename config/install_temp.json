@@ -1,0 +1,10 @@
+{
+    "db_host": "localhost",
+    "db_name": "manajemen_transaksi_desa",
+    "db_user": "root",
+    "db_pass": "",
+    "app_url": "http://localhost/kode",
+    "created_at": "2025-01-15 10:30:00",
+    "status": "ready_for_localhost",
+    "notes": "Konfigurasi database localhost untuk SIMAD"
+}

@@ -1,0 +1,366 @@
+<?php
+/**
+ * Sistem Autentikasi untuk Aplikasi Manajemen Transaksi Desa
+ * 
+ * File ini berisi fungsi-fungsi untuk mengelola autentikasi pengguna
+ * termasuk login, logout, dan pengecekan session
+ */
+
+require_once 'database.php';
+
+// Konstanta untuk timeout session (dalam detik)
+define('SESSION_TIMEOUT', 3600); // 1 jam
+
+// Mulai session jika belum dimulai
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
+}
+
+class Auth {
+    private $db;
+    
+    public function __construct() {
+        $this->db = getDatabase();
+    }
+    
+    /**
+     * Login pengguna
+     * 
+     * @param string $username
+     * @param string $password
+     * @return array
+     */
+    public function login($username, $password) {
+        try {
+            // Cari user berdasarkan username atau email
+            $query = "SELECT * FROM users WHERE (username = ? OR email = ?) AND status = 'aktif'";
+            $user = $this->db->selectOne($query, [$username, $username]);
+            
+            if (!$user) {
+                return [
+                    'success' => false,
+                    'message' => 'Username atau email tidak ditemukan'
+                ];
+            }
+            
+            // Verifikasi password
+            if (!password_verify($password, $user['password'])) {
+                return [
+                    'success' => false,
+                    'message' => 'Password salah'
+                ];
+            }
+            
+            // Set session
+            $_SESSION['user_id'] = $user['id'];
+            $_SESSION['username'] = $user['username'];
+            $_SESSION['nama_lengkap'] = $user['nama_lengkap'];
+            $_SESSION['role'] = $user['role'];
+            $_SESSION['email'] = $user['email'];
+            $_SESSION['login_time'] = time();
+            
+            // Update last login
+            $this->updateLastLogin($user['id']);
+            
+            // Log aktivitas login
+            $this->logLogin($user['id'], $username);
+            
+            return [
+                'success' => true,
+                'message' => 'Login berhasil',
+                'user' => $user
+            ];
+            
+        } catch (Exception $e) {
+            return [
+                'success' => false,
+                'message' => 'Terjadi kesalahan: ' . $e->getMessage()
+            ];
+        }
+    }
+    
+    /**
+     * Logout pengguna
+     */
+    public function logout() {
+        // Hapus semua session
+        session_unset();
+        session_destroy();
+        
+        // Redirect ke halaman login
+        header('Location: ' . BASE_URL . 'login.php');
+        exit;
+    }
+    
+    /**
+     * Cek apakah user sudah login
+     * 
+     * @return bool
+     */
+    public function isLoggedIn() {
+        if (!isset($_SESSION['user_id']) || !isset($_SESSION['login_time'])) {
+            return false;
+        }
+        
+        // Cek timeout session
+        if (time() - $_SESSION['login_time'] > SESSION_TIMEOUT) {
+            $this->logout();
+            return false;
+        }
+        
+        return true;
+    }
+    
+    /**
+     * Mendapatkan data user yang sedang login
+     * 
+     * @return array|null
+     */
+    public function getCurrentUser() {
+        if (!$this->isLoggedIn()) {
+            return null;
+        }
+        
+        try {
+            $query = "SELECT * FROM users WHERE id = ? AND status = 'aktif'";
+            return $this->db->selectOne($query, [$_SESSION['user_id']]);
+        } catch (Exception $e) {
+            return null;
+        }
+    }
+    
+    /**
+     * Cek apakah user memiliki role tertentu
+     * 
+     * @param string|array $roles
+     * @return bool
+     */
+    public function hasRole($roles) {
+        if (!$this->isLoggedIn()) {
+            return false;
+        }
+        
+        $userRole = $_SESSION['role'];
+        
+        if (is_array($roles)) {
+            return in_array($userRole, $roles);
+        }
+        
+        return $userRole === $roles;
+    }
+    
+    /**
+     * Redirect jika tidak memiliki akses
+     * 
+     * @param string|array $requiredRoles
+     */
+    public function requireRole($requiredRoles) {
+        if (!$this->hasRole($requiredRoles)) {
+            header('Location: ' . BASE_URL . 'unauthorized.php');
+            exit;
+        }
+    }
+    
+    /**
+     * Redirect jika belum login
+     */
+    public function requireLogin() {
+        if (!$this->isLoggedIn()) {
+            header('Location: ' . BASE_URL . 'login.php');
+            exit;
+        }
+    }
+    
+    /**
+     * Update waktu login terakhir
+     * 
+     * @param int $userId
+     */
+    private function updateLastLogin($userId) {
+        try {
+            $query = "UPDATE users SET last_login = CURRENT_TIMESTAMP, updated_at = CURRENT_TIMESTAMP WHERE id = ?";
+            $this->db->execute($query, [$userId]);
+        } catch (Exception $e) {
+            // Log error tapi jangan stop proses login
+            error_log('Error updating last login: ' . $e->getMessage());
+        }
+    }
+    
+    /**
+     * Registrasi user baru (hanya untuk admin)
+     * 
+     * @param array $userData
+     * @return array
+     */
+    public function register($userData) {
+        try {
+            // Validasi input
+            $required = ['username', 'email', 'password', 'nama_lengkap', 'role'];
+            foreach ($required as $field) {
+                if (empty($userData[$field])) {
+                    return [
+                        'success' => false,
+                        'message' => "Field {$field} harus diisi"
+                    ];
+                }
+            }
+            
+            // Cek apakah username sudah ada
+            $query = "SELECT id FROM users WHERE username = ? OR email = ?";
+            $existing = $this->db->selectOne($query, [$userData['username'], $userData['email']]);
+            
+            if ($existing) {
+                return [
+                    'success' => false,
+                    'message' => 'Username atau email sudah digunakan'
+                ];
+            }
+            
+            // Hash password
+            $hashedPassword = password_hash($userData['password'], PASSWORD_DEFAULT);
+            
+            // Insert user baru
+            $query = "INSERT INTO users (username, email, password, nama_lengkap, role, no_hp, status) 
+                     VALUES (?, ?, ?, ?, ?, ?, 'aktif')";
+            
+            $params = [
+                $userData['username'],
+                $userData['email'],
+                $hashedPassword,
+                $userData['nama_lengkap'],
+                $userData['role'],
+                $userData['no_hp'] ?? null
+            ];
+            
+            $this->db->execute($query, $params);
+            
+            return [
+                'success' => true,
+                'message' => 'User berhasil didaftarkan',
+                'user_id' => $this->db->lastInsertId()
+            ];
+            
+        } catch (Exception $e) {
+            return [
+                'success' => false,
+                'message' => 'Terjadi kesalahan: ' . $e->getMessage()
+            ];
+        }
+    }
+    
+    /**
+     * Ubah password user
+     * 
+     * @param int $userId
+     * @param string $oldPassword
+     * @param string $newPassword
+     * @return array
+     */
+    public function changePassword($userId, $oldPassword, $newPassword) {
+        try {
+            // Ambil data user
+            $query = "SELECT password FROM users WHERE id = ?";
+            $user = $this->db->selectOne($query, [$userId]);
+            
+            if (!$user) {
+                return [
+                    'success' => false,
+                    'message' => 'User tidak ditemukan'
+                ];
+            }
+            
+            // Verifikasi password lama
+            if (!password_verify($oldPassword, $user['password'])) {
+                return [
+                    'success' => false,
+                    'message' => 'Password lama salah'
+                ];
+            }
+            
+            // Hash password baru
+            $hashedPassword = password_hash($newPassword, PASSWORD_DEFAULT);
+            
+            // Update password
+            $query = "UPDATE users SET password = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?";
+            $this->db->execute($query, [$hashedPassword, $userId]);
+            
+            return [
+                'success' => true,
+                'message' => 'Password berhasil diubah'
+            ];
+            
+        } catch (Exception $e) {
+            return [
+                'success' => false,
+                'message' => 'Terjadi kesalahan: ' . $e->getMessage()
+            ];
+        }
+    }
+    
+    /**
+     * Log aktivitas login user
+     * 
+     * @param int $userId
+     * @param string $username
+     */
+    private function logLogin($userId, $username) {
+        try {
+            // Ambil informasi tambahan
+            $ipAddress = $_SERVER['REMOTE_ADDR'] ?? 'Unknown';
+            $userAgent = $_SERVER['HTTP_USER_AGENT'] ?? 'Unknown';
+            
+            // Simpan log login
+            $query = "INSERT INTO login_logs (user_id, username, ip_address, user_agent, login_time, created_at) VALUES (?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)";
+            $this->db->execute($query, [$userId, $username, $ipAddress, $userAgent]);
+            
+        } catch (Exception $e) {
+            // Log error tapi jangan stop proses login
+            error_log('Error logging login activity: ' . $e->getMessage());
+        }
+    }
+
+}
+
+// Inisialisasi Auth global untuk kompatibilitas
+$auth = new Auth();
+
+// Fungsi helper global untuk kompatibilitas dengan pemanggilan AuthStatic::
+class AuthStatic {
+    public static function isLoggedIn() {
+        global $auth;
+        return $auth->isLoggedIn();
+    }
+    
+    public static function getCurrentUser() {
+        global $auth;
+        return $auth->getCurrentUser();
+    }
+    
+    public static function hasRole($roles) {
+        global $auth;
+        return $auth->hasRole($roles);
+    }
+    
+    public static function requireLogin() {
+        global $auth;
+        return $auth->requireLogin();
+    }
+    
+    public static function requireRole($roles) {
+        global $auth;
+        return $auth->requireRole($roles);
+    }
+    
+    public static function login($username, $password, $remember = false) {
+        global $auth;
+        return $auth->login($username, $password);
+    }
+    
+    public static function logout() {
+        global $auth;
+        return $auth->logout();
+    }
+}
+
+// Tidak menggunakan alias karena kelas Auth sudah ada
+?>

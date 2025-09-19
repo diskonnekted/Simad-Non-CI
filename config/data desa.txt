@@ -1,0 +1,49 @@
+Perbandingan Data:
+
+- File CSV : Hanya 1 desa bermasalah (Sokaraja-Pagentan) dengan data perangkat 'KOSONG'
+- Database : 35 desa bermasalah dengan kontak person tidak lengkap
+- Kesimpulan : CSV dan Database menunjukkan masalah yang berbeda namun saling melengkapi
+### 🏛️ Daftar 35 Desa Bermasalah Per Kecamatan
+Banjarmangu (1 desa):
+
+- Majatengah-Banjarmangu (ID: 140) - Perlu HP Sekdes
+Kalibening (4 desa):
+
+- Bedana (ID: 23) - Perlu Nama & HP Kepala
+- Gununglangit (ID: 138) - Perlu Nama & HP Kepala
+- Majatengah-Kalibening (ID: 198) - Perlu HP Sekdes
+- Semangkung (ID: 130) - Perlu semua data
+Klampok (3 desa):
+
+- Kalilandak (ID: 169) - Perlu Nama & HP Kepala
+- Klampok (ID: 210) - Perlu semua data
+- Somawangi (ID: 161) - Perlu semua data
+Madukara (1 desa):
+
+- Kutayasa (ID: 65) - Perlu semua data
+Mandiraja (1 desa):
+
+- Kebakalan (ID: 96) - Perlu Nama & HP Kepala
+Pagedongan (1 desa):
+
+- Duren (ID: 50) - Perlu semua data
+Pejawaran (1 desa):
+
+- Giritirta (ID: 127) - Perlu semua data
+Punggelan (4 desa):
+
+- Kecepit (ID: 84), Tlaga (ID: 86), Wangon (ID: 87), Winduaji (ID: 94) - Semua perlu data lengkap
+Purwanegara (4 desa):
+
+- Karanganyar (ID: 73), Merden (ID: 156), Petir (ID: 75), Pucungbedug (ID: 76) - Semua perlu data lengkap
+Rakit (5 desa):
+
+- Adipasir (ID: 3) - Perlu HP Sekdes
+- Karangjambe (ID: 158), Medayu (ID: 159), Pingit (ID: 121) - Perlu semua data
+- Situwangi (ID: 123) - Perlu Nama & HP Kepala
+Susukan (7 desa):
+
+- Gumelemkulon (ID: 176), Gumelembaru (ID: 177), Rejasa (ID: 125), Susukan (ID: 175), Tlagasari (ID: 174), Windujaya (ID: 173), Wonosari (ID: 197) - Mayoritas perlu data lengkap
+Wanayasa (3 desa):
+
+- Balun (ID: 12), Legoksayem (ID: 109), Penanggungan (ID: 112) - Semua perlu data lengkap

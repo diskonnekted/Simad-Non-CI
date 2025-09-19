@@ -1,0 +1,76 @@
+# SIMAD - Sistem Informasi Manajemen Desa
+# Robots.txt for Production
+
+User-agent: *
+
+# Allow access to public pages
+Allow: /
+Allow: /client/
+Allow: /css/
+Allow: /js/
+Allow: /img/
+Allow: /fonts/
+
+# Disallow sensitive directories
+Disallow: /config/
+Disallow: /database/
+Disallow: /instruction/
+Disallow: /uploads/
+Disallow: /logs/
+Disallow: /tidak dipakai/
+Disallow: /src/
+
+# Disallow sensitive files
+Disallow: /*.sql$
+Disallow: /*.log$
+Disallow: /*.bak$
+Disallow: /*.backup$
+Disallow: /*.old$
+Disallow: /*.tmp$
+Disallow: /*.temp$
+Disallow: /install.php
+Disallow: /debug_*
+Disallow: /test_*
+Disallow: /*-delete.php
+Disallow: /*-edit.php
+Disallow: /*-add.php
+
+# Disallow admin/management pages from search engines
+Disallow: /user.php
+Disallow: /user-*
+Disallow: /desa.php
+Disallow: /desa-*
+Disallow: /produk.php
+Disallow: /produk-*
+Disallow: /layanan.php
+Disallow: /layanan-*
+Disallow: /transaksi.php
+Disallow: /transaksi-*
+Disallow: /peralatan.php
+Disallow: /peralatan-*
+Disallow: /kategori.php
+Disallow: /kategori-*
+Disallow: /biaya.php
+Disallow: /biaya-*
+Disallow: /jadwal.php
+Disallow: /jadwal-*
+Disallow: /laporan.php
+Disallow: /laporan-*
+Disallow: /website-*
+Disallow: /piutang.php
+Disallow: /login.php
+Disallow: /logout.php
+
+# Allow client-facing pages
+Allow: /client/dashboard.php
+Allow: /client/promo.php
+Allow: /client/consultation.php
+Allow: /client/delivery.php
+Allow: /client/financial.php
+Allow: /client/calendar.php
+Allow: /client/order.php
+Allow: /client/login.php
+Allow: /client/register.php
+
+# Sitemap location
+Sitemap: https://simad.sistemdata.id/sitemap.xml

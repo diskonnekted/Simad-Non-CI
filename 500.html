@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>500 - Server Error | SIMAD</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #333;
+        }
+        
+        .error-container {
+            text-align: center;
+            background: white;
+            padding: 60px 40px;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            max-width: 500px;
+            width: 90%;
+        }
+        
+        .error-code {
+            font-size: 120px;
+            font-weight: bold;
+            color: #ff6b6b;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .error-title {
+            font-size: 28px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        
+        .error-message {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        
+        .btn-home {
+            display: inline-block;
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin: 10px;
+        }
+        
+        .btn-home:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(255, 107, 107, 0.3);
+        }
+        
+        .btn-secondary {
+            display: inline-block;
+            background: transparent;
+            color: #ff6b6b;
+            padding: 15px 30px;
+            text-decoration: none;
+            border: 2px solid #ff6b6b;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            margin: 10px;
+        }
+        
+        .btn-secondary:hover {
+            background: #ff6b6b;
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 30px;
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .error-icon {
+            font-size: 60px;
+            margin-bottom: 20px;
+            color: #ff6b6b;
+        }
+        
+        .status-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 30px 0;
+            border-left: 4px solid #ff6b6b;
+        }
+        
+        .status-info h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+        
+        .status-info p {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+        
+        .retry-info {
+            margin-top: 30px;
+            padding-top: 30px;
+            border-top: 1px solid #eee;
+        }
+        
+        .retry-info h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+        
+        .retry-info ul {
+            list-style: none;
+            text-align: left;
+        }
+        
+        .retry-info li {
+            margin-bottom: 8px;
+            color: #666;
+        }
+        
+        .retry-info li:before {
+            content: "⚠";
+            color: #ff6b6b;
+            margin-right: 10px;
+            font-weight: bold;
+        }
+        
+        .countdown {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #999;
+        }
+        
+        @media (max-width: 600px) {
+            .error-container {
+                padding: 40px 20px;
+            }
+            
+            .error-code {
+                font-size: 80px;
+            }
+            
+            .error-title {
+                font-size: 24px;
+            }
+            
+            .btn-home, .btn-secondary {
+                display: block;
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <div class="logo">SIMAD</div>
+        
+        <div class="error-icon">⚠️</div>
+        <div class="error-code">500</div>
+        
+        <h1 class="error-title">Server Error</h1>
+        
+        <p class="error-message">
+            Maaf, terjadi kesalahan pada server. Tim teknis kami sedang bekerja untuk memperbaiki masalah ini.
+            Silakan coba lagi dalam beberapa menit.
+        </p>
+        
+        <div class="status-info">
+            <h3>Informasi Error:</h3>
+            <p><strong>Error Code:</strong> 500 Internal Server Error</p>
+            <p><strong>Waktu:</strong> <span id="error-time"></span></p>
+            <p><strong>Status:</strong> Tim teknis telah diberitahu</p>
+        </div>
+        
+        <div class="actions">
+            <a href="javascript:location.reload()" class="btn-home">Coba Lagi</a>
+            <a href="/" class="btn-secondary">Kembali ke Beranda</a>
+        </div>
+        
+        <div class="retry-info">
+            <h3>Yang Dapat Anda Lakukan:</h3>
+            <ul>
+                <li>Tunggu beberapa menit dan coba lagi</li>
+                <li>Refresh halaman ini</li>
+                <li>Kembali ke halaman sebelumnya</li>
+                <li>Hubungi administrator jika masalah berlanjut</li>
+            </ul>
+        </div>
+        
+        <div class="countdown">
+            <p>Halaman akan otomatis refresh dalam <span id="countdown">60</span> detik</p>
+        </div>
+    </div>
+    
+    <script>
+        // Set error time
+        document.getElementById('error-time').textContent = new Date().toLocaleString('id-ID');
+        
+        // Countdown and auto refresh
+        let countdown = 60;
+        const countdownElement = document.getElementById('countdown');
+        
+        const timer = setInterval(function() {
+            countdown--;
+            countdownElement.textContent = countdown;
+            
+            if (countdown <= 0) {
+                clearInterval(timer);
+                location.reload();
+            }
+        }, 1000);
+        
+        // Track 500 errors (optional)
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'server_error', {
+                'page_location': window.location.href,
+                'page_title': '500 - Server Error',
+                'error_time': new Date().toISOString()
+            });
+        }
+        
+        // Log error to console for debugging
+        console.error('500 Internal Server Error occurred at:', new Date().toISOString());
+        console.error('URL:', window.location.href);
+        console.error('User Agent:', navigator.userAgent);
+    </script>
+</body>
+</html>

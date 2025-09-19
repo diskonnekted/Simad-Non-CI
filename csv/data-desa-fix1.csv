@@ -1,0 +1,4282 @@
+No,Nama ,Kecamatan,Nama Lengkap,TTL,Alamat,Telepon,Pendidikan,Diangkat,No SK,Jabatan
+1, Ambal,Karangkobar,SUNARSAN,"BANJARNEGARA, 01-04-1966",AMBAL RT 03 RW 01,085135938385,SMA,2017,141/07,KADUS I
+2, Ambal,Karangkobar,ERWANTO,"BANJARNEGARA, 20-01-1997",AMBAL RT 04 RW 02,087863566132,SMA,2018,141/38,KADUS II
+3, Ambal,Karangkobar,RENITA EKA APRILIYANI,"BANJARNEGARA, 27-04-1999",AMBAL RT 02 RW 03,0895392737328,SMA,2020,141/27,KADUS III
+4, Ambal,Karangkobar,UMMU FATHIYAH,"BANJARNEGARA, 11-02-1991",AMBAL RT 01 RW 03,088229771544,S1,2017,141/19,KASI KESRA
+5, Ambal,Karangkobar,BASIR,"BANJARNEGARA, 26-11-1978",AMBAL RT 02 RW 03,085291046215,SMA,2017,141/07,KASI PELAYANAN
+6, Ambal,Karangkobar,ADI PURYANTO,"BANJARNEGARA, 07-02-1981",AMBAL RT 01 RW 01,081325096366,SMA,2017,141/07,KASI PEMERINTAHAN
+7, Ambal,Karangkobar,HERU WAKHIDI WAKHYU AJI,"BANJARNEGARA, 23-12-1973",AMBAL RT 02 RW 01,082136013310,SMA,2017,141/07,KAUR KEUANGAN
+8, Ambal,Karangkobar,NIKMAT,"BANJARNEGARA, 13-09-1993",AMBAL 03 RW 03,082243035174,SMA,2017,141/20,KAUR PERENCANAAN
+9, Ambal,Karangkobar,LELA MAFIROTUN MARTIOWATI,"BANJARNEGARA, 14-03-1994",AMBAL RT 04 RW 02,082220039606,S1,2018,141/39,KAUR TATA USAHA DAN UMUM
+10, Ambal,Karangkobar,SUPRIYANTO,"Banjarnegara, 11-01-1970",AMBAL RT 01 RW 03,085226906670,SMA,2019,141.1/1061,kepala Desa
+11, Ambal,Karangkobar,SETYONO,"BANJARNEGARA, 25-06-1988",AMBAL RT 03 RW 01,082326603667,SMA,2017,141/18,Sekretaris Desa
+12, Ambal,Karangkobar,KHAYATI,"BANJARNEGARA, 14-06-1974",AMBAL RT 02 RW 03,085328656119,SMA,2017,141/07,STAF KAUR TATA USAHA DAN UMUM
+13, Ambal,Karangkobar,SUSWATI,"BANJARNEGARA, 16-02-1988",AMBAL RT 02 RW 03,081229301682,S1,2023,140/75,ANGGOTA BPD
+14, Ambal,Karangkobar,KITRIYO,"BANJARNEGARA, 05-01-1995",AMBAL RT 02 RW 02,-,SLTP,2023,140/75,ANGGOTA BPD
+15, Ambal,Karangkobar,SLAMET SUPRIJANTO,"BANJARNEGARA, 23-04-1970",AMBAL RT 05 RW 03,082133399941,SMA,2023,140/75,ANGGOTA BPD
+16, Ambal,Karangkobar,ANDI YUDIANTO,"BANJARNEGARA, 25-11-2001",AMBAL RT 05 RW 02,089527326401,SMA,2023,140/75,ANGGOTA BPD
+17, Ambal,Karangkobar,ACHMAD SJAIFULLOH,"BANJARNEGARA,14-01-1972",AMBAL RT 02 RW 01,085227453480,S2,2023,140/75,KETUA BPD
+18, Ambal,Karangkobar,SAMENGUN,"BANJARNEGARA, 13-04-1983",AMBAL RT 01 RW 01,081386764459,SLTP,2023,140/75,SEKRETARIS BPD
+19, Ambal,Karangkobar,DEWI SUBANDINI,"KEBUMEN, 15-08-1983",AMBAL RT 01 RW 01,0882003653798,S1,2023,140/75,WAKIL KETUA BPD
+20, Ampelsari,Banjarnegara,MARYONO,BANJARNEGARA 26 JULI 1975,AMPELSARI RT 01 RW 03,081328915935,SLTA,2016,141.3/02/2019,KASI KESEJAHTERAAN
+21, Ampelsari,Banjarnegara,AHMAD JOHAN DIONO,BANJARNEGARA 28 NOVEMBER 1995,AMPELSARI RT 02 RW 05,085799438006,SLTA,2017,Nov-17,KASI PEMERINTAHAN dan PLT  Kadus 5
+22, Ampelsari,Banjarnegara,MISWAN,BANJARNEGARA 25 FEBRUARI 1982,AMPELSARI RT 01 RW 03,082325665696,SLTA,2017,25/2017,KAUR KEUANGAN
+23, Ampelsari,Banjarnegara,WIDI INDARWATI.A.Md,BANJARNEGARA 30 DESEMBER 1991,AMPELSARI RT 05 RW 03,087737726767,DIPLOMA III,2017,24/2017,KAUR PERENCANAAN
+24, Ampelsari,Banjarnegara,SAKIONO,BANJARNEGARA 11 SEPTEMBER 1981,AMPELSARI RT 01 RW 03,085640976391,SLTA,2017,23/2017,KAUR TU DAN UMUM
+25, Ampelsari,Banjarnegara,MIRAH.A.Md,BANJARNEGARA 16 APRIL 2024,AMPELSARI RT 03 RW 03,081945494799,DIII,2024,400.10.2/517/2024,KEPALA DESA
+26, Ampelsari,Banjarnegara,IMAM SUBEKTI,BANJARNEGARA 28 MEI 1976,AMPELSARI RT 03 RW 02,08813772582,SLTA,2016,141.3/23/2016,KEPALA DUSUN DUA
+27, Ampelsari,Banjarnegara,PARDI SANTOSO,BANJARNEGARA 02 MEI 1967,AMPELSARI RT 01 RW 04,085700169051,SLTA,2016,141.3/25/2016,KEPALA DUSUN EMPAT
+28, Ampelsari,Banjarnegara,MUHAMAD KHAMIDI,BANJARNEGARA 22 APRIL 1970,AMPELSARI RT  RW,087761190369,SLTA,2016,141.3/22/2016,KEPALA DUSUN SATU
+29, Ampelsari,Banjarnegara,SUGENG RUSADI,BANJARNEGARA 30 DESEMBER 1974,AMPELSARI RT 03 RW 03,085233305004,SLTA,2016,141.3/24/2016,KEPALA DUSUN TIGA
+30, Ampelsari,Banjarnegara,"MURSINGAH,S.E",BANJARNEGARA 063 FEBRUARI 1983,AMPELSARI RT 03 RW 03,0813917178805,STRARTA I,2016,141.3/02/2019,KEPALA SEKSI PELAYANAN
+31, Ampelsari,Banjarnegara,"KHAFID SOFIAN,S.E","Banjarnegara, 15 November 1983",AMPELSARI RT 03 RW 01,082136945552,STRATA I,2017,Oct-17,sekretaris Desa
+32, Ampelsari,Banjarnegara,SUKIRNO,BANJARNEGARA 19 FEBRUARI 1965,AMPELSARI RT 05 RW 03,088980864084,SLTA,2023,140/943/2023,AMGGOTA
+33, Ampelsari,Banjarnegara,SONIP,BANJARNEGARA 11 AGUSTUS 1977,AMPELSARI RT 03 RW 01,083894910327,SLTA,2023,140/943/2023,ANGGOTA
+34, Ampelsari,Banjarnegara,ALMA NURFIANTI,BANJARNEGARA 17 APRIL 2001,AMPELSARI RT 01 RW 01,082232970040,SLTA,2023,140/943/2023,ANGGOTA
+35, Ampelsari,Banjarnegara,SRI RAHMAWATI,BANJARNEGARA 03 JUNI 1986,AMPELSARI RT 03 RW 05,085712243740,SLTA,2023,140/943/2023,ANGGOTA
+36, Ampelsari,Banjarnegara,LINDA INDIANI,BANJARNEGARA 24 JUNI 1994,AMPELSARI RT 04 RW 05,083112526264,SLTA,2023,140/943/2023,ANGGOTA
+37, Ampelsari,Banjarnegara,AGUS WIDIYANTO,BANJARNEGARA 30 NOVEMBER 1981,AMPELSARI RT 02 RW 04,081385887295,SLTA,2023,140/943/2023,ANGGOTA
+38, Ampelsari,Banjarnegara,"YUSUP,S.Pd.I MPd",BANJARNEGARA 18 APRIL 1980,AMPELSARI RT 04 RW 01,081997341080,STRATA II,2023,140/943/2023,KETUA
+39, Ampelsari,Banjarnegara,GILAR RAHASTI S.Pd,BANJARNEGARA 23 APRIL 1992,AMPELSARI RT 04 RW 02,085728102096,STARATA I,2023,140/943/2023,SEKRETARIS BPD
+40, Ampelsari,Banjarnegara,TRIAN SAPUTRA,BANJARNEGARA 22J ANUARI 1995,AMPELSARI RT 02 RW 03,085896400839,SLTA,2023,140/943/2023,WAKIL KETUA
+41, Aribaya,Pagentan,AGUS FITRI HANDOYO,"Banjarnegara, 6 Agustus 1980",Aribaya RT 02 RW 02,082221509010,SMA,2017,141/13/2017,Kasi Kesejahteraan
+42, Aribaya,Pagentan,RABAN,"Banjarnegara, 5 Maret 1968",Aribaya RT 03 RW 03,082313282458,SMA,2017,141/13/2017,Kasi Pelayanan
+43, Aribaya,Pagentan,Julianto,"Banjarnegara, 10 September 1973",Aribaya RT 03 RW 03,081331878654,SMA,2017,141/13/2017,Kasi Pemerintahan
+44, Aribaya,Pagentan,TULUS SUPRIYANTO,"Banjarnegara, 1 September 1981",Aribaya RT 04 RW 02,081327410101,SMA,2017,141/13/2017,Kaur Keuangan
+45, Aribaya,Pagentan,NUR ABDI,"Banjarnegara, 28 Desember 1980",Aribaya RT 03 RW 04,082313295303,SMA,2017,141/13/2017,Kaur Perencanaan
+46, Aribaya,Pagentan,DWIANTO BOWO NUGROHO,"Banjarnegara, 22 Januari 1982",Aribaya RT 03 RW 01,082133503944,S1,2017,141/13/2017,Kaur Tata Usaha dan Umum
+47, Aribaya,Pagentan,Karyawan Teguh Hudiono,"Banjarnegara, 5 Maret 1968",Aribaya RT 03 RW 01,081228464411,S1,2020,---,Kepala Desa
+48, Aribaya,Pagentan,SLAMET SUPRIYADI,"Banjarnegara, 13 Juni 1977",Aribaya RT 03 RW 01,081391127586,SMA,2017,141/13/2017,Kepala Dusun I
+49, Aribaya,Pagentan,MUNTAKO,"Banjarnegara, 28 April 1972",Aribaya RT 02 RW 02,081393856903,SMA,2017,141/13/2017,Kepala Dusun II
+50, Aribaya,Pagentan,AGUS SETIAWAN,"Banjarnegara, 14 Agustus 1994",Aribaya RT 02 RW 03,0886900079584,SMA,2024,141/13/2024,Kepala Dusun III
+51, Aribaya,Pagentan,HADI MUSTOFA,"Banjarnegara, 5 Oktober 1970",Aribaya RT 03 RW 04,081327495173,SMA,2017,141/13/2024,Kepala Dusun IV
+52, Aribaya,Pagentan,Agus Budianto,"Jepara, 3 Agustus 1984",Aribaya RT 03 RW 03,085227152025,S1,2017,141/13/2017,Sekretaris Desa
+53, Aribaya,Pagentan,GIDI,"Banjarnegara, 1 Februari 1973",Aribaya RT 05 RW 02,081314709748,SMA,2017,141/13/2017,Staf Kasi Pelayanan
+54, Aribaya,Pagentan,UTRIANA SHOFIYULLOH,"Banjarnegara, 15 Maret 1994",Aribaya RT 05 RW 01,085701304494,SMA,2023,140/511/2023,Anggota BPD
+55, Aribaya,Pagentan,SUGINO,"Banjarnegara, 18 Juni 1979",Aribaya RT 05 RW 01,085287182518,SMP,2023,140/511/2023,Anggota BPD
+56, Aribaya,Pagentan,TUSLAM,"Banjarnegara, 6 Agustus 1980",Aribaya RT 04 RW 02,082324367807,SMP,2023,140/511/2023,Anggota BPD
+57, Aribaya,Pagentan,RIDHO MUSTOFA SAPARDI,"Banjarnegara, 15 April 1979",Aribaya RT 03 RW 03,088980328237,SMP,2023,140/511/2023,Anggota BPD
+58, Aribaya,Pagentan,HARYONO,"Banjarnegara, 6 November 1977",Aribaya RT 04 RW 03,085291393430,SMA,2023,140/511/2023,Ketua BPD
+59, Aribaya,Pagentan,FITRIYANI,"Banjarnegara, 13 Oktober 1998",Aribaya RT 02 RW 04,085159297667,SMA,2023,140/511/2023,Sekretaris BPD
+60, Aribaya,Pagentan,UNTUNG SUGIARTO,"Banjarnegara, 15 April 1979",Aribaya RT 02 RW 02,081398222920,SMP,2023,140/511/2023,Wakil Ketua BPD
+61, Asinan,Kalibening,Heru Purwoko,"Banjarnegara, 22 Januari 1980",Asinan Rt 02 Rw 03,081325587322,SLTA,2020,141.1/1041 Tahun 2019,Kepala Desa
+62, Asinan,Kalibening,Lukmi,"Banjarnegara, 13 April 1993",Asinan Rt 04 Rw 01,082328618663,SLTA,2017,141/10/Tahun2017,Kepala Dusun 1 Asinan
+63, Asinan,Kalibening,Mispan Mulyono,"Banjarnegara, 08 Oktober 1970",Asinan Rt 01 Rw 03,081327434852,-,2016,141/12/Tahun2016,Kepala Dusun 2 Asinan
+64, Asinan,Kalibening,Poyo,"Banjarnegara, 03 Desember 1977",Asinan Rt 03 Rw 04 Kecamatan kalibening Kabup0aten Banjarnegara,082135267804,SLTA,2010,141/14/2010,Kepala Dusun 3 Krungrungan
+65, Asinan,Kalibening,warso,"Banjarnegara, 20 Februari 1991",Asinan Rt 02 Rw 01 Kecamatan Kalibening Kabupaten Banjarnegara,081393675233,SLTA,2017,141/10/Tahun2017,Kepala seksi Kesejahteraan
+66, Asinan,Kalibening,Khatim,"Banjarnegara, 08 Maret 1976",Asinan RT 01 Rw 01,082314076522,SLTA,2016,141/12/Tahun2016,Kepala Seksi Pelayanan
+67, Asinan,Kalibening,Handoko,"Banjarnegara, 18 Januari 1977",Asinan RT 004 RW 001,085200292816,SLTA,2018,140/30/Tahun2018,Kepala Seksi Pemerintahan
+68, Asinan,Kalibening,Tuarti,"Banjarnegara, 05 Oktober 1989",Asinan Rt 03 Rw 01,081329357281,SLTA,2017,141/10/Tahun2017,Kepala Urusan Keuangan
+69, Asinan,Kalibening,Fajar sidik,"Banjarnegara, 11 November 1992",Asinan Rt 01 Rw 03,085229215501,SLTA,2017,141/10/Tahun2017,Kepala Urusan Perencanaan
+70, Asinan,Kalibening,Restining Mukti Hayati,"Banjarnegara, 04 November 2001",Asinan Rt 04 Rw 01 Kecamatan Kalibening Kabupaten Banjarnegara,081329873600,SLTA,2021,140/24/Kep/2021,Kepala Urusan Tata Usaha dan Umum
+71, Asinan,Kalibening,anan ngudiono,"Banjarnegara, 09 Juni 1992",Asinan Rt 01 Rw 02 Kecamatan kalibening kabupaten banjarnegara,082324566457,SLTA,2017,141/10/Tahun2017,Sekretaris Desa
+72, Asinan,Kalibening,ADIKO,"Banjarnegara, 02 April 1995",Asinan RT 001 RW 001,082211234102,SLTP,2023,140/948/TAHUN 2023,Anggota
+73, Asinan,Kalibening,SAHRIM,"Banjarnegara, 29 Mei 1988",Asinan RT 002 RW 003,085200292816,SLTP,2023,140/948/TAHUN 2023,Anggota BPD
+74, Asinan,Kalibening,GIYARTI,"Banjarnegara, 29 Mei 1996",Asinan RT 003 RW 003,082252187155,SLTP,2023,140/948/TAHUN 2023,Anggota BPD
+75, Asinan,Kalibening,CARMO ADI KRISTANTO,"Banjarnegara, 08 Oktober 1970",asinan rt 01 rw 02,082138846446,SLTP,2023,140/948/TAHUN 2023,ketua BPD
+76, Asinan,Kalibening,Wastri,Banjarnegara 03 Maret 1991,Asinan Rt 03 Rw 01,081329676415,SLTP,2023,140/948/TAHUN 2023,Sekretaris BPD
+77, Asinan,Kalibening,NIHWAN SUGIYARTO,"Banjarnegara, 07 Juli 1986",Asinan RT 002 RW 004,0823323990378,SLTP,2023,140/948/TAHUN 2023,Wakil ketua BPD
+78, Babadan,Pagentan,Imron,"Banjarnegara, 02-04-1986",Babadan RT 08 RW 03,085329168001,S1,2017,141/ 12 Tahun 2017,Kasi Kesejahteraan
+79, Babadan,Pagentan,TOFIK,"Banjarnegara, 01-01-1977",Babadan RT 02 RW 02,85640706946,SMA,2017,141/ 13 Tahun 2017,Kasi Pelayanan
+80,Babadan,Pagentan,ARIS RIDHO AFAN,"Banjarnegara, 24-10-1987",Babadan RT 04 RW 03,085226191187,D3,2017,141/ 11 Tahun 2017,Kasi Pemerintahan
+81, Babadan,Pagentan,Sulastri,"Banjarnegara, 21-11-1970",Babadan RT 02 RW 01,+62 821-3420-6263,SMA,2017,141/ 15/ Tahun 2017,Kaur Keuangan
+82, Babadan,Pagentan,Nuraliana,"Banjarnegara, 24-08-1996",Babadan RT 02 RW 03,08562820596,SMA,2017,141/ 77 / 2017,Kaur Perencanaan
+83, Babadan,Pagentan,Yudiniah,"Banjarnegara, 12-02-1966",Babadan RT 02 RW 01,082138703777,SMA,2017,141/ 20/ Tahun 2017,KAUR TU dan Umum
+84, Babadan,Pagentan,TURAHMAN,"Banjarnegara,29-10-1968",Babadan RT 03 RW 02,+62 813-2847-8224,SMA,2019,141.1/1120 Tahun 2019,Kepala Desa
+85, Babadan,Pagentan,Pangadiono,"Banjarnegara, 08-03-1976",Babadan RT 03 RW 01,+62 821-3578-5260,SMP,2017,141/ 16/ Tahun 2017,Kepala Dusun 1
+86, Babadan,Pagentan,Sukar,"Banjarnegara, 16-09-1972",Babadan RT 02 RW 02,+62 853-2959-7335,SMA,2008,141/ 17/ Tahun 2017,Kepala Dusun 2
+87, Babadan,Pagentan,Paimin,"Banjarnegara, 29-08-1983",Babadan RT 07 RW 03,+62 813-8627-1262,SMA,2013,141/ 18/ Tahun 2017,Kepala Dusun 3
+88, Babadan,Pagentan,Supriyadi,"Banjarnegara, 09-11-2001","Babadan, RT 01 RW 04",+62 815-7562-8881,SMA,2021,141/ 41 Tahun 2021,Kepala Dusun 4
+89, Babadan,Pagentan,Wanto,"Banjarnegara, 24-10-1991",Babadan RT 02 RW 05,+62 852-9226-5552,SMA,2013,141/ 19/ Tahun 2017,Kepala Dusun 5
+90, Babadan,Pagentan,Sarti,"Banjarnegara, 30-06-1991",Babadan RT 04 RW 03,085657069207,D3,2017,141/ 76/ 2017,Sekretaris Desa
+91, Babadan,Pagentan,Haryati,"Banjarnegara, 06-12-1994",Babadan RT 03 RW 03,+62 857-1242-0311,SMP,2023,140/ 1491 Tahun 2023,Anggota
+92, Babadan,Pagentan,Fajar Didi Yudiwan,"Banjarnegara, 23-03-1998",Babadan RT 03 RW 01,00000000000,SMA,2023,140/ 1491 Tahun 2023,Anggota
+93, Babadan,Pagentan,Sukirman,"Banjarnegara, 02-09-2001",Babadan RT 01 RW 04,00000000000,SMP,2023,140/ 1491 Tahun 2023,Anggota
+94, Babadan,Pagentan,Santoso,"Banjarnegara, 28-09-2002",Babadan RT 02 RW 05,+62 857-9928-65151,SMP,2023,140/ 1491 Tahun 2023,Anggota
+95, Babadan,Pagentan,Septiyanto Wahyu Pratama,"Banjarnegara, 30-09-1998",Babadan RT 01 RW 02,+62 822-2574-3363,SLTA,2023,140/ 1491 Tahun 2023,Ketua BPD
+96, Babadan,Pagentan,Akoyuono,"Banjarnegara, 22-12-1985",Babadan RT 03 RW 03,+62 857-0041-3829,SMA,2023,140/ 1491 Tahun 2023,Sekretaris BPD
+97, Babadan,Pagentan,Tino,"Banjarnegara, 24-06-1997",Babadan RT 02 RW 02,000000000000,SMP,2023,140/1491 Tahun 2023,Wakil Ketua
+98, Badakarya,Punggelan,Hari Styawan,"Banjarnegara, 01 Oktober 1995",Badakarya RT 02 RW 03,082134562306,SLTA/Sederajat,2017,141/15 Tahun 2017,Kasi Kesejahteraan
+99, Badakarya,Punggelan,Rosy Maelany Kisti,"Banjarnegara, 13 Mei 1996",Badakarya RT 03 RW 01,085869179919,D3,2021,141.1/40 Tahun 2021,Kasi Pelayanan
+100, Badakarya,Punggelan,Heny Khelida,"Banjarnegara, 31 januari 1989",Badakarya RT 02 RW 01,085640031567,D3,2025,141.31/15 Tahun 2025,Kasi Pemerintahan
+101, Badakarya,Punggelan,Suprihatiningsih,"Banjarnegara, 16 Oktober 1984",Badakarya RT 02 RW 03,085867294818,S1,2021,141.1/39 Tahun 2021,Kaur Keuangan
+102, Badakarya,Punggelan,Fajar Purnomosidi,"Banjarnegara, 10 Mei 1987",Badakarya RT 03 RW 04,085877999974,S1,2017,141/15 Tahun 2017,Kaur Perencanaan
+103, Badakarya,Punggelan,Bowo Tri Jatmiko,"Banjarnegara, 01 Mei 1982",Badakarya RT 02 RW 02,083839419351,S1,2021,141.1/38 Tahun 2021,Kaur TU dan Umum
+104, Badakarya,Punggelan,Umar,"Banjarnegara, 19 Agustus 1960",Badakarya RT 02 RW 01,081327705521,SLTA,2019,141.1/1095 Tahun 2019,Kepala Desa
+105, Badakarya,Punggelan,Mahidi,"Banjarnegara, 6 Juni 1978",Badakarya RT 02 RW 02,081393541384,Paket C / SLTA / Sederajat,2023,141.1/23 Tahun 2023,Kepala Dusun I
+106, Badakarya,Punggelan,Khasan,"Banjarnegara, 29 januari 1975",Badakarya RT 02 RW 04,085647737063,Paket C / SLTA / Sederajat,2018,141/26 Tahun 2018,Kepala Dusun II
+107, Badakarya,Punggelan,Akhmad,"Banjarnegara, 27 Juni 1966",Badakarya RT 03 RW 08,085219301151,SLTA,2016,141/24 Tahun 2016,Kepala Dusun III
+108, Badakarya,Punggelan,Afidin David Wijaya,"Banjarnegara, 20 Januari 1970",Badakarya RT 01 RW 09,082337200270,SLTA,2016,141/24 Tahun 2016,Kepala Dusun IV
+109, Badakarya,Punggelan,Edi Susanto,"Banjarnegara, 23 Desember 1976",Badakarya RT 01 RW 03,082265410053,SLTA,2018,141/15 Tahun 2018,Kepala Dusun V
+110, Badakarya,Punggelan,Supriyadi,"Banjarnegara, 02 Oktober 1975",Badakarya RT 03 RW 04,085329039259,SLTA,2018,141/26 Tahun 2018,Sekretaris Desa
+111, Badakarya,Punggelan,Bagas Kuadin,"Banjarnegara, 29 Juni 1992",Badakarya RT 02 RW 03,08,SLTA,2024,400.10.2/23 Tahun 2024,Anggota BPD
+112, Badakarya,Punggelan,Sachadi,"Banjarnegara, 10 Mei 1970",Badakarya RT 02 RW 05,088227968150,SLTP,2024,400.10.2/23 Tahun 2024,Anggota BPD
+113, Badakarya,Punggelan,Nursamsi,"Banjarnegara, 01 April 1968",Badakarya RT 01 RW 06,082311815009,SLTA,2024,400.10.2/23 Tahun 2024,Anggota BPD
+114, Badakarya,Punggelan,Mardiyanto,"Banjarnegara, 09 Oktober 1983",Badakarya RT 01 RW 02,085875563103,S1,2024,400.10.2/1290 Tahun 2024,Anggota BPD
+115, Badakarya,Punggelan,Yuniati,"Banjarnegara, 21 Agustus 1992",Badakarya RT 03 RW 08,085600358405,Paket C,2024,400.10.2/23 Tahun 2024,Anggota BPD
+116, Badakarya,Punggelan,Mujiono,"Banjarnegara, 03 Oktober 1986",Badakarya RT 01 RW 10,088220148302,SLTP,2024,400.10.2/23 Tahun 2024,Anggota BPD
+117, Badakarya,Punggelan,"Dr. Karsono, S.Pd.I, M.M.","Banjarnegara, 28 September 1967",Badakarya RT 02 RW 04,082136725889,S3,2024,400.10.2/23 Tahun 2024,Ketua BPD
+118, Badakarya,Punggelan,"Yusup, S.pd.I","Banjarnegara, 02 Mei 1981",Badakarya RT 03 RW 08,085710449016,S1,2024,400.10.2/23 Tahun 2024,Sekretaris BPD
+119, Badakarya,Punggelan,"Rusmanto, S.Pd. SD.","Banjarnegara, 08 Februari 1960",Badakarya RT 01 RW 01,085647810736,S1,2024,400.10.2/23 Tahun 2024,Wakil Ketua BPD
+120, Badamita,Rakit,AKHMAD MUKODAR,"Banjarnegara, 02 Juni 1982","RT.01/RW.02 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",083890431555,SMA,2022,141.3/23 tahun 2022,Kasi Kesejahteraan
+121, Badamita,Rakit,YU'MAN HADIYO,"Banjarnegara, 16 Agustus 1965","RT.05/RW.04 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082145140304,SMA,2017,141.3/01 tahun 2017,Kasi Pelayanan
+122, Badamita,Rakit,"LAELAWATI, SE","Banjarnegara, 04 November 1983","RT.05/RW.01 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",085310539543,S1,2017,141.3/01 tahun 2017,Kasi Pemerintahan
+123, Badamita,Rakit,ISFIYANTO,"Magelang, 17 Maret 1985","RT.04/RW.04 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",085200448158,SMA,2022,141.3/23 tahun 2022,Kaur Keuangan
+124, Badamita,Rakit,TOIFAH,"Banjarnegara, 05 April 1982","RT.03/RW.02 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",081327389247,SMA,2017,141.3/01 tahun 2017,Kaur Tata Usaha &amp; Umum
+125, Badamita,Rakit,RAHMATULLOH,"Banjarnegara, 04 Desember 1974","RT.05/RW.04 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082145140304,SMA,2019,141.1/ 1064 tahun 2019,Kepala Desa
+126, Badamita,Rakit,RUSMADI,"Banjarnegara, 16 Januari 1968","RT.05/RW.05 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",085703535958,SLTP,2017,141.3/01 tahun 2017,Kepala Dusun
+127, Badamita,Rakit,TOHIRON,"Banjarnegara, 28 Juli 1980","RT.01/RW.02 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",081353491860,SMA,2017,141.3/01 tahun 2017,Kepala Dusun
+128, Badamita,Rakit,SURATMAN,"Banjarnegara, 11 Juni 1966","RT.04/RW.03 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",081391147703,SLTP,1999,141.3/01 tahun 1999,Kepala Dusun
+129, Badamita,Rakit,"SUPRI HADI PRAYITNO, S.Pd","Banjarnegara, 12 Desember 1978","RT.02/RW.04 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",085229004054,S1,2018,141.3/18 tahun 2018,Sekretaris Desa
+130, Badamita,Rakit,SUTIYONO,"Jepara, 03 April 1966","RT.04/RW.02 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",0,SLTP,2017,141.3/01 tahun 2017,Staff Kasi Pelayanan
+131, Badamita,Rakit,TUHYONO,"Baanjarnegara, 31 Desember 1967","RT.03/RW.03 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082133804279,SLTP,2017,141.3/01 tahun 2017,Staff Kasi Pemerintahan
+132, Badamita,Rakit,SLAMET WARDOYO,"Baanjarnegara, 18 Juni 1970","RT.05/RW.01 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",083842824649,SMA,2017,141.3/01 tahun 2017,Staff Kaur Keuangan
+133, Badamita,Rakit,AHMAD YUSUF,"Banjarnegara, 05 Juni 1969","RT.01/RW.02 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082117056866,S1,2023,140/1136 Tahun 2023,Anggota
+134, Badamita,Rakit,"UMAR SAID, SH","Banjarnegara,  15 November 1968","RT.05/RW.03 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",081226729677,S1,2023,140/1136 Tahun 2023,Anggota
+135, Badamita,Rakit,RADI,"Banjarnegara, 03 Mei 1981","RT.03/RW.05 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",0852234354666,SLTP,2023,140/1136 Tahun 2023,Anggota
+136, Badamita,Rakit,TRI YUNARNI,"Baanjernegara, 09 Februari 1972","RT.01/RW.01 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082265062216,SMA,2023,140/1136 Tahun 2023,Anggota
+137, Badamita,Rakit,HADIMAN,"Banjarnegara, 14 Agustus 1967","RT.04/RW.04 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",081225934274,SMA,2023,140/1136 Tahun 2023,Anggota
+138, Badamita,Rakit,IMAM BUDIYANTO,"Baanjarnegara, 21 Agustus 1972","RT.05/RW.01 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",087777742142,SMA,2023,140/1136 Tahun 2023,Anggota
+139, Badamita,Rakit,"JOKO PRAYITNO, S.Sos","Banjarnegara, 08 Agustus 1964","RT.02/RW.02 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082133015139,S1,2023,140/1136 Tahun 2023,Ketua BPD
+140, Badamita,Rakit,"AGUS SUSANTO, S.Pd","Banjarnegara, 13 Agustus 1983","RT.01/RW.05 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",085227769740,S1,2023,140/1136 Tahun 2023,Sekretaris BPD
+141, Badamita,Rakit,"RISWAN, A.Ma","Banjarnegara, 07 Juli 1943","RT.03/RW.04 Desa Badamita, Kec. Rakit, Kab. Banjarnegara",082145140304,D2,2023,140/1136 Tahun 2023,Wakil Ketua BPD
+142, Bakal,Batur,MUSLIM,"Banjarnegara, 31 Januari 1978",Bakal RT 02 RW 01,'082135399500,SMA,2017,141/020/Tahun 2017,Kadus 1 Bakal Wetan
+143, Bakal,Batur,AHYAUDIN,"Banjarnegara, 30 Oktober 1970",Bakal RT 02 RW 02,085201717717,SMA,2017,141/014/Tahun 2017,Kadus 2 Bakal Kulon
+144, Bakal,Batur,SLAMET WIDODO,"Banjarnegara, 21 Februari 1981",Bakal RT 02 RW 03,082322061974,S1,2017,141/021/Tahun 2017,Kadus 3 Buntu
+145, Bakal,Batur,MADKHURODIN,"Banjarnegara, 01Januari 1963",Bakal RT 01 RW 01,085326946582,SMP,2019,141.1/940 Tahun 2019,Kepala Desa
+146, Bakal,Batur,MARTOYO,"Banjarnegara, 05 Januari 1981",Bakal RT 01 RW 01,085327252767,SMP,2017,141/019/Tahun 2017,Kepala Seksi Kesejahteraan
+147, Bakal,Batur,MUHAIL,"Banjarnegara, 1 April 1977",Bakal RT 03 RW 02,085227655222,SMP,2017,141/012/Tahun 2017,Kepala Seksi Pelayanan
+148, Bakal,Batur,AHMAD FATHULLOH,"Banjarnegara, 17 Maret 1968",Bakal RT 02 RW 01,082330122551,SMP,2017,141/011/Tahun 2017,Kepala Seksi Pemerintahan
+149, Bakal,Batur,DIANA PUSPA DEWI,"Semarang, 30 Mei 1996",Bakal RT 04 RW 01,'081225484954,S1,2017,141/016/Tahun 2017,Kepala Urusan  TU dan Umum
+150, Bakal,Batur,MUASIFAH,"Banjarnegara, 20 April 1977",Bakal RT 01 RW 03,'082241402684,D2,2017,141/017/Tahun 2017,Kepala Urusan Keuangan
+151, Bakal,Batur,MUHAMMAD SUTRISNO,"Banjarnegara, 15 Maret 1982",Bakal RT 04 RW 03,'082225231980,SMA,2017,141/018/Tahun 2017,Kepala Urusan Perencanaan
+152, Bakal,Batur,LUKMAN ROSID,"Banjarnegara, 01 Juni 1988",Bakal RT 02 RW 02,082232279641,SMA,2017,141/015/Tahun 2017,Sekertaris Desa
+153, Bakal,Batur,NAJMUDIN,"Banjarnegara, 04 Februari 1973",Bakal RT 04 RW 03,081392154979,SMP,2017,141/013/Tahun 2017,Staf Kasi Pelayanan
+154, Bakal,Batur,Naufal Daffa Hibatulloh,"Banjarnegara, 24 April 1996",Bakal RT 01 RW 03,083867595022,SMA,2024,400.10.2/182 TAHUN 2024,Anggota BPD
+155, Bakal,Batur,Ilham Kusuma Abi,"Banjarnegara, 02 Januari 1997",Bakal RT 02 RW 02,082243724325,S1,2024,400.10.2/182 TAHUN 2024,Anggota BPD
+156, Bakal,Batur,Zuhrotun Najihah,"Banjarnegara, 16 Oktober 1998",Bakal RT 01 RW 01,085387727477,SMA,2024,400.10.2/182 TAHUN 2024,Anggota BPD
+157, Bakal,Batur,Ismiyatun,"Banjarnegara, 03 Juli 1984",Bakal RT 03 RW 03,082334142643,SMA,2024,400.10.2/182 TAHUN 2024,Anggota BPD
+158, Bakal,Batur,Ade Ariawan,"Banjarnegara, 27 Mei 1993",Bakal RT 01 RW 01,085956449487,S1,2024,400.10.2/182 TAHUN 2024,Ketua BPD
+159, Bakal,Batur,Nafa Rahma Mahayun Afiyantarina,"Banjarnegara, 15 November 1998",Bakal RT 01 RW 02,085770568249,S1,2024,400.10.2/182 TAHUN 2024,Sekretaris BPD
+160, Bakal,Batur,Dani Safitri,"Banjarnegara, 23 Februari1996",Bakal RT 04 RW 02,081391655585,SMA,2024,400.10.2/182 TAHUN 2024,Wakil Ketua BPD
+161, Bandingan,Bawang,FARIDA RAHMAWATI,"BANJARNEGARA, 30 JANUARI 1986",BANDINGAN RT.03 RW.02 DESA BANDINGAN KEC. BAWANG,082138231533,SMA,2018,141.3/34 TAHUN 2018,KASI KESEJAHTERAAN
+162, Bandingan,Sigaluh,AHLA ADI PRASETYO,"Wonosobo, 02 Juli 1991",Bandingan RT 03 RW 01,088216271826,SMK,2025,141/11 Tahun 2025,Kasi Kesejahteraanj
+163, Bandingan,Rakit,SARWONO,"Banjarnegara, 09 Pebruari 1969",Rt 04 Rw 05 Desa Bandingan,085328748357,SLTA,2018,141.3/16/2018,Kasi Kesra
+164, Bandingan,Rakit,ISWATUN KHASANAH,"Banjarnegara, 03 Oktober 1995",Rt 02 Rw 04 Desa Bandingan,085601718979,SLTA,2018,143.3/16/2018,Kasi Pelayanan
+165, Bandingan,Sigaluh,LISTIYANI DIAN ISTININGRUM,"Banjarnegara, 11 Desember 1977",Bandingan RT 03 RW 01,088801998852,D3,2024,141/20  Tahun 2024,Kasi Pelayanan
+166, Bandingan,Bawang,ARI SRI MURWATI,"BANJARNEGARA, 15 JANUARI 1980",BANDINGAN RT.04 RW.01 DESA BANDINGAN KEC. BAWANG,081391721686,SMA,2016,141.3/33 TAHUN 2016,KASI PELAYANAN
+167, Bandingan,Sigaluh,LILIEK LISTYARINI,"Banjarnegara, 04 Oktober 1978",Bandingan RT 03 RW 01,082327164491,S1,2017,141/10 Tahun 2017,Kasi Pemerintahan
+168, Bandingan,Rakit,MAHIRO WINOTO,"Banjarnegara, 06 Desember 1971",Rt 02 Rw 04 Desa Bandingan,085701058789,SLTA,2017,141/01/2017,Kasi Pemerintahan
+169, Bandingan,Bawang,MAKHIDIN,"BANJARNEGARA, 7 JULI 1989",BANDINGAN RT.02 RW.02 DESA BANDINGAN KEC. BAWANG,085229989846,SMA,2019,141.3/27 TAHUN 2019,KASI PEMERINTAHAN
+170, Bandingan,Sigaluh,SUGIYATI,"Bandingan, 13 Desember 1969",Bandingan RT 03 R 01,08122712675,SMK,2017,141/06 Tahun 2017,Kaur Keuangan
+171, Bandingan,Rakit,ENDON SUNARTI,"Banjarnegara, 11 Maret 1971",Rt 01 Rw 01 Desa Bandingan,085700583013,SLTA,2017,141/01/2017,Kaur Keuangan
+172, Bandingan,Bawang,INTI FAUZIA CAROLINA,"BANJARNEGARA, 3 AGUSTUS 1985",BANDINGAN RT.02 RW.02 DESA BANDINGAN KEC. BAWANG,081329396688,S2,2018,141.3/32 TAHUN 2018,KAUR KEUANGAN
+173, Bandingan,Rakit,SURATNO,"Banjarnegara, 14 April 1967",Rt 03 Rw 03 Desa Bandingan,0856527947,SLTA,2017,141/01/2017,Kaur Perencanaan
+174, Bandingan,Bawang,ANIS SETYAWATI,"BANJARNEGARA, 12 AGUSTUS 1985",BANDINGAN RT.05 RW.02 DESA BANDINGAN KEC. BAWANG,082220323762,S1,2016,141.3./37 TAHUN 2016,KAUR PERENCANAAN
+175, Bandingan,Sigaluh,NUR KHOLIS,"Banjarnegara, 28 April 1975",Bandingan RT 04 RW 02,082220970665,SMA,2017,141/07 Tahun 2017,Kaur Perencanaan
+176, Bandingan,Rakit,MASLIM,"Banjarnegara, 10 oktober 1968",Rt 02 Rw 04 Desa Bandingan,085727936052,SLTA,2018,141.3/16/2018,Kaur Tu &amp; Umum
+177, Bandingan,Bawang,MUHAMAD CHAFIZH,"BANJARNEGARA, 17 JUNI 1968",BANDINGAN RT.01 RW.01 DESA BANDINGAN KEC. BAWANG,081392352197,SMA,2016,141.3/35 TAHUN 2016,KAUR TU &amp; UMUM
+178, Bandingan,Sigaluh,TRIMO SANTOSO,"Banjarnegara, 14 Desember 1984",Bandingan RT 10 RW 01,085141637336,SMK,2017,141/05 Tahun 2017,Kaur TU dan Umum
+179, Bandingan,Rakit,"YUNUS SUTOYO, SPdI","Banjarnegara, 16 Juni 1969",Rt 03 Rw 01 Desa Bandingan,087728795715,S1,2017,141/01/2017,Kawil Dusun 1
+180, Bandingan,Rakit,SARAS WATI,"Banjarnegara, 24 Maret 1992",Rt 01 Rw 03 Desa Bandingan,085702297429,SLTA,2022,141.3/28/DS-Bdg/2022,Kawil Dusun 3
+181, Bandingan,Rakit,RASWAN,"Banjarnegara, 17 Desember 1967",Rt 02 Rw 05 Desa Bandingan,085741483764,SLTA,2017,141/01/2017,Kawil Dusun 5
+182, Bandingan,Bawang,NURUL HASTUTI CANDRA DESINTA,"BANJARNEGARA, 28 DESEMBER 1988",BANDINGAN RT.01 RW.01 DESA BANDINGAN KEC. BAWANG,08112925050,S1,2025,400.10.2/570 TAHUN 2024,KEPALA DESA
+183, Bandingan,Rakit,WAHITO,"Banjarnegara, 17 April 1980",RT.01 RW.04 Desa Bandingan,085201191100,SLTA,2019,141.1/1099/2019,Kepala Desa
+184, Bandingan,Sigaluh,SLAMET FIANTO,"Banjarnegara, 04 Januari 1983",Bandingan RT 02 RW 01 Kec. Sigaluh,085227227222,SMK,2021,141.1/775 Tahun 2021,Kepala Desa
+185, Bandingan,Bawang,BAGAS SURYA PRAMANA,"BANJARNEGARA, 14 AGUSTUS 1992",BANDINGAN RT.05 RW.01 DESA BANDINGAN KEC. BAWANG,089652507501,SMA,2022,141.32/34/TAHUN 2022,KEPALA DUSUN I
+186, Bandingan,Sigaluh,M. ROSYID RIDHO,"Banjarnegara, 03 November 1990",Bandingan RT 11 RW 01,082325010988,SMA,2024,141/20 Tahun 2024,Kepala Dusun I
+187, Bandingan,Bawang,IMAM FAUZI,"BANJARNEGARA, 15 FEBRUARI 1997",BANDINGAN RT.01 RW.02 DESA BANDINGAN KEC. BAWANG,081328354421,S1,2022,141.32/35/TAHUN 2022,KEPALA DUSUN II
+188, Bandingan,Sigaluh,MUHAMMAD NASIKHUN,"Banjarnegara, 04 Februari 1966",Bandingan RT 04 RW 02,087755107563,SMP,2017,141/09 Tahun 2017,Kepala Kadus II
+189, Bandingan,Rakit,SLAMET RIYADI,"Banjarnegara, 06 Juni 1986",Rt 05 Rw 05 Desa Bandingan,082367220962,SLTA,2018,141.3/16/2018,Sekdes
+190, Bandingan,Bawang,AGUS HERIYANTO,"BANJARNEGARA, 17 AGUSTUS 1980",BANDINGAN RT.01 RW.02 DESA BANDINGAN KEC. BAWANG,085227988122,SMA,2017,141.3/23/KEP/ TAHUN 2017,SEKRETARIS DESA
+191, Bandingan,Sigaluh,WIDI LASMONO,"Banjarnegara, 11 Mei 1994",Bandingan RT 02 RW 01 Kec. Sigaluh,085326723003,S1,2017,141/17 Tahun 2017,Sekretaris Desa
+192, Bandingan,Rakit,SIRODJUDIN,"Banjarnegara, 11 Juni 1971",Rt 03 Rw 01 Desa Bandingan,082367220962,SLTA,2017,141/01/2017,Staf Kasi Kesra
+193, Bandingan,Rakit,KHAFIFUDIN,"Banjarnegara, 11 Agustus 1985",Rt 01 Rw 01 Desa Bandingan,082323607500,SLTP,2017,141/01/2017,Staf Kasi Pelayanan
+194, Bandingan,Bawang,MOHAMAD KHAMIM,"BANJARNEGARA, 31 AGUSTUS 1977",BANDINGAN RT.01 RW.02 DESA BANDINGAN KEC. BAWANG,085225289453,SMA,2016,141.3/38 TAHUN 2016,STAF KASI PELAYANAN
+195, Bandingan,Rakit,Suhadi,"Banjarnegara, 05 Maret 1967",Rt 02 Rw 01 Desa Bandingan,085279712777,S1,2023,400.10.2/1074 TAHUN 2024,Anggota
+196, Bandingan,Rakit,"Rikhayatun , S.Pd, AUD","Banjarnegara, 02 Maret 1984",Rt 01 Rw 04 Desa Bandingan,088226869657,S1,2023,400.10.2/1074 TAHUN 2024,Anggota
+197, Bandingan,Rakit,Tugimin,"Banjarnegara, 06 Juli 1976",Rt 04 Rw 02 Desa Bandingan,082367220962,SLTA,2023,400.10.2/1074 TAHUN 2024,Anggota
+198, Bandingan,Rakit,Prihatiningsih,"Banjarnegara, 22 Oktober 2003",Rt 01 Rw 03 Desa Bandingan,081227193670,SLTA,2023,400.10.2/1074 TAHUN 2024,Anggota
+199, Bandingan,Sigaluh,ADI PURWANTO,"Banjarnegara, 30 Juli 1974",Bandingan RT 03 RW 01,085219022868,SMK,2023,140/1311 Tahun 2023,ANGGOTA BPD
+200, Bandingan,Sigaluh,SLAMET ARIBOWO,"Banjanegara, 06 Desenber 1986",Bandingan RT 09 RW 01,083195412250,SMP,2023,140/1311 Tahun 2023,ANGGOTA BPD
+201, Bandingan,Sigaluh,PARMAN,"Wonosobo, 09 Mei 1979",Bandingan RT 09 RW 01,081318480583,SMK,2023,140/1311 Tahun 2023,ANGGOTA BPD
+202, Bandingan,Sigaluh,SABARWATI,"Wonosobo, 10 November 1996",BANDINGAN RT 06 RW 01,085726870820,SMA,2023,140/1311 Tahun 2023,ANGGOTA BPD
+203, Bandingan,Bawang,WIDODO,"BANJARNEGARA, 2 FEBRUARI 1985",BANDINGAN RT.05 RW.02 DESA BANDINGAN KEC. BAWANG,081325539828,S1,2023,140/883/TAHUN 2023,KEPALA BIDANG 1&amp;3
+204, Bandingan,Bawang,PURSITAH,"BANJARNEGARA, 18 MARET 1957",BANDINGAN RT.02 RW.02 DESA BANDINGAN KEC. BAWANG,085643067593,S1,2023,140/883/TAHUN 2023,KEPALA BIDANG 2&amp;4
+205, Bandingan,Bawang,USMAN,"BANJARNEGARA, 27 SEPTEMBER 1955",BANDINGAN RT.01 RW.02 DESA BANDINGAN KEC. BAWANG,081392454443,S1,2023,140/883/TAHUN 2023,KETUA
+206, Bandingan,Rakit,Sakhadi,"Banjarnegara, 16 Agustus 1972",Rt 03 Rw 04 Desa Bandingan,085741408342,SLTP,2023,400.10.2/1074 TAHUN 2024,Ketua
+207, Bandingan,Sigaluh,Y. GANI MAHENDRA F,"Banjarnegara, 08 Juni 1977",Bandingan RT 04 RW 02,082135801378,SMK,2023,140/1311 Tahun 2023,KETUA BPD
+208, Bandingan,Bawang,EDI SARWANTO NUGROHO PUTRO,"PURBALINGGA, 7 FEBRUARI 1968",BANDINGAN RT.02 RW.01 DESA BANDINGAN KEC. BAWANG,085291754853,SMA,2023,140/883/TAHUN 2023,SEKRETARIS
+209, Bandingan,Rakit,Leli Kabul Laelawati,"Banjarnegara, 19 Agustus 1996",Rt 01 Rw 05 Desa Bandingan,085713610008,SLTA,2023,141.3/28/DS-Bdg/2022,Sekretaris
+210, Bandingan,Sigaluh,OFI INDRAYANI,"Banjarnegara, 23 Oktober 1987",Bandinggan RT 01 RW 02,085113377788,S1,2023,140/1311 Tahun 2023,Sekretaris BPD
+211, Bandingan,Rakit,"Achmad Solehudin Basir, ST","Banjarnegara, 05 Nopember 1998",Rt 04 Rw 01 Desa Bandingan,085540325606,S1,2023,400.10.2/1074 TAHUN 2024,Wakil Ketua
+212, Bandingan,Bawang,MUKHAMAD SUSENO,"BANJARNEGARA, 23 APRIL 1962",BANDINGAN RT.04 RW.01 DESA BANDINGAN KEC. BAWANG,08985159710,SMA,2023,140/883/TAHUN 2023,WAKIL KETUA
+213, Bandingan,Sigaluh,ASMUNI,"Airbagi, 24 Juli 1967",Bandingan RT 03 RW 02,083145558617,S1,2023,140/1311 Tahun 2023,Wakil Ketua BPD
+214, Banjarkulon,Banjarmangu,Hudi,"Banjarnegara, 11 November 1964",Desa Banjarkulon RT 03 RW 03,081391074647,SLTP,2019,400.10.2/842/2024,Kepala Desa
+215, Banjarkulon,Banjarmangu,Maryono,"Banjarnegara, 27 Agustus 1965",Desa Banjarkulon RT 02 RW 01,081329517767,SLTA,2022,141.30/51/KEP/2022,Kepala Dusun 01
+216, Banjarkulon,Banjarmangu,Akbar Ridho Supangat,"Banjarnegara, 02 Juli 1990",Desa Banjarkulon RT 03 RW 02,082134552352,Strata 1,2018,141.31/59/KEP/2018,Kepala Dusun 02
+217, Banjarkulon,Banjarmangu,Arif Hidayat,"Banjarnegara, 23 Juli 1980",Desa Banjarkulon RT 04 RW 03,081326370760,SLTA,2018,141.32/60/KEP/2018,Kepala Dusun 03
+218, Banjarkulon,Banjarmangu,Defi Fitri Purwati,"Banjarnegara, 11 Mei 1987",Desa Banjarkulon RT 02 RW 03,081285138922,SLTA,2018,141.30/58/KEP/2018,Kepala Seksi Kesejahteraan
+219, Banjarkulon,Banjarmangu,Suci Fitriana,"Banjarnegara, 16 April 1991",Desa Banjarkulon RT 03 RW 01,081287955951,SLTA,2021,141.30/41/KEP/2021,Kepala Seksi Pelayanan
+220, Banjarkulon,Banjarmangu,Amanudin,"Banjarnegara, 01 Oktober 1973",Desa Banjarkulon RT 03 RW 01,052329071629,SLTA,2021,141.31/31/KEP/2021,Kepala Seksi Pemerintahan
+221, Banjarkulon,Banjarmangu,Anteng Setiawan,"Banjarnegara, 19 November 1988",Desa Banjarkulon RT 03 RW 01,081391930838,Diploma III,2024,414.3/42/09.2002/2024,Kepala Urusan Keuangan
+222, Banjarkulon,Banjarmangu,Syarif Nur Razali,"Banjarnegara, 14 Juli 1983",Desa Banjarkulon RT 04 RW 02,082226925894,SLTA,2024,414.3/41/09.2002/2024,Kepala Urusan Tata Usaha dan Umum
+223, Banjarkulon,Banjarmangu,Wisnu Sutopo,"Grobogan, 14 November 1971",Desa Banjarkulon RT 03 RW 03,081226882161,Strata 1,2018,141.31/40/KEP/2018,Sekretaris Desa
+224, Banjarkulon,Banjarmangu,Surityo,"Banjarnegara, 11 November 1964",Desa Banjarkulon RT 04 RW 03,082322132725,SLTA,2016,411.2/22/2016,Staf Kepala Seksi Kesejahteraan
+225, Banjarkulon,Banjarmangu,Vitra Atiek Wijayanty,"Banjarnegara, 24 Juli 1997",Desa Banjarkulon RT 04 RW 03,085227647776,Strata 1,2023,140/1528/2023,Anggota BPD
+226, Banjarkulon,Banjarmangu,M. Farid Hasan,"Banjarnegara, 17 Juni 1972",Desa Banjarkulon RT 01 RW 01,081215314224,Strata 1,2023,140/1528/2023,Anggota BPD
+227, Banjarkulon,Banjarmangu,Budi Arif Hasan,"Banjarnegara, 10 Mei 1978",Desa Banjarkulon RT 03 RW 02,081327317887,Strata 1,2023,140/1528/2023,Anggota BPD
+228, Banjarkulon,Banjarmangu,Haryanto,"Kulonprogo, 19 September 1957",Desa Banjarkulon RT 04 RW 01,085292870366,SLTA,2023,140/1528/2023,Anggota BPD
+229, Banjarkulon,Banjarmangu,Siswandi,"Banjarnegara, 12 Februari 1963",Banjarkulon RT 02 RW 01,085227945939,SLTP,2023,140/1528/2023,Ketua BPD
+230, Banjarkulon,Banjarmangu,Uni Harminah,"Banjarnegara, 08 September 1984",Desa Banjarkulon RT 02 RW 02,085227931932,Strata 1,2023,140/1528/2023,Sekretaris BPD
+231, Banjarkulon,Banjarmangu,Toto Yugo Prasetyo,"Banjarnegara, 08 Maret 1965",Desa Banjarkulon RT 02 RW 03,085225659324,Strata 1,2023,140/1528/2023,Wakil Ketua BPD
+232, Banjarmangu,Banjarmangu,"NURUL HILAL EKO PRAYITNO, S.IP","BANJARNEGARA, 21 FEBRUARI 1974",Banjarmangu RT 004 RW 001,082328183818,S1,2019,141.1/2023 Tahun 2019,KEPALA DESA
+233, Banjarmangu,Banjarmangu,WAKHYONO,"BANJARNEGARA, 14-05-1979",BANJARMANGU RT 003 RW 001,082220618113,SLTA,2024,141/12 Tahun 2024,KEPALA DUSUN 1
+234, Banjarmangu,Banjarmangu,NASRULLAH,"BANJARNEGARA, 17-09-1973",BANJARMANGU RT 003 RW 002,085327222533,SLTA,2016,141/12 Tahun 2016,KEPALA DUSUN 2
+235, Banjarmangu,Banjarmangu,BUDI CAHYONO,"BANJARNEGARA, 12-11-1985",BANJARMANGU RT 002 RW 003,085227887731,D2,2024,141/12 Tahun 2024,KEPALA DUSUN 3
+236, Banjarmangu,Banjarmangu,RIWAN,"BANJARNEGARA, 10-02-1972",BANJARMANGU RT 001 RW 003,081327181288,SLTA,2016,141/12 Tahun 2016,KEPALA SEKSI KESEJAHTERAAN
+237, Banjarmangu,Banjarmangu,KIQI SUCI STYANINGSIH,"BANJARNEGARA, 25-05-1992",BANJARMANGU RT 005 RW 004,085842796061,D3,2024,141/12 Tahun 2024,KEPALA SEKSI PELAYANAN
+238, Banjarmangu,Banjarmangu,WIYANTI,"BANJARNEGARA, 14-03-1982",BANJARMANGU RT 001 RW 001,085226710820,S1,2024,141/12 Tahun 2024,KEPALA SEKSI PEMERINTAHAN
+239, Banjarmangu,Banjarmangu,BANGUN RIZQI ANUGRAH,"BANJARNEGARA, 04 MEI 1992",BANJARMANGU RT 004 RW 001,085747157486,SLTA,2024,141/12 Tahun 2024,KEPALA URUSAN KEUANGAN
+240, Banjarmangu,Banjarmangu,AHMAD HADI SUKAMTO,"BANJARNEGARA, 18-11-1968",BANJARMANGU RT 005 RW 001,08122629665,SLTA,2016,141/12 Tahun 2016,KEPALA URUSAN PERENCANAAN
+241, Banjarmangu,Banjarmangu,JULISTIA NURANINGSIH,"BANJARNEGARA, 05-07-1998",BANJARMANGU RT 001 RW 001,082333037944,SLTA,2024,141/12 Tahun 2024,KEPALA URUSAN TATA USAHA DAN UMUM
+242, Banjarmangu,Banjarmangu,EDI JOKO SUSANTO,"BANJARNEGARA, 06-10-1976",BANJARMANGU RT 005 RW 004,085292407330,SLTA,2017,141/10 TAHUN 2017,SEKRETARIS DESA
+243, Banjarmangu,Banjarmangu,EKO WIDAGDO,"BANJARNEGARA, 02-01-1971",BANJARMANGU RT 005 RW 001,082326848420,SLTA,2016,141/12 Tahun 2016,STAF KEPALA SEKSI KESEJAHTERAAN
+244, Banjarmangu,Banjarmangu,ANIK PURWANING AYU,"BANJARNEGARA, 14-10-1993",BANJARMANGU RT 002 RW 003,081215698846,SLTA,2024,141/12 Tahun 2024,STAF KEPALA SEKSI PEMERINTAHAN
+245, Banjarmangu,Banjarmangu,MUKHLIS,"SUKOHARJO, 13 NOVEMBER 1978",BANJARMANGU RT 01 RW 02,08818615476,S1,2024,400.10.2/1074 TAHUN 2024,KETUA BPD
+246, Banjarmangu,Banjarmangu,ZAENI AHMAD RIDHO,"Banjarnegara, 16 April 1994",BANJARMANGU RT 04 RW 03,082220241864,S1,2024,400.10.2/1074 TAHUN 2024,SEKRETARIS BPD
+247, Banjarmangu,Banjarmangu,BUDIYADI,"Banjarnegara, 03 Januari 1971",BANJARMANGU RT 01 RW 01,081393620677,S2,2024,400.10.2/1074 TAHUN 2024,WAKIL KETUA
+248, Banjengan,Mandiraja,MISWANTO,"Banjarnegara, 26 Maret 1986",Desa Banjengan RT 002 RW 002,08895602565,SMA,2017,140/20/2017,Kasi Kesejahteraan
+249, Banjengan,Mandiraja,RAGIL AGUS PRIANTO,"Banjarnegara, 17 Agustus 1987",Desa Banjengan RT 003 RW 003,085867100387,S1,2023,142/51 Tahun 2023,Kasi Pelayanan
+250, Banjengan,Mandiraja,UMIYATI,"Banjarnegara, 11 Agustus 1974",Desa Banjengan RT 001 RW 002,082136363719,S1,2008,11 Tahun 2016,Kasi Pemerintahan
+251, Banjengan,Mandiraja,DESI UTAMI,"Banjarnegara, 27 Desember 1987",Desa Banjengan RT 001 RW 001,085291234957,D3,2017,140/20/2017,Kaur Keuangan
+252, Banjengan,Mandiraja,UUS MUTOFIK,"Banjarnegara, 21 April 1982",Desa Banjengan RT 004 RW 003,085867403318,SMA,2005,11 Tahun 2016,Kaur Perencanaan
+253, Banjengan,Mandiraja,SIPIN SUWARTO,"Banjarnegara, 21 Juni 1981",Desa Banjengan RT 001 RW 001,088226364888,SMA,2006,11 Tahun 2016,Kaur TU dan Umum
+254, Banjengan,Mandiraja,NYOTO,"Banjarnegara, 23 Mei 1971",Desa Banjengan RT 001 RW 002,08121341480,SMA,2019,400.10.2/944 Tahun 2024,Kepala Desa
+255, Banjengan,Mandiraja,KARWAN,"Banjarnegara, 01 Desember 1966",Desa Banjengan RT 004 RW 001,081252639927,SMA,1990,11 Tahun 2016,Kepala Dusun 1
+256, Banjengan,Mandiraja,SAYUN,"Banjarnegara, 21 Mei 1967",Desa Banjengan RT 002 RW 002,085601504467,SMA,2002,11 Tahun 2016,Kepala Dusun 2
+257, Banjengan,Mandiraja,FIA OKTANINGSIH,"Banjarnegara, 19 Oktober 1997",Desa Banjengan RT 002 RW 001,081228633494,D3,2018,140/26/XII/2018,Sekretaris Desa
+258, Banjengan,Mandiraja,MAHFUL,"Banjarnegara, 11 Oktober 1977",Desa Banjengan RT 002 RW 003,085700584957,SMA,2010,141/11 Tahun 2016,Staf Kasi Kesejahteraan
+259, Banjengan,Mandiraja,ASWIN,"Banjarnegara, 17 Agustus 1976",Desa Banjengan RT 003 RW 001,083851117091,SMA,2023,400.10.2/1074 Tahun 2024,Anggota
+260, Banjengan,Mandiraja,SARYONO,"Banjarnegara, 15 Juni 1978",Desa Banjengan RT 004 RW 003,087761192062,SMA,2023,400.10.2/1074 Tahun 2024,Anggota
+261, Banjengan,Mandiraja,SODIKIN,"Banjarnegara, 10 Oktober 1976",Desa Banjengan RT 002 RW 001,082136881040,SMA,2023,400.10.2/1074 Tahun 2024,Anggota
+262, Banjengan,Mandiraja,DESI YULIAWAN,"Banjarnegara, 16 Desember 1988",Desa Banjengan RT 001 RW 003,085600403768,SMA,2023,400.10.2/1074 Tahun 2024,Anggota
+263, Banjengan,Mandiraja,SARKIM,"Banjarnegara, 11 Juli 1964",Desa Banjengan RT 003 RW 003,085328247919,SMA,2023,400.10.2/1074 Tahun 2024,Ketua BPD
+264, Banjengan,Mandiraja,IJAH BAROKAH,"Banjarnegara, 14 Januari 1994",Desa Banjengan RT 004 RW 003,085705052058,SMA,2023,400.10.2/1074 Tahun 2024,Sekretaris BPD
+265, Banjengan,Mandiraja,ARIS WARDOYO,"Banjarnegara, 24 Oktober 1988",Desa Banjengan RT 001 RW 001,085227729823,S1,2023,400.10.2/1074 Tahun 2024,Wakil Ketua BPD
+266, Bantar,Wanayasa,Zulfary Arif,"Banjarnegara,",Bantar RT 001 RW 002,082328206353,S1,2019,-,Kasi Kesejahteraan
+267, Bantar,Wanayasa,Asrori,"Banjarnegara,",Bantar RT 001 RW 001,082134133962,SMA,2019,-,Kasi Pelayanan
+268, Bantar,Wanayasa,Sarwan,"Banjarnegara,",Bantar RT 00 RW 003,082143840329,SMA,2019,-,Kasi Pemerintahan
+269, Bantar,Wanayasa,Teguh Bansori,"Banjarnegara,",Bantar RT 002 RW 001,-,SMA,2019,-,Kaur Keuangan
+270, Bantar,Wanayasa,Ardi Cahyono,"Banjarnegara,",Bantar RT 001 RW 001,085222942380,DII,2019,-,Kaur Perencanaan
+271, Bantar,Wanayasa,Eko Purwanto,"Banjarnegara,",Bantar RT 005 RW 001,-,SMA,2019,-,Kaur TU dan Umum
+272, Bantar,Wanayasa,Eko Purwanto,"Banjarnegara,",Bantar RT 001 RW 002,085212531748,SMA,2019,-,Kepala Desa
+273, Bantar,Wanayasa,Admin,"Banjarnegara,",Bantar RT 004 RW 001,-,SMA,2019,-,Kepala Dusun 1
+274, Bantar,Wanayasa,Dirga Fradika,"Banjarnegara,",BANTAR RT 01 RW 002,082219440192,S1,2019,-,Kepala Dusun 2
+275, Bantar,Wanayasa,Supadi,"Banjarnegara,",Bantar RT 00 RW 001,085291828116,SMA,2019,-,Kepala Dusun 3
+276, Bantar,Wanayasa,Nurcholis,"Banjarnegara,",Bantar RT 00 RW 003,082327428789,S1,2019,-,Sekretaris Desa
+277, Bantar,Wanayasa,Muchibun,"Banjarnegara,",Bantar RT 001 RW 001,08,S1,2023,-,Anggota
+278, Bantar,Wanayasa,Siti Jazilah,"Banjarnegara,",Bantar RT 005 RW 001,08,SLTA,2023,-,Anggota
+279, Bantar,Wanayasa,Ismail,"Banjarnegara,",Bantar RT 00 RW 003,08,S1,2023,-,Anggota
+280, Bantar,Wanayasa,Alfi K,"Banjarnegara,",Bantar RT 001 RW 001,08,S1,2023,-,Anggota
+281, Bantar,Wanayasa,TTri Wahyningtyas,"Banjarnegara,",Bantar RT 005 RW 001,08,S1,2023,-,Anggota
+282, Bantar,Wanayasa,Kusyanti,"Banjarnegara,",Bantar Rt 002 RW 002,08,SMA,2023,-,Anggota
+283, Bantar,Wanayasa,Supardi,"Banjarnegara,",Bantar RT 00 RW 003,08,S1,2023,-,Ketua
+284, Bantarwaru,Madukara,MARYANTO,"Banjarnegara, 19 April 1972",Desa Bantarwaru RT 01 RW 01,085601605477,SLTA,2021,141/12 TAHUN 2021,KADUS I
+285, Bantarwaru,Madukara,MURTAFINGAH,"Banjarnegara, 05 Februari 1967",Desa Bantarwaru RT 01 RW 02,082313200773,SLTA,2017,141/01 TAHUN 2017,KADUS II
+286, Bantarwaru,Madukara,MUHAMMAD MAHFUDZ,"Banjarnegara, 17 Agustus 1975",Desa Bantarwaru RT 02 RW 03,082133770707,SLTA,2018,141/16 TAHUN 2018,KADUS III
+287, Bantarwaru,Madukara,SITI JUWAEDAH JAMIL,"Banjarnegara, 11 April 1986",Desa Bantarwaru RT 03 RW 04,081327474732,S1,2024,41/02/Ds.BTW TAHUN 2024,KADUS IV
+288, Bantarwaru,Madukara,SOFANUL HIDAYAT,"Banjarnegara, 11 Desember 1979",Desa Bantarwaru RT 01 RW 05,082133501800,SLTA,2017,141/1 TAHUN 2017,KADUS V
+289, Bantarwaru,Madukara,ACHMAD WACHJULLOH,"Banjarnegara, 27 Agustus 1976",Desa Bantarwaru RT 03 RW 01,081327404608,SLTA,2021,141/12 TAHUN 2021,KASI KESEJAHTERAAN
+290, Bantarwaru,Madukara,FIRDA ISDIYANTO,"Banjarnegara, 21 Agustus 1994",Desa Bantarwaru RT 01 RW 02,082243387798,S1,2024,41/01/Ds.BTW/TAHUN 2024,KASI PELAYANAN
+291, Bantarwaru,Madukara,RIA ASTRIANA,"Banjarnegara, 17 November 1988",Desa Bantarwaru RT 01 RW 02,082313484333,SLTA,2018,141/16/ TAHUN 2018,KASI PEMERINTAHAN
+292, Bantarwaru,Madukara,DENI YUDISTIRA,"Banjarnegara, 09 Juni 1982",Desa Bantarwaru RT 03 RW 05,081327718112,S1,2017,141/14 TAHUN 2017,KAUR KEUANGAN
+293, Bantarwaru,Madukara,ARISTIYANTO,"Banjarnegara, 18 Desember 1982",Desa Bantarwaru RT 02 RW 04,083856792559,SLTA,2023,40//023/Ds.BTW/TAHUN 2023,KAUR PERENCANAAN
+294, Bantarwaru,Madukara,MUSLIKHATUL LAELIYAH,"Banjarnegara, 11 Maret 1968",Desa Bantarwaru RT 01 RW 03,081311284799,SLTA,2017,141/01TAHUN 2017,KAUR TU DAN UMUM
+295, Bantarwaru,Madukara,ROKHADI,"Banjarnegara, 04 Oktokber 1963",Desa Bantarwaru RT 01 RW 05,082310964655,SLTA,2024,400.10.2/578 tahun 2024,KEPALA DESA
+296, Bantarwaru,Madukara,"NGAFIFUDIN,SH","Banjarnegara, 01 April 1978",Desa Bantarwaru RT 01 RW 03,081327780055,S1,2017,141/09 TAHUN 2017,SEKRETARIS DESA
+297, Bantarwaru,Madukara,"MARJONO, A.Md.","Banjarnegara, 18 Mei 1948",Desa Bantarwaru RT 03 RW 02,081393096252,D 1,2023,140/782 TAHUN 2023,ANGGOTA BPD
+298, Bantarwaru,Madukara,ERFAN UTOMO,"Banjarnegara, 25 April 1989",Desa Bantarwaru RT 01 RW 04,082138265474,SLTA,2023,140/782 TAHUN 2023,ANGGOTA BPD
+299, Bantarwaru,Madukara,YUNITO,"Banjarnegara, 07 September 1972",Desa Bantarwaru RT 01 RW 01,089673393641,SLTA,2023,140/782 TAHUN 2023,ANGGOTA BPD
+300, Bantarwaru,Madukara,TOYIBIN,"Banjarnegara, 07 Oktokber 1978",Desa Bantarwaru RT 01 RW 05,085227043318,SLTA,2023,140/782 TAHUN 2023,ANGGOTA BPD
+301, Bantarwaru,Madukara,"ERYANTO ARIF,SS.MM","Banjarnegara, 20 Mei 1972",Desa Bantarwaru RT 01 RW 03,082281648853,S 2,2023,140/782 TAHUN 2023,KETUA BPD
+302, Bantarwaru,Madukara,"KARMILA ISNAENI RAHMA, S.A.P.","Banjarnegara, 27 Mei 2000",Desa Bantarwaru RT 03 RW 01,081392472809,S1,2023,140/782 TAHUN 2023,SEKRETARIS BPD
+303, Bantarwaru,Madukara,"HIDAYAT WIDIYANTO, S.Pd. SD","Banjarnegara, 19 Oktokber 1983",Desa Bantarwaru RT 01 RW 03,085291290852,S 2,2023,140/782 TAHUN 2023,WAKIL KETUA BPD
+304, Batur,Batur,TRI RIYADI,"Banjarnegara, 14 Juni 1989","Batur, RT 02 RW 09",085228041045,S1,2024,141/013/2024,Kasi Kesejahteraan
+305, Batur,Batur,SRI RAHAYU,"Banjarnegara, 28 April 1978","Batur, RT 02 RW 08",085226393506,SMA,2017,141/013/2017,Kasi Pelayanan
+306, Batur,Batur,NANANG MAULANA,"Banjarnegara, 24 April 1989","Batur, RT 06 RW 01",085729762598,S1,2018,141/035/2018,Kasi Pemerintahan
+307, Batur,Batur,HARTATI,"Banjarnegara, 28 Juni 1978","Batur, RT 01 RW 04",085291047300,SMA,2017,141/014/2017,Kaur Keuangan
+308, Batur,Batur,MAYA UTAMI,"Banjarnegara, 21 Maret 1991","Batur, RT 05 RW 03",085642609689,SMA,2024,141/013/2024,Kaur Perencanaan
+309, Batur,Batur,AHMAD NANDRI JAUHAR FUADI,"Banjarnegara, 08 Pebruari 1996","Batur, RT 04 RW 03",085154031621,S1,2024,141/014/2024,Kaur TU dan Umum
+310, Batur,Batur,AHMAD FAUZI,"Banjarnegara, 15 September 1980","Batur, RT 06 RW 03",085291156336,S1,2019,141.1/941 Tahun 2019,Kepala Desa
+311, Batur,Batur,ASKOLANI HERI HARJITO,"Banjarnegara, 08 Desember 1973",Batur RT 01 RW 07,082226837508,SMA,2017,141./023/2017,Kepala Dusun Bakalan
+312, Batur,Batur,NURYADI,"Banjarnegara, 21 April 1966",Batur RT 01 RW 12,085226606791,SMP,2017,141./028/2017,Kepala Dusun Bandingan
+313, Batur,Batur,SUBARKAH,"Banjarnegara, 27 September 1965","Batur, RT 04 RW 01",081228748443,SMA,2017,141/017/2017,Kepala Dusun Batur Kidul
+314, Batur,Batur,MH CHOIRUL UMAM,"Banjarnegara, 05 Oktober 1984","Batur, RT 06 RW 03",082241654228,S1,2024,141/018/2024,Kepala Dusun Batur Lor
+315, Batur,Batur,HARYANTO,"Banjarnegara, 23 Juni 1969","Batur, RT 03 RW 02",085227346029,SMA,2017,141/018/2017,Kepala Dusun Batur Tengah
+316, Batur,Batur,AHMAD MUFTAROM,"Banjarnegara, 06 Agustus 1989",Batur RT 06 RW 04,082325257228,SMA,2024,141./017/2024,Kepala Dusun Bujangsari
+317, Batur,Batur,NUR WAHYUDIN FITRIYANTO,"Banjarnegara, 27 Juli 1981",Batur RT 02 RW 06,082241266491,D2,2017,141./022/2017,Kepala Dusun Jlegong
+318, Batur,Batur,HADIYONO,"Banjarnegara, 16 Juli 1971",Batur RT 02 RW 10,085227701959,SMP,2017,141./026/2017,Kepala Dusun Kalianget
+319, Batur,Batur,TRIYONO,"Banjarnegara, 21 Juni 1989",Batur RT 01 RW 09,085869192674,SMA,2021,141./023/2021,Kepala Dusun Karanganyar
+320, Batur,Batur,ZAENAL ARIFIN,"Banjarnegara, 11 Agustus 1967",Batur RT 03 RW 11,082243696873,SD,2017,141./027/2017,Kepala Dusun Majatengah
+321, Batur,Batur,FAJAR SETIYADI,"Banjarnegara, 24 September 1980",Batur RT 01 RW 08,081578778113,S1,2021,141./022/2021,Kepala Dusun Purwajiwa
+322, Batur,Batur,KHOMSIN,"Banjarnegara, 02 Nopember 1978",Batur RT 02 RW 05,085867973167,SMP,2017,141./021/2017,Kepala Dusun Tieng
+323, Batur,Batur,MANIDI,"Banjarnegara, 31 Desember 1967",Batur RT 01 RW 13,081329809798,SMP,2017,141./029/2017,Kepala Dusun Tlagabang
+324, Batur,Batur,SETIYADI,"Banjarnegara, 16 Pebruari 1972","Batur, RT 06 RW 01",082227232444,S1,2018,141/018/2018,Sekretaris Desa
+325, Batur,Batur,MUSYARIFAH,"Banjarnegara, 06 Mei 1997",Batur RT 04 RW 04,082242431143,SMA,2024,400.10.2/181 Tahun 2024,Anggota
+326, Batur,Batur,AZIZ MUTAQIN,"Banjarnegara, 18 April 1986",Batur RT 09 RW 03,085226513772,SMA,2024,400.10.2/181 Tahun 2024,Anggota
+327, Batur,Batur,AFKI MUFTOFIKIN,"Banjarnegara, 12 Oktober 1999",Batur RT 03 RW 09,085839121140,SMA,2024,400.10.2/181 Tahun 2024,Anggota
+328, Batur,Batur,"SAYU DWIKY KASUMA, A.Md.Kep","Banjarnegara, 21 Juli 1995",Batur RT 06 RW 01,085868454551,D3,2024,400.10.2/181 Tahun 2024,Anggota
+329, Batur,Batur,YUSMADI,"Banjarnegara, 01 Pebruari 1980",Batur RT 01 RW 05,081567938351,SMP,2024,400.10.2/181 Tahun 2024,Anggota
+330, Batur,Batur,AHMAT SAIFUDIN,"Ponorogo, 23 Mei 1985",Batur RT 02 RW 02,082322066520,SMA,2024,400.10.2/181 Tahun 2024,Ketua BPD
+331, Batur,Batur,"DWI RAHAYU WIDIYATI, S.Pd","Banjarnegara, 05 Juli 1989",Batur RT 02 RW 06,085227735035,S1,2024,400.10.2/181 Tahun 2024,Sekretaris BPD
+332, Batur,Batur,SLAMET NI’MATULLOH,"Banjarnegara, 22 Mei 1978",Batur RT 03 RW 11,082328613605,SMP,2024,400.10.2/181 Tahun 2024,Wakil Ketua
+333, Bawang,Bawang,AFIF NURDIN,"BANJARNEGARA, 01 April 1968",Bawang RT 3 RW 1 Kecamatan Bawang Banjarnegara,081391464565,SLTA,2017,141.1/10/TAHUN 2017,KADUS I
+334, Bawang,Bawang,DIDI AKBAR KUNCAHYO,BANJARNEGARA 02 Agustus 1987,Bawang RT 2 RW 3 Kecamatan Bawang Banjarnegara,085227799909,D III,2019,141.1/38 TAHUN 2019,KADUS II
+335, Bawang,Bawang,NUHADI,BANJARNEGARA 27 Mei 1984,Bawang RT 4 RW 2 Kecamatan Bawang Banjarnegara,089653408895,SLTA,2022,141.1/32 TAHUN 2022,KASI KESRA
+336, Bawang,Bawang,SAEFULLOH ROHMANUDIN,BANJARNEGARA 04 Desember 1988,Bawang RT 2 RW 2 Kecamatan Bawang Banjarnegara,082217367173,D III,2021,141.3/51 TAHUN 2021,Kasi Pelayanan
+337, Bawang,Bawang,YULI SETYOWATI,"BANJARNEGARA, 17 Juli 1975",Bawang RT 1 RW 4 Kecamatan Bawang Banjarnegara,082136117748,D III,2019,141/14/ TAHUN 2019,KASI PEMERINTAHAN
+338, Bawang,Bawang,AGIN SELFIAN DEVIYANUS,BANJARNEGARA 24 September 1986,Bawang RT 4 RW 5 Kecamatan Bawang Banjarnegara,081390806070,S1,2021,141.3/48 TAHUN 2021,Kaur Keuangan
+339, Bawang,Bawang,SYA’BANI AGUNG PRABOWO,BANJARNEGARA 30 Maret 1988,Bawang RT 1 RW 2 Kecamatan Bawang Banjarnegara,085228082026,S1,2021,141.3/50 TAHUN 2021,Kaur UMUM dan TU
+340, Bawang,Bawang,GALIH PURWANDARU,"Banjarnegara, 24 Januari 1987",Bawang RT 4 RW 5 Kecamatan Bawang Banjarnegara,085292829241,SLTA,2019,141.1/992 TAHUN 2019,Kepala Desa
+341, Bawang,Bawang,NUR KHAYATI,"Banjarnegara, 4 Juni 1078",Bawang RT 3 RW 2 Kecamatan Bawang Banjarnegara,081326761032,SLTA,2019,141/13/ TAHUN 2019,Sekretaris Desa
+342, Bawang,Bawang,WALUYO EDI SUJARWO,"Banjarnegara, 19 Mei 1966",Bawang RT 1 RW 2 Kecamatan Bawang Banjarnegara,081226712444,S1,2023,140 / 884 / 2023,Anggota
+343, Bawang,Bawang,MUHARIYANTO,"Ngawi, 09  September  1974",Bawang RT 1 RW 5 Kecamatan Bawang Banjarnegara,081327547780,S1,2023,140 / 884 / 2023,Anggota
+344, Bawang,Bawang,SUGINO PURNOMO,"Klaten, 30 Juni 1976",Bawang RT 5 RW 3 Kecamatan Bawang Banjarnegara,085878242109,S1,2023,140 / 884 / 2023,Anggota
+345, Bawang,Bawang,M.Dedy Ariyanto,"Banjarnegara, 01 Desember 1984",Bawang RT 3 RW 1 Kecamatan Bawang Banjarnegara,08980723017,SLTA,2023,140 / 884 / 2023,Anggota
+346, Bawang,Bawang,SIDIK WIBOWO AHMAD,"Banjarnegara, 13 Juli 1975",Bawang RT 2 RW 5 Kecamatan Bawang Banjarnegara,081327013412,S3,2023,140 / 884 / 2023,Ketua
+347, Bawang,Bawang,DIAN TRISNAWATI,"Banjarnegara, 26 September 1987",Bawang RT 2 RW 5 Kecamatan Bawang Banjarnegara,085642651330,SLTA,2023,140 / 884 / 2023,Sekretaris
+348, Bawang,Bawang,JOKO SUNARNO,"Magelang, 27  Maret  1966",Bawang RT 4 RW 3 Kecamatan Bawang Banjarnegara,081328720962,D III,2023,140 / 884 / 2023,Wakil Ketua
+349, Bedana,Kalibening,DARYANTO,"Banjarnegara, 02- 05 - 1986",Bedana RT 02 RW 01,082133502411,SMA,2020,141/ 31  TAHUN 2020,Kasi Kesra
+350, Bedana,Kalibening,WURANTO,"Banjarnegara, 12 - 02 - 1970",Bedana RT 01 RW 03,081329363793,SMP,2017,141.17/10/2017,Kasi Pelayanan
+351, Bedana,Kalibening,SUHEB,"Banjarnegara, 03 - 05 - 1973",Bedana RT 02 RW 01,082216615946,SMA,2017,141.17/10/2017,Kasi Pemerintahan
+352, Bedana,Kalibening,TARYO,"banjarnegara, 23 - 09 - 1992",Bedana RT 02 RW 03,082220916465,SMA,2017,141.17/11 tahun 2017,kaur keuangan
+353, Bedana,Kalibening,TUSMANTO,"Banjarnegara, 26 - 10 - 1988",Bedana RT 01 RW 03,082225201395,SMA,2021,141/05/2021,Kaur Perencanaan
+354, Bedana,Kalibening,RINANTO,"Banjarnegara, 7 juli 1967",Bedana RT 01 RW 01,081548418545,SMA,2017,141.17/10/2017,Kaur TU &amp; Umum
+355, Bedana,Kalibening,DIYARTI,"Banjarnegara, 09 - 11 - 1990",Bedana RT 02 RW 02,085777488285,SMP,2023,140/938 Tahun 2023,Anggota BPD
+356, Bedana,Kalibening,WARDINAH,"Banjarnegara, 24 - 10 - 1987",Bedana RT 02 RW 03,082223319921,SMA,2023,140/938 Tahun 2023,Anggota BPD
+357, Bedana,Kalibening,RASKO,"Banjarnegara, 22 - 12 - 1981",BEDANA RT 01 RW 01,083874104167,SMP,2023,140/938 Tahun 2023,Ketua BPD
+358, Bedana,Kalibening,LILI DWI LESTARI,"Banjarnegara, 30 - 04 - 1993",Bedana RT 02 RW 03,081329360616,SMA,2023,140/938 Tahun 2023,Sekretaris BPD
+359, Bedana,Kalibening,RUSMAN,"Banjarnegara, 29 - 08 - 1983",Bedana RT 03 RW 02,085776056650,SMA,2023,140/938 Tahun 2023,Wakil Ketua BPD
+360, Beji,Pandanarum,MUJIANTO,"Banjarnegara, 07 Januari 1992",Beji RT 02 Rt 02,082322965118,SMA,2018,141/53/2018,KADUS 1
+361, Beji,Pejawaran,MAHYAT,"Banjarnegara, 6 Mei 1968",BEJI RT 01 RW 01,085123638518,SMA,2017,140/01/2017,kadus 1
+362, Beji,Pejawaran,MISWAN,"Banjarnegara, 22 April 1982",BEJI RT 5 RW 3,082220783733,SMA,2017,140/01/2017,kadus 2
+363, Beji,Pandanarum,KARDI,"Banjarnegara, 26 September 1971",BEJI RT 02 RW 03,081391189544,SMA,2016,141/34.6/2016,KADUS 2
+364, Beji,Pandanarum,SETIA WIDADI,"Banjarnegara, 11 November 1996",Beji Rt 01 Rw 04,082300084135,SMA,2020,141/25.2/2020,KADUS 3
+365, Beji,Pejawaran,IKHWAN,"Banjarnegara, 25 Desember 1975",BEJI RT 8 RW 4,081936838215,SMA,2017,140/01/2017,KADUS 3
+366, Beji,Pandanarum,DANANG KURNIAWAN SUTANTO,"Banjarnegara, 02 Januari 1977",Beji RT 01 Rw 05,085226718518,SMA,2016,141/34.8/2016,KADUS 4
+367, Beji,Banjarmangu,AL KHOBIR,"Banjarnegara, 04 MEI 1978",BEJI RT 001 RW 002,082136013244,SMA,2016,141/12/TAHUN 2016,KASI KESEJAHTERAAN
+368, Beji,Pandanarum,SUWIGNYO,"Banjarnegara, 18 Juni 1973",Beji Rt 04 Rw 01,085226969675,SMA,2016,141/34.1/2016,Kasi Kesejahteraan
+369, Beji,Pejawaran,YUSUF,"Banjarnegara,29 Oktober 1996",BEJI RT 8 RW 4,08225179939,SMA,2019,141/27/2019,kasi kesejahteraan
+370, Beji,Pandanarum,ROKIB,"Banjarnegara, 16 Mei 1970",BEJI RT 01 RW 03,081326344167,SMA,2016,141/34.2/2016,Kasi Pelayanan
+371, Beji,Pejawaran,NUR FIYATUL FITRIYANI,"Banjarnegara, 19 Januari 1999",BEJI RT 01 RW 01,081297440856,SMA,2019,141/29/2019,KASI PELAYANAN
+372, Beji,Banjarmangu,NUR HIDAYAT,"Banjarnegara, 22 Maret 1988",BEJI RT 002 RW 002,082133805755,SMA,2017,141.32/12 TAHUN 2017,KASI PELAYANAN
+373, Beji,Banjarmangu,BUKTIANTO,"Banjarnegara, 23 Oktober 1988",BEJI RT 002 RW 001,081393556845,SMA,2022,141.1/30/KEP/2022,KASI PEMERINTAHAN
+374, Beji,Pejawaran,SARMAN,"Banjarnegara,17 Desember 1998",BEJI RT 6 RW 3,082144128813,SMA,2019,141/28/2019,kasi pemerintahan
+375, Beji,Pandanarum,SRI UTAMI,"Banjarnegara, 16 Mei 1992",Beji RT 04 Rw 01,08122674116,SMA,2016,141/34.9/2016,Kasi Pemerintahan
+376, Beji,Pejawaran,RASIDI,"Banjarnegara, 12 Februari 1972",BEJI RT 4 RW 2,085326049985,SMP,2017,140/01/2017,KAUR KEUANGAN
+377, Beji,Banjarmangu,EFUDIN,"Banjarnegara, 17 Februari1982",BEJI RT 002 RW 001,085290890091,SMA,2016,141/12/TAHUN 2016,KAUR KEUANGAN
+378, Beji,Pandanarum,DIAN ARYANTO,"Sragen, 17 November 1990",Beji RT 01 Rw 05,085229844424,SMA,2017,141/25.1/2017,Kaur Keuangan
+379, Beji,Banjarmangu,SLAMET SUBEKTI,"Banjarnegara, 17 Maret1971",BEJI RT 004 RW 001,081393770058,SMA,2016,141/12/TAHUN 2016,KAUR PERENCANAAN
+380, Beji,Pandanarum,ARIF HIDAYAT,"Banjarnegara, 05 Desember 1993",Beji Rt 01 Rw 05,082245455569,SMA,2020,141/25.1/2020,Kaur Perencanaan
+381, Beji,Pejawaran,NUR LUTIANINGSIH,"Banjarnegara,19 Maret 1992",BEJI RT 01 RW 01,082314120895,SMA,2018,141/20/2018,KAUR PERENCANAAN
+382, Beji,Pejawaran,ZAETUN,"Banjarnegara, 12 April 1974",BEJI RT 6 RW 3,081359267252,SMA,2017,140/01/2017,KAUR TU &amp; UMUM
+383, Beji,Pandanarum,KADIS,"Banjarnegara, 13 Maret 1972",BEJI RT 04 RW  01,081393938088,SMA,2016,141/34.4/2016,Kaur TU dan Umum
+384, Beji,Pandanarum,SUPENI,"Banjarnegara, 28/11/1978",Beji RT 01 Rw 05,082224195397,SMA,2019,141.1/1049/2019,Kepala Desa
+385, Beji,Banjarmangu,NYANA,"Banjarnegara, 12 April 1981",BEJI RT 004 RW 001,085200298211,SMP,2019,141.1/1026 TAHUN 2019,KEPALA DESA
+386, Beji,Pejawaran,HARTOMO,"Banjarnegara , 10 Maret 1982",BEJI RT 3 RW 2,087767732721,SMA,2025,400.10.2/91,KEPALA DESA
+387, Beji,Banjarmangu,MOHAMMAD ANTON RIYADI,"Banjarnegara, 10 Juni 1986",BEJI RT 004 RW 002,081391682120,SMA,2023,141.1/46/KEP/2023,KEPALA DUSUN
+388, Beji,Banjarmangu,MUKODIM,"Banjarnegara, 23 Mei1983",BEJI RT 002 RW 003,085293644774,SMA,2021,141.1/39/KEP/2021,KEPALA DUSUN
+389, Beji,Banjarmangu,RIAN WAHYU PRATAMA,"Banjarnegara, 21 November1992",BEJI RT 004 RW 001,085191882686,SMA,2020,141.1/38/KEP/2020,KEPALA DUSUN
+390, Beji,Banjarmangu,KHAMDAN SAPRIYANA,"Banjarnegara, 09 Desember1981",BEJI RT 001 RW 001,081226764534,S1,2017,141.32/12 TAHUN 2017,SEKRETARIS DESA
+391, Beji,Pandanarum,ARIFIN,"Banjarnegara, 13 Mei 1985",BEJI RT 02 RW 03,085227449340,SMA,2016,141/35/2016,Sekretaris Desa
+392, Beji,Pejawaran,KIRNO,"Banjarnegara , 10 Maret 1977",BEJI RT 4 RW 2,081392316633,SMA,2018,141/19/2018,SEKRETARIS DESA
+393, Beji,Pandanarum,YULIAH,"Banjarnegara,  20 Desember 1987",Beji Rt 01 Rw 01,085291757067,SMA,2024,400.10.2/1074 TAHUN 2024,Anggota
+394, Beji,Banjarmangu,SOIMAH,"Banjarnegara, 23 November 1987",beji Rt 004 Rw 001,081225267901,SMP,2023,140/1394 Tahun 2023,Anggota
+395, Beji,Banjarmangu,ATIK INDRUYANTI,"Banjarnegara, 07 Juli 1990",Beji Rt 001 Rw 001,085156487470,S1,2023,140/1394 Tahun 2023,Anggota
+396, Beji,Banjarmangu,EKO SAPUTRO,"Banjarnegara, 24 Juli 1997",Beji Rt 03 Rw 03,085227407006,SMA,2023,140/1394 Tahun 2023,Anggota
+397, Beji,Pandanarum,TRI ERNAWATI,"Banjarnegara, 14 Agustus 1990",Beji  Rt 02 Rw 04,081327452568,SMA,2024,400.10.2/1074 TAHUN 2024,Anggota
+398, Beji,Banjarmangu,NASIRIN,"Banjarnegara, 07 Juli 1990",Beji Rt 004 Rw 002,082324638504,SMP,2023,140/1394 Tahun 2023,Anggota
+399, Beji,Pandanarum,RIDOWATI SOLEHATUN,"Banjarnegara, 17 Agustus 1991",BEJI RT 02 RW 03,085227838665,S1,2024,400.10.2/1074 TAHUN 2024,Anggota
+400, Beji,Pejawaran,SUPANGAT,"Banjarnegara,3 Maret 1993",BEJI RT 7 RW 4,081345030998,SMP,2023,140/937/Kec.Pjw/2023,anggota BPD
+401, Beji,Pejawaran,SUWONDO,"Banjarnegara,01 Juli 1995",BEJI RT 5 RW 3,082221380781,SMP,2023,140/940/Kec.Pjr/2023,anggota BPD
+402, Beji,Pandanarum,ARIF WIKAMTO,"Banjarnegara, 31 Mei 1981",Beji Rt 01 Rw 04,082399939289,SMP,2024,400.10.2/1074 TAHUN 2024,Angota
+403, Beji,Banjarmangu,SUJAHID,"Banjarnegara,24 November 1970",Beji Rt 002 Rw 002,081226764534,SMA,2023,140/1394,KETUA
+404, Beji,Pandanarum,MOH NASIR,"Banjarnegara, 05 OKtober 1952",BEJI RT 04 RW 01,081391936810,SMA,2024,400.10.2/1074 TAHUN 2024,Ketua
+405, Beji,Pejawaran,MARYOTO,"Banjarnegara, 15-06-1962",BEJI RT 1 RW 1,081391663205,SMA,2023,140/939/Kec.Pjr/2023,KETUA BPD
+406, Beji,Banjarmangu,MUSLIAH,"Banjarnegara, 09 Juni 1988",Beji Rt 03 Rw 03,085227407006,S1,2023,140/1394 Tahun 2023,Sekretaris
+407, Beji,Pandanarum,DESI ARDYANA EKA FATMAWATI,"Banjarnegara, 29 Desember 1991",Beji Rt 01 Rw 05,081387609117,SMA,2024,400.10.2/1074 TAHUN 2024,Sekretaris
+408, Beji,Pejawaran,MURNIATI,"Banjarnegara,18 April 1990",BEJI RT 03 RW 02,085601224519,SMA,2023,140/936/Kec.Pjr/2023,sekretaris BPD
+409, Beji,Banjarmangu,LUKMAN HARUN,"banjarnegara,02 juni 1998",Beji Rt 003 Rw 001,082224195720,SMP,2023,140/1394 Tahun 2023,Wakil Ketua
+410, Beji,Pandanarum,HERU SUPRAPTO,"Banjarnegara, 13 Februari 1972",Beji  Rt 01 Rw 02,081239744140,SMP,2024,400.10.2/1074 TAHUN 2024,Wakil Ketua
+411, Beji,Pejawaran,EDI SUKIRNO,"Banjarneagara,11 November 1960",BEJI RT 4 RW 2,083122572422,SMP,2023,140/938/Kec.Pjr/2023,Wakil Ketua BPD
+412, Berta,Susukan,PUPI RAHAYU,"BANJARNEGARA, 24-03-1997",RT 06 RW 01 DESA BERTA,081227595153,SMA,2019,141/27 TAHUN 2019,BENDAHARA DESA
+413, Berta,Susukan,TASLIM,"BANJARNEGARA, 08-03-1978",RT 06 RW 03 DESA BERTA,082138854866,SMA,2019,141/27 TAHUN 2019,KASIE KESRA
+414, Berta,Susukan,JOKO RATONO,"BANJARNEGARA, 09-01-1984",RT 02 RW 01 DUSUN KALIBANGKANG DESA BERTA,085225490702,SMA,2019,141/27 TAHUN 2019,KASIE PELAYANAN
+415, Berta,Susukan,PARWATI,"BANJARNEGARA, 08-04-1973",RT 02 RW 05 DUSUN DANAYUDA DESA BERTA,082220211236,SMA,2017,01 TAHUN 2017,KASIE PEMERINTAHAN
+416, Berta,Susukan,ARI SETYO NUGROHO,"NGAWI, 15-11-1995",RT 02 RW 03 DUSUN PETE DESA BERTA,081217358274,SMA,2017,141/08/TAHUN 2017,KAUR PERENCANAAN
+417, Berta,Susukan,ROKHMAT,"BANJARNEGARA, 13-10-1967",RT 04 RW 04 DUSUN MERTELU DESA BERTA,081229943378,SMP,2019,141/27 TAHUN 2019,KAUR TU
+418, Berta,Susukan,SLAMET RIYADI,"BANJARNEGARA, 05-08-1963",RT 04 RW 02 DESA BERTA,081287582821,S1,2024,400.10.2/813/TAHUN 2024,KEPALA DESA
+419, Berta,Susukan,MAGIANTO,"BANJARNEGARA, 28-07-1985",RT 05 RW 05 DUSUN DANAYUDA DESA BERTA,081311514776,SMA,2017,01 TAHUN 2017,KEPALA DUSUN DANAYUDA
+420, Berta,Susukan,SAIDI,"BANJARNEGARA, 10-10-1978",RT 04 RW 01 DUSUN KALIBANGKANG DESA BERTA,081327408003,SMA,2017,01 TAHUN 2017,KEPALA DUSUN KALIBANGKANG
+421, Berta,Susukan,SUKANTO,"BANJARNEGARA, 17-08-1968",RT 03 RW 02 DUSUN KRAJAN DESA BERTA,085226872668,SMA,2017,01 TAHUN 2017,KEPALA DUSUN KRAJAN
+422, Berta,Susukan,SOLEKHAN,"BANJARNEGARA, 01-01-1973",RT 01 RW 04 DUSUN MERTELU DESA BERTA,085227944592,SMA,2017,01 TAHUN 2017,KEPALA DUSUN MERTELU
+423, Berta,Susukan,CARISAN,"BANJARNEGARA,  17-08-1968",RT 05 RW 03 DUSUN PETE DESA BERTA,085226872668,SMA,2017,01 TAHUN 2017,KEPALA DUSUN PETE
+424, Berta,Susukan,UDIN HIDAYAT,"BANJARNEGARA, 13-08-1991",RT 06 RW 03 DESA BERTA,085227454337,SMA,2017,141/08/TAHUN 2017,SEKRETARIS DESA
+425, Berta,Susukan,DARSO,BANJARNEGARA 12-01-1969,RT 02 RW 01 DUSUN KALIBANGKANG DESA BERTA,081228687630,SMP,2017,141/27 TAHUN 2019,STAF KASI PELAYANAN
+426, Berta,Susukan,SATIMIN,"BANJARNEGARA, 10-03-1967",RT 02 RW 02 DSUSN KRAJAN DESA BERTA,082325278568,SMP,2017,01 TAHUN 2017,STAFF KAUR TU
+427, Berta,Susukan,DEDDY HARTONO,"BANJARNEGARA, 05-02-1993",RT 06 RW 05 DUSUN DANAYUDA DESA BERTA,083844486978,SMA,2023,140/1407/Tahun 2023,ANGGOTA BPD
+428, Berta,Susukan,SEPTI DWI LESTARI,"BANJARNEGARA, 15-09-1994",RT 06 RW 03 DUSUN PETE DESA BERTA,089654877758,SMA,2023,140/1.407/Tahun 2023,ANGGOTA BPD
+429, Berta,Susukan,TASMIN,"BANJARNEGARA, 12-09-1976",RT 03 RW 04 DUSUN MERTELU DESA BERTA,082120393638,SLTP,2023,140/1.407/Tahun 2023,Ketua Bidang Pembangunan Dan Pemberdayaan Masyarak
+430, Berta,Susukan,TARWAN,"BANJARNEGARA, 19-09-1976",RT 01 RW 02 DUSN KRAJAN DESA BERTA,0882007385650,SLTP,2023,140/1.407/Tahun 2023,Ketua Bidang Pemerintahan dan Kemasyarakatan
+431, Berta,Susukan,SARIKIN,"BANJARNEGARA, 16-06-1964",RT 02 RW 01 DUSUN KALIBANGKANG,+62 812-2829-0123,S1,2023,140/1.407/Tahun 2023,KETUA BPD
+432, Berta,Susukan,SHERLIANA RAHAYU,"BANJARNEGARA, 29-04-2002",RT 01 RW 05 DUSUN DANAYUDA DESA BERTA,088806518882,D3,2023,140/1.407/Tahun 2023,Sekretaris BPD
+433, Berta,Susukan,DIDI PRANOTO,"BANJARNEGARA, 23-06-1992",RT 06 RW 03 DUSUN PETE,081232261011,SMA,2013,140/1.407/Tahun 2023,Wakil Ketua BPD
+434, Binangun,Karangkobar,ENIS JUMIATI,"Banjarnegara, 15 April 1983",BINANGUN RT 02 RW 01,0813-9234-3006,SMA,2017,141/19/VI/2017,KADUS 1
+435, Binangun,Karangkobar,KHUSNUL KHOTIMAH,"Banjarnegara, 12 Juli 1998",BINANGUN RT 02 RW 02,0821-3411-5932,SMA,2023,141/36/VI/2023,KADUS 2
+436, Binangun,Karangkobar,SUPRIYONO,"Banjarnegara, 09 Maret 1972",BINANGUN RT 03 RW 03,0852-3539-0093,SMA,2017,141/6/I/2017,KADUS 3
+437, Binangun,Karangkobar,JOKO ADI SANTOSO,"Banjarnegara, 01 Maret 1984",BINANGUN RT 04 RW 04,0822-2521-2659,SMA,2017,141/21/VI/2017,KADUS 4
+438, Binangun,Karangkobar,SUPRIANTO,"Banjarnegara, 03 Februari 1992",BINANGUN RT 02 RW 05,0851-9858-4801,SMA,2017,141/22/VI/2017,KADUS 5
+439, Binangun,Karangkobar,ARIF SANUDIN,"Banjarnegara, 06 Oktober 1995",BINANGUN RT 02 RW 05,0852-2546-5788,SMA,2019,141/38/2019,Kasi Kesra
+440, Binangun,Karangkobar,DWI NOVIYANTI,"PEKALONGAN, 07 November 1987",BINANGUN RT 02 RW 02,0822-2616-0802,SMA,2020,141/39/XII/2020,Kasi Pelayanan
+441, Binangun,Karangkobar,RISKA RATNA FIKO,"SERANG, 13 MARET 1987",BINANGUN RT 01 RW 05,082242082040,SMA,2017,141/18/VI/2017,Kasi Pemerintahan
+442, Binangun,Karangkobar,IKA SUFIYANTI,"Banjarnegara, 03 Juli 1991",BINANGUN RT 02 RW 01,0822-2322-4566,S1,2017,141/17/VI/2017,KAUR KEUANGAN
+443, Binangun,Karangkobar,NUR WAHYUDIN,"Banjarnegara, 26 Desember 1993",BINANGUN RT 03 RW 03,085293006967,SMA,2017,141/6/I/2017,KAUR TU &amp; UMUM
+444, Binangun,Karangkobar,PUJI HARWANTO,"Banjarnegara, 07 Desember 1974",BINANGUN RT 02 RW 05,0823-2345-2445,SMA,2019,141.1/1042/2019,KEPALA DESA
+445, Binangun,Karangkobar,JONO,"Banjarnegara, 12 Januari 1977",BINANGUN RT 02 RW 02,085225588830,SMA,2017,141/15/VI/2017,Sekretaris Desa
+446, Binangun,Karangkobar,TARMAN,"Banjarnegara, 22 April 1978",BINANGUN RT 01 RW 05,0882-0052-97655,SD,2017,141/6/I/2017,STAFF TU &amp; UMUM
+447, Binangun,Karangkobar,MUSRIFAH,"Banjarnegara, 31 Agustus 1994",GALARAN RT 002/004,081228270765,SMA,2023,140/1247/2023,Anggota
+448, Binangun,Karangkobar,EKO WENDIAWAN,"Banjarnegara, 05 Maret 1997",BINANGUN RT 01 RW 03,0812-2798-2890,SMA,2023,140/1247/2023,Anggota
+449, Binangun,Karangkobar,DWI SUBIANTORO,"Banjarnegara, 18 Februari 1968",BINANGUN RT 02 RW 05,081326103998,SMA,2023,140/1247/2023,Anggota
+450, Binangun,Karangkobar,SUBAITUN,"Banjarnegara, 29 Maret 1988",BINANGUN RT 03 RW 01,0823-2924-0053,SLTP,2023,140/1247/2023,Anggota
+451, Binangun,Karangkobar,PONO,"Banjarnegara, 18 April 1979",BINANGUN RT 02 RW 02,0852-9127-6861,SMA,2023,140/1247/2023,KETUA BPD
+452, Binangun,Karangkobar,KARTINI,"Banjarnegara, 08 Juni 1985",BINANGUN RT 04 RW 04,0823-2684-5565,S1,2023,140/1247/2023,SEKRETARIS BPD
+453, Binangun,Karangkobar,ADUN,"Banjarnegara, 17 April 1977",BINANGUN RT 02 RW 05,0882-0066-18845,SMA,2023,140/1247/2023,WAKIL KETUA
+454, Binorong,Bawang,AGUS BUDIYANTO,"Banjarnegara, 20-07-1970",Desa Binorong Rt 05 rw 04,082135656234,SMA,2003,141.3/11/I/TAHUN 2017,KASI KESEJAHTERAAN
+455, Binorong,Bawang,WIDIYANTO,"Banjarnegara, 15-04-1980",Binorong Rt 2 Rw 5,081225235160,S1,2017,141.3/18/IV/TAHUN 2017,KASI PELAYANAN
+456, Binorong,Bawang,MISYONO,"Banjarnegara, 23-10-1975",Binorong Rt 2 Rw 4,085640977968,SMA,2005,141.3/10/I/TAHUN 2017,KASI PEMERINTAHAN
+457, Binorong,Bawang,DIYAH UTAMI,"Banjarnegara, 28-04-1975",Binorong Rt 1 Rw 1,081326813717,D3,2017,141.3/16/IV/TAHUN 2017,KAUR KEUANGAN
+458, Binorong,Bawang,ENING SUGIHARTI,"Banjarnegara, 13-10-1973",Binorong Rt 1 Rw 4,082327223153,SMA,2005,141.3/09/I/TAHUN 2017,KAUR PERENCANAAN
+459, Binorong,Bawang,R.KUNCORO AGUNG WIDODO,"Banjarnegara, 25-03-1990",Binorong Rt 5 Rw 4,085227529690,D3,2017,141.3/17/IV/TAHUN 2017,KAUR TU DAN UMUM
+460, Binorong,Bawang,AMRULLOH,"Banjarnegara,08-02-2958",Desa Binorong Rt 02 rw 01,081235435989,S1,2019,141.1/1002 TAHUN 2019,Kepala Desa
+461, Binorong,Bawang,TURMAWONO,"Banjarnegara, 14-05-1969",Binorong Rt 1 Rw 2,081327118650,SMA,1998,141.3/12/I/TAHUN 2017,KEPALA DUSUN 1
+462, Binorong,Bawang,SARTO WIYONO,"Banjarnegara,18-07-1978",Binorong Rt 5 Rw 1,0895322080798,S1,2017,141.3/15/IV/TAHUN 2017,SEKRETARIS DESA
+463, Binorong,Bawang,INDAH PRASETYANINGSIH,"Banjarnegara, 5 APRIL 1983",Binorong Rt 3 Rw 1,85227009170,SMA,2023,140/1259 TAHUN 2023,ANGGOTA
+464, Binorong,Bawang,WIWIT BUDIARTI,"Banjarnegara, 26 JULI 1991",BINOTONG RT 1 RW 4,882006181676,SMA,2003,140/1259 TAHUN 2023,ANNGOTA
+465, Binorong,Bawang,PUJIANTI,"Banjarnegara, 25 1MEI 1983",Binorong Rt 5 Rw 4,85896150078,SLTA,2023,140/1259 TAHUN 2023,ANNGOTA
+466, Binorong,Bawang,SOLECHAH,"Banjarnegara, 26 APRIL 1983",Binorong Rt 4 Rw 3,85725508240,SLTA,2023,140/1259 TAHUN 2023,ANNGOTA
+467, Binorong,Bawang,SUKMARIA WINDAH CAHYANI,"Banjarnegara, 3 DESEMBER 1993",Binorong Rt 5 Rw 4,82293982535,SLTA,2023,140/1259 TAHUN 2023,ANNGOTA
+468, Binorong,Bawang,KHUSNU ROZAQ,"Banjarnegara, 14 MEI 1986",Binorong Rt 5 Rw 1,85640380791,S1,2023,140/1259 TAHUN 2023,ANNGOTA
+469, Binorong,Bawang,BAMBANG CIPTO MARDOWO,"Banjarnegara, 25-05-1964",Binorong Rt 5 Rw 4,081340578557,D3,2023,140/1259 TAHUN 2023,KETUA
+470, Binorong,Bawang,ARIYANTI,"Banjarnegara, 16 0KTOBER 1990",Binorong Rt 5 Rw 4,81227607770,S1,2023,140/1259 TAHUN 2023,SEKERTARIS
+471, Binorong,Bawang,AKHMAD,"Banjarnegara, 26-03-1970",Binorong Rt 1 Rw 1,081340578557,SLTA,2023,140/1259 TAHUN 2023,WAKIL KETUA
+472, Biting,Pejawaran,Suwondo,"Banjarnegara, 31 Januari 1975","Desa Biting Rt 04/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",085291027798,SMP,2016,141.32/20/2016,Kadus 1
+473, Biting,Pejawaran,Handika Riyana Setiyawan,"Banjarnegara, 03 Desember 1998","Desa Biting Rt 07/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",085640985821,SMA,2021,141/20 Tahun 2021,Kadus 2
+474, Biting,Pejawaran,Tusman,"Banjarnegara, 24 April 1984","Desa Biting Rt 10/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",086540985887,SMA,2021,141/ 21 Tahun 2021,Kadus 3
+475, Biting,Pejawaran,Imam Mududin,"Banjarnegara, 08 Januari 1994","Desa Biting Rt 02/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",082142537579,SMA,2017,140/08/2017,Kasi Kesejahteraan
+476, Biting,Pejawaran,Mono,"Banjarnegara, 12 Juli 1976","Desa Biting Rt 02/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",082245091469,SMA,2016,141.32/19/2016,Kasi Pelayanan
+477, Biting,Pejawaran,Towilah,"Banjarnegara, 17 Mei 1979","Desa Biting Rt 08/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",081249072525,SMA,2018,141.1/23/2018,Kasi Pemerintahan
+478, Biting,Pejawaran,Widi Astuti,"Banjarnegara, 25 November 1980","Desa Biting Rt 03/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",085741957092,SMA,2016,141.32/24/2016,Kaur Keuangan
+479, Biting,Pejawaran,Silfi Fadilah,"Banjarnegara, 06 Januari 1998","Desa Biting Rt 01/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",081355377353,SMA,2018,141.1/025/2018,Kaur TU dan Umum
+480, Biting,Pejawaran,Kastur,"Banjarnegara, 24 April 1977","Desa Biting Rt 01/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",082135786696,SMA,2024,400.10.2/569 Tahun 2024,Kepala Desa
+481, Biting,Pejawaran,"Ita Dwi Haryanti, SE","Banjarnegara, 23 Oktober 1982","Desa Biting Rt 08/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",085227182008,S1,2017,140/    / Tanuh 2017,Kepala Urusan Perencanaan
+482, Biting,Pejawaran,Karno,"Banjarnegara, 16 Mei 1975","Desa Biting Rt 02/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",0812-2953-3203,SMA,2016,141.32/27/2016,Sekretaris Desa
+483, Biting,Pejawaran,Santar,"Banjarnegara, 09 September 1984","Desa Biting Rt 01/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",085879063860,SMA,2023,140/742/Kec.Pjr/2023,Anggota BPD
+484, Biting,Pejawaran,Eli Yuliasih,"Banjarnegara, 05 Desember 1992","Desa Biting Rt 04/ Rw 01, Kecamata Pejawaran, Kabupaten banjarnegara",081327272894,SMP,2023,140/743/Kec.Pjr/2023,Anggota BPD
+485, Biting,Pejawaran,Siska Khoeronisa Wulandarai,"Banjarnegara, 07 Mei 1997","Desa Biting Rt 10/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",085600518659,SMA,2023,140/744/Kec.Pjr/2023,Anggota BPD
+486, Biting,Pejawaran,Pono,"Banjarnegara, 12 Mei 1979","Desa Biting Rt 08/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",085226440905,SMP,2023,140/745/Kec.Pjr/2023,Ketua BPD
+487, Biting,Pejawaran,Edi Santosa,"Banjarnegara, 23 April 1971","Desa Biting Rt 08/ Rw 02, Kecamata Pejawaran, Kabupaten banjarnegara",081229428854,SMA,2023,140/746/Kec.Pjr/2023,Sekretaris BPD
+488, Blambangan,Bawang,MISNO,"Banjarnegara, 18-2-1980",RT 005 RW 001 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081391096420,SLTA,2016,40 Tahun 2016,Kadus Kuwondogiri
+489, Blambangan,Bawang,MUSAENA,"Banjarnegara, 18-5-1972",RT 001 RW 004 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081391673032,DII,2016,52 Tahun 2016,Kadus Pejaten
+490, Blambangan,Bawang,YUSUP,"Banjarnegara, 10-9-1965",RT 004 RW 005 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081391572066,SLTA,2016,53 Tahun 2016,Kadus Sembungsemi
+491, Blambangan,Bawang,SATRIO BUDI,"Banjarnegara, 3 Juni 1993",RT 003 RW 007 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081327192873,S1,2021,141.32/40 Tahun 2021,Kadus Tawangsari
+492, Blambangan,Bawang,SITI LAELATUL MUBAROKAH,"Banjarnegara, 28-07-1972",RT 005 RW 03 Desa Blambangan Kec. Bawang Kab. Banjarnegara,082277909019,S1,2019,141.1/34 Tahun 2019,Kasi Kesejahteraan
+493, Blambangan,Bawang,SUNARYO,"Banjarnegara, 15-10-1976",RT 004 RW 07 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081325795625,S1,2019,141.1/34 Tahun 2019,Kasi Pelayanan
+494, Blambangan,Bawang,TURYONO,"Banjarnegara, 12-9-1970",RT 003 RW 007 Desa Blambangan Kec. Bawang Kab. Banjarnegara,082322945169,SLTA,2019,141.1/34 Tahun 2019,Kasi Pemerintahan
+495, Blambangan,Bawang,DHICA INGGRID HERLIASARI,"Banjarnegara, 23 Januari 1991",RT 003 RW 006 Desa Blambangan Kec. Bawang Kab. Banjarnegara,085643058819,DIII,2019,141.1/34/2019,Kaur Keuangan
+496, Blambangan,Bawang,HARY ABRIONO,"Banyumas, 5 Oktober 1979",RT 005 RW 005 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081327615158,S1,2017,141.3/41 Tahun 2017,Kaur Perencanaan
+497, Blambangan,Bawang,SETIYOWATI,"Banjarnegara, 8-8-1977",RT 004 RW 003 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081239025193,DII,2019,141.1/34/2019,Kaur TU dan Umum
+498, Blambangan,Bawang,SUKISNO,"Banjarnegara, 3-9-1966",RT 003 RW 002 Desa Blambangan Kec. Bawang  Kab. Banjarnegara,081391123852,SLTA,2021,141.1/772 Tahun 2021,Kepala Desa Blambangan
+499, Blambangan,Bawang,YULIATI,"Banjarnegara,  4 Juli 1981",RT 001 RW 005 Desa Blambangan Kec. Bawang Kab. Banjarnegara,082136200691,S1,2016,60 Tahun 2016,Sekretaris Desa
+500, Blambangan,Bawang,MUJI SUKUR,"Banjarnegara, 5 Februari 1971",RT 003 RW 004 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081334959897,SLTA,2016,49 Tahun 2016,Staf Kasi Pelayanan
+501, Blambangan,Bawang,ROFIQ,"Banjarnegara, 2-8-1974",RT 002 RW 005 Desa Blambangan Kec. Bawang Kab. Banjarnegara,085226501113,SLTA,2016,50 Tahun 2016,Staf Kasi Pelayanan
+502, Blambangan,Bawang,ZAENAL ARIFIN,"Banjarnegara, 18-1-1964",RT 005 RW 005 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081391884284,SLTA,2023,140/886  Tahun 2023 dan 400.10,Anggota Bidang Pembangunan Desa dan Pemberdayaan M
+503, Blambangan,Bawang,SUCI RAHAYU,"Yogyakarta, 27-7-1961",RT 003 RW 002 Desa Blambangan Kec. Bawang  Kab. Banjarnegara,082313323180,S2,2023,140/886  Tahun 2023 dan 400.10,Anggota Bidang Pembangunan Desa dan Pemberdayaan M
+504, Blambangan,Bawang,SITI RUCHATUN,"Kudus, 14-5-1975",RT 004 RW 008 Desa Blambangan Kec. Bawang Kab. Banjarnegara,085710028913,S1,2023,140/886  Tahun 2023 dan 400.10,Anggota Bidang Penyelenggara Pemerintahan Desa dan
+505, Blambangan,Bawang,SUMIYATI,"Bandung, 20-5-1974",RT 004 RW 006 Desa Blambangan Kec. Bawang Kab. Banjarnegara,085741256386,S1,2023,140/886  Tahun 2023 dan 400.10,Anggota Bidang Penyelenggara Pemerintahan Desa dan
+506, Blambangan,Bawang,SURAT,"Blora, 27-7-1958",RT 002 RW 001 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081391148040,S1,2023,140/886  Tahun 2023 dan 400.10,Ketua Bidang Penyelenggara Pemerintahan Desa dan P
+507, Blambangan,Bawang,CHASANUDIN,"Rembang, 26-12-1967",RT 003 RW 002 Desa Blambangan Kec. Bawang Kab. Banjarnegara,081227007897,S1,2023,140/886  Tahun 2023 dan 400.10,Ketua BPD
+508, Blambangan,Bawang,SUPRAPTO,"Banjarnegara, 26-2-1957",RT 003 RW 007 Desa Blambangan Kec. Bawang Kab. Banjarnegara,082326442226,SLTA,2023,140/886  Tahun 2023 dan 400.10,Ketua Pembangunan Desa dan Pemberdayaan Masyarakat
+509, Blambangan,Bawang,IPANG SETIA BUDI,"Banjarnegara, 4-10-1983",RT 005 RW 004 Desa Blambangan Kec. Bawang Kab. Banjarnegara,085226641214,S1,2023,140/886  Tahun 2023 dan 400.10,Sekretaris
+510, Blambangan,Bawang,WAHYU PURWANTO,"Banjarnegara, 12-5-1964","RT 002 RW 003 Desa Blambangan, Kec. Bawang Kab. Banjarnegara",081226618950,S1,2023,140/886  Tahun 2023 dan 400.10,Wakil Ketua
+511, Blimbing,Mandiraja,Arifin,"Banjarnegara, 24-4-1971",Blimbing RT 4 RW 1,085328596954,SMA,2016,21/2016,Kadus I
+512, Blimbing,Mandiraja,Arif Zaeni,"Banjarnegara, 3-8-1976",Blimbing RT 3 RW 2,085227885556,D2,2016,21/2016,Kadus II
+513, Blimbing,Mandiraja,Antono,"Banjarnegara, 24-8-1980",Blimbing RT 5 RW 2,085310352437,SMA,2017,Sep-17,Kasi Kesejahteraan
+514, Blimbing,Mandiraja,Wahda Nurul Hidayat,"Banjarnegara, 26-3-1991","Blimbing, RT 8 RW 1",085747316761,S1,2017,Sep-17,Kasi Pelayanan
+515, Blimbing,Mandiraja,Puji Triyani,"Banjarnegara, 9 -12-1990",Blimbing RT 7 RW 1,081393534860,S1,2017,Sep-17,Kasi Pemerintahan
+516, Blimbing,Mandiraja,Darinto,"Banjarnegara, 30-1-1970",Blimbing RT 1 RW 1,082134181515,SMA,2016,21/2016,Kaur Keuangan
+517, Blimbing,Mandiraja,Novrika Dani Khoeruroh,"Banjarnegara, 29-11-1988",Blimbing RT 1 RW 1,082242248500,S1,2019,28/2019,Kaur Perencanaan
+518, Blimbing,Mandiraja,Zaenudin,"Banjarnegara, 20-8-1975",Blimbing RT 4 RW 1,085291185320,SMA,2016,21/2016,Kaur TU Umum
+519, Blimbing,Mandiraja,Slamet Riyadi,"Banjarnegara, 27-9-1970",Blimbing RT 7 RW 1,081391298460,SMA,2025,400.10.2/560 Tahun 2024,Kepala Desa
+520, Blimbing,Mandiraja,Saptono,"Banjarnegara, 11-10-1969",Blimbing RT 6 RW 1,085236191268,D2,2019,17/2019 Tanggal 22 Maret 2019,Sekretaris Desa
+521, Blimbing,Mandiraja,Agus Setyawan,"Banjarnegara, 8-7-1975",Blimbing RT 4 RW 2,081391414149,SMA,2023,400.10.2/1074 TAHUN 2024,Anggota
+522, Blimbing,Mandiraja,Widi Yulianto,"Banjarnegara, 11-7-1984",Blimbing RT 2 RW 2,082137932190,SLTP,2023,400.10.2/1074 TAHUN 2024,Anggota
+523, Blimbing,Mandiraja,Parsiman,"Banjarnegara, 10-7-1970",Blimbing RT 3 RW 1,088238215957,SLTP,2023,400.10.2/1074 TAHUN 2024,Anggota
+524, Blimbing,Mandiraja,Sutarno,"Banjarnegara, 5-1-1964","Blimbing, RT 8 RW 1",085727704899,SLTA,2023,400.10.2/1074 TAHUN 2024,Anggota
+525, Blimbing,Mandiraja,Jamaludin,"Banjarnegara, 12-1-1978",Blimbing RT 4 RW 1,085842204826,S1,2023,400.10.2/1074 TAHUN 2024,Ketua BPD
+526, Blimbing,Mandiraja,Ahmad Bunyamin,"Banjarnegara, 7-12-1980",Blimbing RT 1 RW 2,081392850073,D3,2023,400.10.2/1074 TAHUN 2024,Sekretaris
+527, Blimbing,Mandiraja,Suharyati,"Banjarnegara, 2-5-1976",Blimbing RT 4 RW 1,085227479805,S1,2023,400.10.2/1074 TAHUN 2024,Wakil Ketua BPD
+528, Blitar,Madukara,SUTARMAN,"Banjarnegara ,26 Agustus 1969",DESA BLITAR RT 01 RW 03,082224208292,SMA,2017,NOMOR 008 TAHUN 2017,KADUS I
+529, Blitar,Madukara,ARI BUSTAMAN,"Banjarnegara , 18-05-1978",DESA BLITAR RT 01 RW 01,085934989924,SMA,2017,NOMOR 009 TAHUN 2017,KADUS II
+530, Blitar,Madukara,SARKONO,"Banjarnegara , 26-07-1977",DESA BLITAR RT 01 RW 04,082329634000,SMA,2017,NOMOR 11 TAHUN 2017,KASI KESEJAHTERAAN
+531, Blitar,Madukara,MUSLIMIN,"Banjarnegara , 25-09-1997",DESA BLITAR RT 01 RW 04,0882007123777,SMA,2017,NOMOR 014 TAHUN 2017,KASI PEMERINTAHAN
+532, Blitar,Madukara,ANJARSARI DIAN NOFIANTI,Banjarnegara 10-11-1988,DESA BLITAR RT 01 RW 03,085742682182,S1,2017,NOMOR 013 TAHUN 2017,KAUR KEUANGAN
+533, Blitar,Madukara,ISTIQOMAH,Banjarnegara 24 April 1985,DESA BLITAR RT 01 RW 01,085227490198,SMA,2017,22 TAHUN 2017,KAUR PERENCANAAN
+534, Blitar,Madukara,ATMINAH,Banjarnegara 20-03-1966,DESA BLITAR RT 01 RW 04,081328714626,SD,1998,NOMOR 012 TAHUN 2017,KAUR TATA USAHA DAN UMUM
+535, Blitar,Madukara,SUPRAPTO,Banjarnegara  27-01-1971,DESA BLITAR RT 02 RW 01,085302860058,SMA,2024,400.10.2/580 TAHUN 2024,Kepala Desa
+536, Blitar,Madukara,HERLITA AYU PERDANA,"Banjarnegara ,09-08-1996",DESA BLITAR RT 01 RW 03,085842146461,SMA,2017,20 TAHUN 2017,Sekretaris Desa
+537, Blitar,Madukara,ROMADLON,Banjarnegara 25-08-1997,DESA BITAR RT 01 RW 05,085329279992,SLTA,2023,140/941 TAHUN 2023,Anggota
+538, Blitar,Madukara,SARKUM,Banjarnegara 03-08-1976,BLITAR RT 02 RW 03,085233505858,SLTA,2023,140/941 TAHUN 2023,Anggota
+539, Blitar,Madukara,AHMAD MUDHAKIR,Banjarnegara 19-03-1989,DESA BLITAR RT 02 RW 05,085700168688,SLTA,2023,140/941 TAHUN 2023,Anggota
+540, Blitar,Madukara,PUJIANTI,Banjarnegara 13-05-1981,BLITAR RT 02 RW 01,082322934374,SLTA,2023,140/941 TAHUN 2023,Bendahara BPD
+541, Blitar,Madukara,ERNA DWIANTORO,Banjarnegara  24 -06-1992,DESA BLITAR RT 01 RW 02,082225328160,SLTP,2023,10/941 TAHUN 2023,Sekretaris BPD
+542, Blitar,Madukara,SUNARYO,"Banjarnegara , 10-08-1976",DESA BLITAR RT 01 RW 01,082336816369,S1,2023,140/941 TAHUN 2023,Wakil Ketua
+543, Bojanegara,Sigaluh,Warso Rinekso,"Banjarnegara, 17 Agustus 1990","Bojanegara RT 3 RW 1, Sigaluh, Banjarnegara",0821 3809 9890,D3,2017,141/02 TAHUN 2017,Kasi Kesejahteraan
+544, Bojanegara,Sigaluh,Kiroto Aji,"Banjarnegara, 28 Agustus 1987","Bojanegara RT 5 RW 3, Sigaluh, Banjarnegara",0878 7740 0108,D3,2017,141/04 TAHUN 2017,Kasi Pelayanan
+545, Bojanegara,Sigaluh,Riyanto,"Banjarnegara, 07 Mei 1986","Bojanegara RT 1 RW 2, Sigaluh, Banjarnegara",085640338555,SMA,2018,19.4 TAHUN 2018,Kasi Pemerintahan
+546, Bojanegara,Sigaluh,Ihda Mardiana Hikmawati,"Banjarnegara, 25 Agustus 1995","Bojanegara RT 7 RW 1, Sigaluh, Banjarnegara",0821 3809 9968,S1,2019,141/15 TAHUN 2019,Kaur Keuangan
+547, Bojanegara,Sigaluh,Subar Kiyatno,"Banjarnegara, 18 Agustus 1974","Bojanegara RT 5 RW 2, Sigaluh, Banjarnegara",0852 2739 3233,SMA,2018,19.2 TAHUN 2018,Kaur Perencanaan
+548, Bojanegara,Sigaluh,Barjono,"Banjarnegara, 16 Mei 1969","Bojanegara RT 7 RW 1, Sigaluh, Banjarnegara",0812 2709 1811,SMA,2018,19.3 TAHUN 2018,Kaur Tata Usaha dan Umum
+549, Bojanegara,Sigaluh,Ahmat Yahya,"Banjarnegara, 28 Agustus 1983","Bojanegara RT 6 RW 2, Sigaluh, Banjarnegara",0823 2344 4709,SMA,2024,400.10.2/574 TAHUN 2024,Kepala Desa
+550, Bojanegara,Sigaluh,Ahmad Mukodam,"Banjarnegara, 04 Februari 1966","Bojanegara RT 4 RW 1, Sigaluh, Banjarnegara",0882 1506 2012,SMA,2017,141/01 TAHUN 2017,Kepala Dusun 1
+551, Bojanegara,Sigaluh,Imam Fatkhurohman,"Wonosobo, 21 Maret 1976","Bojanegara RT 6 RW 2, Sigaluh, Banjarnegara",0812 2754 4234,SMA,2017,141/01 TAHUN 2017,Kepala Dusun 2
+552, Bojanegara,Sigaluh,Wikono,"Banjarnegara, 10 Oktober 1967","Bojanegara RT 2 RW 3, Sigaluh, Banjarnegara",0851 9858 9874,SMP,2017,141/01 TAHUN 2017,Kepala Dusun 3
+553, Bojanegara,Sigaluh,Catur Edi Santoso,"Banjarnegara, 12 Februari 1979","Bojanegara RT 3 RW 3, Sigaluh, Banjarnegara",0813 8013 1525,SMA,2018,19.1 TAHUN 2018,Sekretaris Desa
+554, Bojanegara,Sigaluh,Saparyo,"Banjarnegara, 03 Desember 1981","Bojanegara RT 5 RW 2, Sigaluh, Banjarnegara",0853 3388 9898,SMP,2023,140/1223 TAHUN 2023,Anggota BPD
+555, Bojanegara,Sigaluh,Arisnoto,"Banjarnegara, 22 November 1999","Bojanegara RT 1 RW 3, Sigaluh, Banjarnegara",0881 2522 584,SMP,2023,140/1223 TAHUN 2023,Anggota BPD
+556, Bojanegara,Sigaluh,Gino,"Banjarnegara, 04 Juli 1973","Bojanegara RT 5 RW 1, Sigaluh, Banjarnegara",0813 9198 9466,SMA,2023,140/1223 TAHUN 2023,Anggota BPD
+557, Bojanegara,Sigaluh,"Parmono, AMK","Banjarnegara, 28 September 1989","Bojanegara RT 2 RW 1, Sigaluh, Banjarnegara",0821 2017 3300,D3,2023,140/1223 TAHUN 2023,Anggota BPD
+558, Bojanegara,Sigaluh,Muhammad Agus Taman S.Sy,"Wonosobo, 15 Februari 1981","Bojanegara RT 6 RW 2, Sigaluh, Banjarnegara",0813 9143 8900,S1,2023,140/1223 TAHUN 2023,Ketua BPD
+559, Bojanegara,Sigaluh,Erlin Widiyanti S.Pd.AUD,"Banjarnegara, 29 Februari 1988","Bojanegara RT 7 RW 1, Sigaluh, Banjarnegara",0852 2820 5221,S1,2023,140/1223 TAHUN 2023,Sekretaris BPD
+560, Bojanegara,Sigaluh,Limono,"Banjarnegara, 04 November 1976","Bojanegara RT 5 RW 3, Sigaluh, Banjarnegara",0813 2879 0695,SMA,2023,140/1223 TAHUN 2023,Wakil Ketua BPD
+561, Bondolharjo,Punggelan,TURSIN KRISTIANTO,"BANJARNEGARA, 20 MARET 1962",BONDOLHARJO RT 001 RW 001,082220010959,SLTP,2024,400.10.2/791 TAHUN 2024,KEPALA DESA
+562, Bondolharjo,Punggelan,NURUDIN SANTOSO,"BANJARNEGARA, 10 JANUARI 1970",BONDOLHARJO RT 004 RW 005,085293974500,SMA,2016,134/2016,KEPALA DUSUN BUNDERAN
+563, Bondolharjo,Punggelan,BAKHRI,"BANJARNEGARA, 1 JANUARI 1969",BONDOLHARJO 001 RW 003,08561144356,SMA,2016,133/2016,KEPALA DUSUN CILALUNG
+564, Bondolharjo,Punggelan,SUGENG RIYANTO,"BANJARNEGARA, 15 MEI 1970",BONDOLHARJO RT 001 RW 008,085329446824,SMA,2016,139/2016,KEPALA DUSUN PENISIHAN
+565, Bondolharjo,Punggelan,SARWONO,"BANJARNEGARA, 16 SEPTEMBER 1968",BONDOLHARJO RT 001 RW 009,085290047654,SMA,2016,140/2016,KEPALA DUSUN TEMBELANG
+566, Bondolharjo,Punggelan,HARYONO,"BANJARNEGARA, 19 JULI 1975",BONDOLHARJO RT 001 RW 001,000,D3,2016,132/2016,KEPALA DUSUN TOTOGAN
+567, Bondolharjo,Punggelan,SUBARNO,"BANJARNEGARA, 5 SEPTEMBER 1973",BONDOLHARJO RT 002 RW 002,082136360238,SMA,2016,137/2016,KEPALA SEKSI KESRA
+568, Bondolharjo,Punggelan,TONIP,"BANJARNEGARA, 25 DESEMBER 1967",BONDOLHARJO RT 002 RW 009,085740311465,S1,2016,135/2016,KEPALA SEKSI PELAYANAN
+569, Bondolharjo,Punggelan,SUMINTO,"BANJARNEGARA, 05 MEI1967","RT 01 RW 04  Desa Bondolharjo  ,Kecamatan Punggelan",0000,SMA,2016,138/2016,KEPALA SEKSI PEMERINTAHAN
+570, Bondolharjo,Punggelan,ELI SUSANA,"BANJARNEGARA, 30 JULI1971",Bondolharjo Rt 002 Rw 001,085226307854,MAN,2016,131/2016,KEPALA URUSAN KEUANGAN
+571, Bondolharjo,Punggelan,YOGI ARDIANTO,"BANJARNEGARA, 18 SEPTEMBER 1987",BONDOLHARJO RT 003 RW 001,082322671717,SMA,2016,136/2016,KEPALA URUSAN PERENCANAAN
+572, Bondolharjo,Punggelan,CHALIMATUR ROFINGAH,"BANJARNEGARA, 24 JULI 1998",BONDOLHARJO RT 001 RW 001,087886845447,SMA,2021,141/30/2021,KEPALA URUSAN TATA USAHA DAN UMUM
+573, Bondolharjo,Punggelan,WAHYU AIDIL FITRIAWAN,"BANJARNEGARA, 28 JUNI 1985",BONDOLHARJO RT 002 RW 001,081226885888,SMA,2017,141/9/2017,SEKRETARIS DESA
+574, Bondolharjo,Punggelan,SUPINAH,"BANJARNEGARA, 15-01-1985",BONDOLHARJO RT 004 RW 006,082323348809,SLTP,2023,140/1355 TAHUN 2023,ANGGOTA BPD
+575, Bondolharjo,Punggelan,DWI SUPARTO,"BANJARNEGARA, 04-02-1974",BONDOLHARJO RT 004 RW 001,081327750570,SLTA,2023,140/1355 TAHUN 2023,ANGGOTA BPD
+576, Bondolharjo,Punggelan,MUKHSININ,"BANJARNEGARA, 28-08-1970",SLTA,082137960571,SLTA,2023,140/1355 TAHUN 2023,ANGGOTA BPD
+577, Bondolharjo,Punggelan,LUKMAN,"BANJARNEGARA, 10-07-1985",BONDOLHARJO RT 002 RW 010,085227144344,SLTP,2023,140/1355 TAHUN 2023,ANGGOTA BPD
+578, Bondolharjo,Punggelan,PURNOMO ADI P,"BANJARNEGARA, 12-06-1977",BONDOLHARJO RT 002 RW 005,085385866675,SLTP,2023,140/1355 TAHUN 2023,ANGGOTA BPD
+579, Bondolharjo,Punggelan,DWIYOKO SETYAWAN,"BANJARNEGARA, 01-05-1989",BONDOLHARJO RT 003 RW 006,0895326632957,SLTP,2023,140/1355 TAHUN 2023,ANGGOTA BPD
+580, Bondolharjo,Punggelan,WALUYO,"PURWOREJO, 15-01-1967",BONDOLHARJO RT 002 RW 001,081391007405,S1,2023,140/1355 TAHUN 2023,KETUA BPD
+581, Bondolharjo,Punggelan,SARYOTO,"BANJARNEGARA, 05-09-1969",BONDOLHARJO RT 001 RW 009,085878515029,S1,2023,140/1355 TAHUN 2023,SEKRETARIS BPD
+582, Bondolharjo,Punggelan,M. SUPARJONO,"BANJARNEGARA, 27-05-1971",BONDOLHARJO RT 001 RW 007,085290665542,SLTA,2023,140/1355 TAHUN 2023,WAKIL KETUA BPD
+583, Brengkok,Susukan,SALIKHAN,BANJARNEGARA / 27/07/1983,KRAJAN RT 6 RW 1 BRENGKOK,085742111438,SMA,2011,141/17 Tahun 2016,KASI KESEJAHTERAAN
+584, Brengkok,Susukan,ADITYA DIKA KURNIA,BANJARNEGARA / 15/08/1988,KRAJAN RT 5 RW 1 BRENGKOK,08562649308,S1,2020,141/29 Tahun 2020,KASI PEMERINTAHAN
+585, Brengkok,Susukan,NURKHAYATI,BANJARNEGARA / 27/04/1970,KRAJAN RT 2 RW 1 BRENGKOK,081327092075,SMA,2003,141/19 Tahun 2019,KAUR KEUANGAN
+586, Brengkok,Susukan,SUGIARTO,BANJARNEGARA / 01/11/1970,KRAJAN RT 9 RW 1 BRENGKOK,085601871127,SMA,1993,141/17 Tahun 2016,KAUR PERENCANAAN DAN PEMBANGUNAN
+587, Brengkok,Susukan,SUKIN,BANJARNEGARA / 11/12/1968,CANGKRING RT 6 RW 2 BRENGKOK,085869661308,SMA,1991,141/19 Tahun 2019,KAUR UMUM DAN TATA USAHA
+588, Brengkok,Susukan,PARYAN NURCAHYONO,BANJARNEGARA / 21/01/1963,KRAJAN RT 6 RW 1 BRENGKOK,085701016602,DI/II,2019,141.1/962 Tahun 2019,KEPALA DESA
+589, Brengkok,Susukan,SUMARDI,BANJARNEGARA / 11/03/1968,KRAJAN RT 3 RW 1 BRENGKOK,0882007966088,SMA,2000,141/17 Tahun 2016,KEPALA DUSUN I KRAJAN
+590, Brengkok,Susukan,JOKO PURNOMO,BANJARNEGARA / 20/12/1982,CANGKRING RT 6 RW 2 BRENGKOK,085647279275,DI,2007,141/17 Tahun 2016,KEPALA DUSUN II CANGKRING
+591, Brengkok,Susukan,SUPRIYATNO,BANJARNEGARA / 17/02/1979,KRAJAN RT 7 RW 1 BRENGKOK,081364456777,SMA,2017,141/08 Tahun 2017,SEKRETARIS DESA
+592, Brengkok,Susukan,TRIONO,BANJARNEGARA / 12/03/1973,KRAJAN RT 3 RW 1 BRENGKOK,085799656271,SMA,2011,141/18 Tahun 2016,STAF PELAYANAN
+593, Brengkok,Susukan,SUMIATUN,BANJARNEGARA / 01/12/1984,KRAJAN RT 1 RW 1 BRENGKOK,085719243419,SMA,2023,140/1071,ANGGOTA BPD
+594, Brengkok,Susukan,LENI HARTANI,BANJARNEGARA / 07/03/1991,CANGKRING RT 1 RW 2 BRENGKOK,088802993628,SMA,2023,140/1071,ANGGOTA BPD
+595, Brengkok,Susukan,TRIYANTO,BANJARNEGARA / 04/10/1989,CANGKRING RT 1 RW 2 BRENGKOK,081331410773,SMP,2023,140/1071,ANGGOTA BPD
+596, Brengkok,Susukan,PUJI RAHAYU,BANJARNEGARA / 21/05/1991,KRAJAN RT 5 RW 1 BRENGKOK,085600093070,SMA,2023,140/1071,ANGGOTA BPD
+597, Brengkok,Susukan,AHMAD NUR ALIMAN HAKIM,BANJARNEGARA / 11/03/1993,KRAJAN RT 7 RW 1 BRENGKOK,085759636660,SMA,2023,140/1071,ANGGOTA BPD
+598, Brengkok,Susukan,WAHYU RIANTO,BANJARNEGARA / 27/3/1981,CANGKRING RT 3 RW 2 BRENGKOK,081511196100,SMA,2023,140/1071,KETUA BPD
+599, Brengkok,Susukan,WAHYUDIN,BANJARNEGARA / 08/08/1990,KRAJAN RT 2 RW 1 BRENGKOK,083109614899,SMA,2023,140/1071,WAKIL KETUA BPD
+600, Candiwulan,Mandiraja,DWI YUDIANTO,"Banjarnegara, 03 November 1973",RT 001 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,085324474474,SMA,2017,05 Tahun 2017,Kasi Kesejahteraan
+601, Candiwulan,Mandiraja,SOKHIDI,"Banjarnegara, 22 Oktober 1966",RT 004 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,082220970493,SMA,2017,06 Tahun 2017,Kasi Pelayanan
+602, Candiwulan,Mandiraja,HARNAENI,"Banjarnegara, 19 Februari 1965",RT 008 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,081226764495,SMA,2017,04 Tahun 2017,Kasi Pemerintahan
+603, Candiwulan,Mandiraja,WINDIYATNO,"Banjarnegara, 05 Januari 1977",RT 008 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,085725956566,SMA,2017,07 Tahun 2017,Kaur Keuangan
+604, Candiwulan,Mandiraja,LAELA MUDRIKAH ZEIN,"Banjarnegara, 29 Oktober 1997",RT 008 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,082310127271,S1,2017,28 Tahun 2017,Kaur Perencanaan
+605, Candiwulan,Mandiraja,WACHYONO,"Banjarnegara, 30 Januari 1980",RT 007 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,087867511353,SMA,2017,08 Tahun 2017,Kaur TU dan Umum
+606, Candiwulan,Mandiraja,SUPARDAYA,"Banjarnegara, 01 November 1974",RT 002 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,085867111363,SMA,2019,291.1/21134 Tahun 2019,Kepala Desa
+607, Candiwulan,Mandiraja,WARTO,"Banjarnegara, 01 Juni 1974",RT 007 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,083878498481,SMA,1998,09 Tahun 2017,Kepala Dusun 1
+608, Candiwulan,Mandiraja,TEGUH PURNOMO,"Banjarnegara, 27 Maret 1974",RT 001 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,082324814199,SMA,2017,11 Tahun 2017,Kepala Dusun 2
+609, Candiwulan,Mandiraja,DEWI NURCHASANAH,"Banjarnegara, 13 April 1985",RT 003 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,082136265439,SMA,2017,27 Tahun 2017,Sekretaris Desa
+610, Candiwulan,Mandiraja,ASMAD,"Banjarnegara, 06 November 1966",RT 006 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,082225189900,SMA,2023,140/1415 Tahun 2013,Anggota
+611, Candiwulan,Mandiraja,DWI SANTOSO,"Batanghari, 03 Maret 1992",RT 003 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,081390018618,SMA,2023,140/1415 Tahun 2013,Anggota
+612, Candiwulan,Mandiraja,PRAYOGI,"Banjarnegara, 06 Januari 1989",RT 003 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,085747832178,SMA,2023,140/1415 Tahun 2013,Anggota
+613, Candiwulan,Mandiraja,IVI INDARSIH,"Banjarnegara, 28 April 1977",RT 004 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,081384716922,S1,2023,140/1415 Tahun 2013,Anggota
+614, Candiwulan,Mandiraja,KASAN SUHENDRO,"Banjarnegara, 30 Desember 1950",RT 001 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,08812775140,SMA,2023,140/1415 Tahun 2013,Ketua
+615, Candiwulan,Mandiraja,DWI ERMAWATI,"Banjarnegara, 26 November 1986",RT 004 RW 002 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,085642682755,SMA,2023,140/1415 Tahun 2013,Sekretaris
+616, Candiwulan,Mandiraja,SLAMET SETIYADI,"Banjarnegara, 26 Agustus 1979",RT 004 RW 001 Desa Candiwulan Kecamatan Mandiraja Kabupaten Banjarnegara,0812266999872,SMA,2023,140/1415 Tahun 2013,Wakil Ketua
+617, Cendana,Banjarnegara,SUJANGI,"BANJARNEGAR,4 MARET 1967",DESA CENDANA RT 002 RW 001,085291044291,SMP,1992,141.1/29 TAHUN 1992,KASI KESEJAHTERAAN
+618, Cendana,Banjarnegara,USWATUN KHASANAH,"BANJARNEGARA,23 OKTOBER 1989",Desa Cendana RT 002 RW 001,083130654816,SI,2018,141.1/14 TAHUN 2018,KASI PELAYANAN
+619, Cendana,Banjarnegara,DEDE ROHIMAH,"CIAMIS,5 JULI 1977",DESA CENDANA RT 001 RW 001,081320694158,S1,2017,"141,1/12 TAHUN 2017",KASI PEMERINTAHAN
+620, Cendana,Banjarnegara,JOKO SUHARDI RAHARJO,"YOGYAKARTAA,19 JULI 1967",DESA CENDANA RT 002 RW 001,081903286790,SLTA,2017,141.1/13 TAHUN 2017,KAUR KEUANGAN
+621, Cendana,Banjarnegara,KISWANTO,"BANJARNEGARA,6 MEI 1981",DESA CENDANA RT 004 RW 001,085701015728,SMK,2018,141.1/9 TAHUN 2018,KAUR PERENCANAAN
+622, Cendana,Banjarnegara,SUTIKNO,"BANJARNEGARA,3 NOVEMBER 1979",DESA CENDANA RT 001 RW 001,085227498045,S1,2018,141.1/8 TAHUN 2018,KAUR UMUM DAN TU
+623, Cendana,Banjarnegara,TUSRO,"WONOSOBO,15 OKTOBER 1983",DESA CENDANA RT 001 RW 005 BANJARNEGARA,085217254757,S1,2019,141.1/986 TAHUN 2019,KEPALA DESA
+624, Cendana,Banjarnegara,KHAMAN,"BANJARNEGARA,17 JULI 1973",DESA CENDANA RT 002 RW 001,085293616919,SLTA,2017,"141,1/13 TAHUN 2017",KEPALA DUSUN 1
+625, Cendana,Banjarnegara,RESMI,"BANJARNEGARA,9 APRIL 1981",DESA CENDANA RT 001 RW 003,085227919167,S1,2017,"141,1/13 TAHUN 2017",KEPALA DUSUN 2
+626, Cendana,Banjarnegara,RAHMAT,"BANJARNEGARA,5 DESEMBER 1976",DESA CENDANA RT 004 RW 004 BANJARNEGARA,087837920757,SLTA,2017,"141,1/14 TAHUN 2017",KEPALA DUSUN 3
+627, Cendana,Banjarnegara,MAHDI,"BANJARNEGARA,25 JANUARI 1980",DESA CENDANA RT 003 RW 001 BANJARNEGARA,083165101999,SMK,2017,141.1/10 TAHUN 2017,SEKRETARIS DESA
+628, Cendana,Banjarnegara,SARTIYAH,"BANJARNEGARA,2 MARET 1986",DESA CENDANA RT 001 RW 004,085227132502,SMP,2023,140/1076 TAHUN 2023,ANGGOTA BPD
+629, Cendana,Banjarnegara,AGUS SETIAWAN,"BANJARNEGARA,7 JANUARI 1986",DESA CENDANA RT 001 RW 005,082328621599,SLTA,2023,140/1076 TAHUN 2023,ANGGOTA BPD
+630, Cendana,Banjarnegara,SLAMET WALUYO,"BANJARNEGARA,25 JANUARI 1980",DESA CENDANA RT 003 RW 005,085727585460,SMP,2023,140/1076 TAHUN 2023,ANGGOTA BPD
+631, Cendana,Banjarnegara,TURNI,"BANJARNEGARA,4 JULI 1983",CENDANA RT 003 RW 003 BANJARNEGARA,082313109401,SMP,2023,140/1076 TAHUN 2023,ANGGOTA BPD
+632, Cendana,Banjarnegara,"SUDARSONO ,SPd.SD","BANJARNEGARA,10 FEBRUARI 1967",DESA CENDANA RT 003 RW 001 BANJARNEGARA,082332959995,S1,2023,140/1076 TAHUN 2023,KETUA BPD
+633, Cendana,Banjarnegara,ICHA ANGGI PRATIWI,"BANJARNEGARA,4 JULI 1999",DESA CENDANA RT 003 RW 002,081945490391,SLTA,2023,140/1076 TAHUN 2023,SEKRETARIS BPD
+634, Cendana,Banjarnegara,AMINUDIN,"BANJARNEGARA,25 MEI 1971",DESA CENDANA RT 004 RW 001,082137390785,SLTA,2023,140/1076 TAHUN 2023,WAKIL KETUA BPD
+635, Clapar,Madukara,SOMAD,"Banjarnegara, 15 Maret 1966",Clapar Rt 04 Rw 01,081327712358,SLTA,2019,141.1/1112 TAHUN 2019,KADES
+636, Clapar,Madukara,NUNUNG NUR BAKHI,"Banjarnegara, 09-06-1994",Clapar Rt 01 Rw 01,082227559136,SLTA,2024,141/27 /TAHUN 2024,KADUS I
+637, Clapar,Madukara,SUMARDI,"BANJARNEGARA, 14 JULI 1977",CLAPAR RT 02 RW 02,082241667582,SLTA,2016,141/21/TAHUN 2016,KADUS II
+638, Clapar,Madukara,NARWAN,"BANJARNEGARA, 14 Desember 1985",CLAPAR RT 01 RW 03,082137462313,SLTA,2022,141/40/TAHUN 2022,KADUS III
+639, Clapar,Madukara,PURBO TRIYANTO,"Banjarnegara, 26 Oktober 1996",Clapar RT 04 Rw 02,081390350390,SLTA,2021,141/24 TAHUN 2021,Kasi Kesejahteraan
+640, Clapar,Madukara,RIFQI YANI,"Banjarnegara, 21 Januari 1980",Clapar Rt 04 Rw 01,082136544244,SLTA,2022,141/19 TAHUN 2022,Kasi Pelayanan
+641, Clapar,Madukara,JUWANTO,"Banjarnegara, 26 Mei 1980",Clapar Rt 04 Rw 02,081328579288,S1,2016,141/16 TAHUN 2016,Kasi Pemerintahan
+642, Clapar,Madukara,SETIANA SUSILOWATI,"Banjarnegara, 13 Mei 1993",Clapar Rt 04 Rw 01,082225298693,D III,2017,140/21 TAHUN 2017,Kaur Keuangan
+643, Clapar,Madukara,UMU SALAMAH,"Banjarnegara, 14 Oktober 1987",Clapar Rt 03 Rw 01,082226589719,S1,2022,141/19 TAHUN 2022,Kaur Perencanaan
+644, Clapar,Madukara,ROWIYAH,"Banjarnegara, 7 Juli 1982",Clapar RT 05 Rw 02,085293740515,D III,2022,141/19 Tahun 2022,Kaur Tata Usaha dan Umum
+645, Clapar,Madukara,ANDI WALUYO,"Banjarnegara, 30 April 1977",Clapar Rt 04 Rw 01,081329952926,SLTA,2017,140/20 TAHUN 2017,SEKDES
+646, Clapar,Madukara,SIPAN,"BANJARNEGARA, 23 APRIL 1973",CLAPAR RT 04 RW 02,082135825764,SLTA,2022,141/19/ TAHUN 2022,STAFF KASI PELAYANAN
+647, Clapar,Madukara,RASMIN,"BANJARNEGARA, 24 APRIL 1978",CLAPAR RT 01 RW 03,'082225336992,SLTA,2023,140/792/TAHUN 2023,ANGGOTA
+648, Clapar,Madukara,TUSRO,"BANJARNEGARA, 14 AGUSTUS 1976",CLAPAR RT 01 RW 02,085227518134,SLTP,2023,140/792/TAHUN 2023,ANGGOTA
+649, Clapar,Madukara,MUSRIANTO,"BANJARNEGARA, 7 AGUSTUS 1992",CLAPAR RT 05 RW 02,082241178245,SLTA,2023,140/792/TAHUN 2023,ANGGOTA
+650, Clapar,Madukara,JUMARSO,"BANJARNEGARA, 2 MARET 1978",CLAPAR RT 05 RW 01,081327148233,SLTP,2023,140/792/TAHUN 2023,ANGGOTA
+651, Clapar,Madukara,"RUSMAN . S. Ag , Mpdi","BANJARNEGARA, 13 MARET 1974",CLAPAR RT 04 / 02,081327428851,S2,2023,140/792 TAHUN 2023,KETUA
+652, Clapar,Madukara,"RUSJIWATI, SP.dI","BANJARNEGARA, 28 FEBRUARI 1962",Clapar Rt 02 Rw 01,082229166873,S1,2023,140/792/TAHUN 2023,SEKRETARIS
+653, Clapar,Madukara,SUBAGYO,"BANJARNEGARA, 9 SEPTEMBER 1981",CLAPAR RT 04 RW 01,082313999851,S1,2023,140/792/TAHUN 2023,WAKIL KETUA
+654, Condongcampur,Pejawaran,VIYANTO,"Banjarnegara, 08-06-1983",CONDONGCAMPUR RT. 003 RW. 002,082226156293,SLTA,2017,140/16/2017,KADUS CONDONG
+655, Condongcampur,Pejawaran,ROHMAN HABIBI,"Banjarnegara, 30-08-1986",CONDONGCAMPUR RT. 003 RW. 005,085290686385,SLTA,2018,140/42/2018,KADUS KANDANGAN
+656, Condongcampur,Pejawaran,ALI MUNTAHA,"Banjarnegara, 20-04-1968",CONDONGCAMPUR RT. 002 RW. 003,085226930342,SLTP,2016,141.3/28/2016,KADUS SERANG
+657, Condongcampur,Pejawaran,SUPRIYANTO,"Banjarnegara, 12-11-1983",CONDONGCAMPUR RT. 001 RW. 002,085226664301,SLTA,2017,140/16/2017,KASI KESEJAHTERAAN
+658, Condongcampur,Pejawaran,AJI SETIAWAN,"Wonosobo, 18 April 1995",CONDONGCAMPUR RT. 002 RW. 002,081329504281,SLTA,2024,141.3/52/TAHUN 2024,KASI PELAYANAN
+659, Condongcampur,Pejawaran,SOLIHIN,"Banjarnegara, 10-02-1974",CONDONGCAMPUR RT. 001 RW. 004,085227708125,SLTA,2016,141.3/23/2016,KASI PEMERINTAHAN
+660, Condongcampur,Pejawaran,FARID,"Banjarnegara, 12-02-1977",CONDONGCAMPUR RT. 001 RW. 001,085227616148,SLTA,2016,141.3/24/2016,KAUR KEUANGAN
+661, Condongcampur,Pejawaran,AL ICHSAN,"Banjarnegara, 07-06-1966",CONDONGCAMPUR RT. 001 RW. 001,085328437200,SLTA,2016,141.3/26/2016,KAUR PERENCANAAN
+662, Condongcampur,Pejawaran,HASAN MARGI,"Banjarnegara, 04-05-1966",CONDONGCAMPUR RT. 002 RW. 001,085327027152,SLTP,2016,141.3/22/2016,KAUR TU DAN UMUM
+663, Condongcampur,Pejawaran,"ASROFUDIN, S.H.","Banjarnegara, 22-06-1991",Condongcampur RT. 003 RW. 001,085329963143,S1,2019,141.1/1045/TAHUN 2019,Kepala Desa
+664, Condongcampur,Pejawaran,KHADIRIN,"Banjarnegara, 25-09-1977",CONDONGCAMPUR RT. 002 RW. 001,085291320300,SLTA,2017,141.31/07/2017,SEKRETARIS DESA
+665, Condongcampur,Pejawaran,Mahbut,"Banjarnegara, 08 Nopember 1995",Condongcampur RT. 003/005,081568269077,SLTA,2023,141/1083 TAHUN 2023,Anggota
+666, Condongcampur,Pejawaran,Dwi Astuti,"Banjarnegara, 23 Oktober 2000",CONDONGCAMPUR RT. 002 RW. 002,082272434804,SLTA,2023,141/1083 TAHUN 2023,Anggota
+667, Condongcampur,Pejawaran,Wahyu Slamet,"Banjarnegara, 15/11/1976",Condongcampur RT. 003/002,082223437509,SLTA,2023,141/1083 TAHUN 2023,Ketua
+668, Condongcampur,Pejawaran,"Supriyatno, S.E","Banjarnegara, 26 Januari 1981",CONDONGCAMPUR RT. 001 RW. 001,085290451113,S1,2023,141/1083 TAHUN 2023,Ketua Bidang Pembangunan dan Pemberdayaan Masyarak
+669, Condongcampur,Pejawaran,Zaenul Kirom,"Banjarnegara, 04 Oktober 2000",Condongcampur RT. 003/004,085329595830,SLTA,2023,141/1083 TAHUN 2023,Ketua Bidang Penyelenggaraan Pemerintah Desa dan P
+670, Condongcampur,Pejawaran,Adina Dewi Lestari,"Banjaregara, 03-01-1995",Condongcampur RT. 003/002,0857794433519,SLTA,2024,400.10.2/1423 tahun 2024,Sekretaris
+671, Condongcampur,Pejawaran,Maman Hidayat,"Banjarnegara, 08/06/1993",Condongcampur RT. 001 RW. 002,085600171917,SLTP,2023,141/1083 TAHUN 2023,Wakil Ketua
+672, Danakerta,Punggelan,SOHIRIN,"BANJARNEGARA, 8 MEI 1978",BRAK RT 05 RW 01 DESA DANAKERTA,0852-2762-4141,SLTA,2017,141/3 TAHUN 2017,KASI KESRA
+673, Danakerta,Punggelan,MISMO,"BANJARNEGARA, 24 NOVEMBER 1969",DOMAS RT 02 RW 08 DESA DANAKERTA,0812-2900-4316,SLTA,2018,141/28 TAHUN 2018,KASI PELAYANAN
+674, Danakerta,Punggelan,MUFLIKHUN,"BANJARNEGARA, 13 JUNI 1983",BRAK RT 02 RW 01 DESA DANAKERTA,0881-1614-930,SLTA,2017,141/3 TAHUN 2017,KASI PEMERINTAHAN
+675, Danakerta,Punggelan,HESTRI RAHAYUNINGSIH,"BANJARNEGARA, 7 NOVEMBER 1978",KANDANGSERANG RT 02 RW 04 DESA DANAKERTA,0853-2912-7718,S1,2017,141/3 TAHUN 2017,KAUR KEUANGAN
+676, Danakerta,Punggelan,IMAM ABDULLAH SIDIK,"BANJARNEGARA, 20 APRIL 1978",CIBUNGUR RT 02 RW 06 DESA DANAKERTA,0851-2443-6760,SLTA,2017,141/15 TAHUN 2017,KAUR PERENCANAAN
+677, Danakerta,Punggelan,GUNANTO,"BANJARNEGARA, 10 JUNI 1976",CIBUNGUR RT 03 RW 06 DESA DANAKERTA,0882-0069-64557,SLTA,2017,141/3 TAHUN 2017,KAUR TU &amp; UMUM
+678, Danakerta,Punggelan,WARSO,"BANJARNEGARA, 5 FEBRUARI 1967",KANDANGSERANG RT 02 RW 04 DESA DANAKERTA,0823-2347-8133,SLTA,2024,400.10.2/780 TAHUN 2024,KEPALA DESA
+679, Danakerta,Punggelan,MUNIROH,"BANJARNEGARA, 13 DESEMBER 1977",BRAK RT 02 RW 01 DESA DANAKERTA,0857-0023-2860,D3,2017,141/3 TAHUN 2017,KEPALA DUSUN BRAK
+680, Danakerta,Punggelan,ALI ABADI,"BANJARNEGARA, 6 MARET 1970",CIBUNGUR RT 03 RW 06 DESA DANAKERTA,0852-9146-6085,SLTA,2017,141/3 TAHUN 2017,KEPALA DUSUN CIBUNGUR
+681, Danakerta,Punggelan,RIDHO IKHSAN,"BANJARNEGARA, 3 FEBRUARI 1986",DANAKERTA RT 01 RW 05 DESA DANAKERTA,0813-5955-5151,SLTA,2017,141/3 TAHUN 2017,KEPALA DUSUN DANAKERTA
+682, Danakerta,Punggelan,KHADRIN,"BANJARNEGARA, 27 OKTOBER 1975","DOMAS, RT 02 RW 07",0812-2790-6277,SLTA,2017,141/3 TAHUN 2017,KEPALA DUSUN DOMAS
+683, Danakerta,Punggelan,SYAIFUL AZIZ EDYONO,"BANJARNEGARA, 13 MARET 1984",KANDANGSERANG RT 02 RW 04 DESA DANAKERTA,0822-4404-0001,S1,2017,141/15 TAHUN 2017,KEPALA DUSUN KANDANGSERANG
+684, Danakerta,Punggelan,SUYITNO,"BANJARNEGARA, 6 JANUARI 1968",DANAKERTA RT 02 RW 01,0812-2908-0161,SLTA,2018,141/28 TAHUN 2018,SEKRETARIS DESA
+685, Danakerta,Punggelan,SRI PURWATI,"BANJARNEGARA, 10 DESEMBER 1986",DOMAS RT 01 RW 08 DESA DANAKERTA,0813-2564-5909,SLTP,2023,140/500 TAHUN 2023,ANGGOTA BPD
+686, Danakerta,Punggelan,SUTIKNO,"BANJARNEGARA, 6 APRIL 1964",CIBUNGUR RT 02 RW 06 DESA DANAKERTA,0858-7831-9996,SLTA,2023,140/500 TAHUN 2023,ANGGOTA BPD
+687, Danakerta,Punggelan,SITI KHOMSATUN,"BANJARNEGARA, 5 OKTOBER 1979",CIBUNGUR RT 01 RW 06 DESA DANAKERTA,0812-2743-2611,SLTA,2023,140/500 TAHUN 2023,ANGGOTA BPD
+688, Danakerta,Punggelan,ALI SURANTO,"PURBALINGGA, 12 FEBRUARI 1972",KANDANGSERANG RT 02 RW 02 DESA DANAKERTA,0813-3790-7950,SLTA,2023,140/500 TAHUN 2023,ANGGOTA BPD
+689, Danakerta,Punggelan,SUHERMANTO,"BANJARNEGARA, 17 FEBRUARI 1972",KANDANGSERANG RT 02 RW 02 DESA DANAKERTA,0881-2772-856,SLTA,2023,140/500 TAHUN 2023,ANGGOTA BPD
+690, Danakerta,Punggelan,VITA AMALIA,"BANJARNEGARA, 12 JUNI 1993",DANAKERTA RT 02 RW 05 DESA DANAKERTA,0812-5951-8586,SLTA,2023,140/500 TAHUN 2023,ANGGOTA BPD
+691, Danakerta,Punggelan,NINING SUPRIYATI,"BANJARNEGARA, 22 MARET 1980",KANDANGSERANG RT 02 RW 04 DESA DANAKERTA,0812-2624-7657,S1,2023,140/500 TAHUN 2023,BENDAHARA BPD
+692, Danakerta,Punggelan,SODIKIN,"BANJARNEGARA, 21 APRIL 1970",BRAK RT 05 RW 01 DESA DANAKERTA,0852-2723-7222,S2,2023,140/500 TAHUN 2023,KETUA BPD
+693, Danakerta,Punggelan,BEJO LISTIONO,"BANJARNEGARA, 2 APRIL 1968",BRAK RT 03 RW 01 DESA DANAKERTA,0812-2829-9039,S1,2023,140/500 TAHUN 2023,SEKRETARIS BPD
+694, Danaraja,Purwanegara,NUGROHO HAPPY.K,"CILACAP, 28 JUNI 1976",DUSUN KALIMENDONG KULON RT 002 RW 008 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081292458556,SMA,2017,141/ 28 TAHUN 2017,KASI KESEJAHTERAAN
+695, Danaraja,Purwanegara,RINI HANDAYANI,"BANJARNEGARA, 7 NOVEMBER 1983",DUSUN PULASARI  RT 02 RW 02 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081391679974,S1,2008,141 / 08 TAHUN 2008,KASI PELAYANAN
+696, Danaraja,Purwanegara,HERMAWAN ADE SULISTYO,"BANJARNEGARA,22 NOVEMBER 1983",KALIMENDONG KULON RT 001 RW 009 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082335300309,S1,2008,141 / 08 TAHUN 2008,KASI PEMERINTAHAN
+697, Danaraja,Purwanegara,HASTANTO,"BANJARNEGARA, 22 MEI 1983",DUSUN KALIMENDONG RT 002 RW 006 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081329328463,S1,2008,141 / 08 TAHUN 2008,KAUR KEUANGAN
+698, Danaraja,Purwanegara,LINA HADIYATI,"BANJARNEGARA, 23 JULI 1985",KALIMENDONG RT 002 RW 007 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081226573772,D3,2020,141 / 037 TAHUN 2020,KAUR PERENCANAAN
+699, Danaraja,Purwanegara,SUPRIYADI,"BANJARNEGARA, 18 OKTOBER 1978",DUSUN PULASARI RT 002 RW 001 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082323349285,SMA,2008,141 / 08 TAHUN 2008,KAUR UMUM DAN TU
+700, Danaraja,Purwanegara,TITON SUNANDAR,"BANJARNAGARA,27 AGUSTUS 1978",DUSUN KALIMENDONG KULON RT 002 RW 008 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082300085956,SMA,2019,400.10.2 /959 TAHUN 2024,KEPALA DESA
+701, Danaraja,Purwanegara,TUBIANTORO,"BANJARNEGARA, 27 FEBRUARI 1972",DUSUN DANARAJA RT 001 RW 003 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082327915555,D2,2008,141 / 08 TAHUN 2008,KEPALA DUSUN DANARAJA
+702, Danaraja,Purwanegara,SLAMET LAHUDIN,"BANJARNEGARA,8 JULI 1982",KALIMENDONG RT 002 RW 007 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082324108991,SMA,2014,141 / 15 TAHUN 2014,KEPALA DUSUN KALIMENDONG
+703, Danaraja,Purwanegara,SUPRANTO,"BANJARNEGARA,27 AGUSTUS 1974","DUSUN KALIMENDONG KULON, RT 001 RW 008 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA",082137105485,SMA,2004,141 / 04 TAHUN 2004,KEPALA DUSUN KALIMENDONG KULON
+704, Danaraja,Purwanegara,ANDRI WIDIASTUTI,"BANJARNEGARA,3 APRIL 1987",DUSUN KALIMENDONG WETAN RT 002 RW 005 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,08895931257,SMA,2020,141 / 037 TAHUN 2020,KEPALA DUSUN KALIMENDONG WETAN
+705, Danaraja,Purwanegara,SUGENG SUTARYO,"BANJARNEGARA,8 AGUSUTUS 1982",DUSUN PULASARI RT 001 RW 002 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,085201544136,SMA,2020,141 / 037 TAHUN 2020,KEPALA DUSUN PULASARI
+706, Danaraja,Purwanegara,SAPARDI,"BANJARNEGARA, 28 FEBRUARI 1974",KALIMENDONG WETAN RT 005 RW 005 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARAA,085216845997,SMA,2014,141 / 15 TAHUN 2014,PEKERJA DESA
+707, Danaraja,Purwanegara,ARI SETIAWAN,"BANJARNEGARA, 10 NOVEMBER 1975",DUSUN KALIMENDONG KULON RT 002 RW 09 DANARAJA PURWANEGARA BANJARNEGARA,081327435731,S1,2017,141/ 28 TAHUN 2017,SEKRETARIS DESA
+708, Danaraja,Purwanegara,SUHARSIH YULIWATI,"BANJARNEGARA, 28 JULI 1972",DUSUN KALIMENDONG KULON RT 001 RW 009 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081211592891,SMA,2008,141 / 08 TAHUN 2008,STAF
+709, Danaraja,Purwanegara,AZIZ FAOZI,"BANJARNEGARA, 18 SEPTEMBER 1985",DUSUN DANARAJA RT 002 RW 003 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082136904349,S1,2023,140/1286 TAHUN 2023,ANGGOTA
+710, Danaraja,Purwanegara,ENY RAHAYU,"BANJARNEGARA,26 APRIL 1964",DUSUN DANARAJA RT 001 RW 004 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081392741745,SMA,2023,140/1286 TAHUN 2023,ANGGOTA
+711, Danaraja,Purwanegara,IWAN JULIANTO,"BANJARNEGARA, 20 JULI 1980",DUSUN PULASARI RT 001 RW 001 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,085327905366,SMA,2023,140/1286 TAHUN 2023,ANGGOTA
+712, Danaraja,Purwanegara,SUKARSO,"BANJARNEGARA, 5 MEI 1978",DUSUN PULASARI RT 002 RW 002 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,082223261503,SMA,2023,140/1286 TAHUN 2023,ANGGOTA
+713, Danaraja,Purwanegara,FIRDAUS KHANAFI,"BANJARNEGARA, 10 FEBRUARI 1983",DUSUN KALIMENDONG KULON RT 001 RW 008 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,085227412125,S1,2023,140/1286 TAHUN 2023,KETUA
+714, Danaraja,Purwanegara,JUMADI,"BANJARNEGARA, 12 MARET 1965",DUSUN KALIMENDONG WETAN RT 004 RW 005 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081393010994,SMA,2023,140/1286 TAHUN 2023,KETUA BIDANG PEMBANGUNAN DESA DAN PEMBERDAYAAN MAS
+715, Danaraja,Purwanegara,NURUL FAJAR,"BANJARNEGARA, 20 NOVEMBER 1960",DUSUN KALIMENDONG RT 003 RW 007 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,085290562305,S1,2023,140/1286 TAHUN 2023,KETUA BIDANG PENYELENGGARAAN PEERINTAH DESA DAN PE
+716, Danaraja,Purwanegara,ANGGUN ADE PUTRI,"BANJARNEGARA, 27 AGUSTUS 1983",DUSUN DANARAJA RT 001 RW 004 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,081325547996,S1,2023,140/1286 TAHUN 2023,SEKRETARIS
+717, Danaraja,Purwanegara,AGUS PRIYADI,"BANJARNEGARA,20 AGUSTUS 1979",DUSUN KALIMENDONG KULON RT 003 RW 009 DESA DANARAJA KECAMATAN PURWANEGARA KABUPATEN BANJARNEGARA,085397016577,S1,2023,140/1286 TAHUN 2023,WAKIL KETUA
+718, Darmayasa,Pejawaran,JAMUL,"Banjarnegara, 06 Oktober 1971",Darmayasa Rt 03 rw 01,085291197125,SMA,2017,141.32/20/2017,Kadus 1 (Keyudan)
+719, Darmayasa,Pejawaran,PARNO,"Banjarnegara, 21 November 1971","Darmayasa, Rt 01 rw 04",082323170700,SMA,2007,141/10/2007,Kadus 2 (Gembongan)
+720, Darmayasa,Pejawaran,PAHUT,"Banjarnegara, 15 Juni 1979","Darmayasa, Rt 01 rw 05",085291321621,SMA,2010,141/09/2010,Kadus 3 (Jambuer)
+721, Darmayasa,Pejawaran,FUADIN,"Banjarnegara, 16 November 1991",Darmayasa Rt 01 rw 06,085866422571,SMA,2021,140/19 TAHUN 2021,Kadus 4 (Bandungan)
+722, Darmayasa,Pejawaran,SUGENG,"Banjarnegara, 15 Februari 1966",Darmayasa Rt 01 rw 01,083822636606,SMA,2017,141.32/12/2017,Kasi Kesejahteraan
+723, Darmayasa,Pejawaran,RATUN,"Banjarnegara, 06 Juni 1976",Darmayasa Rt 03 rw 01,085226003572,SMA,2017,141.32/13/2017,Kasi Pelayanan
+724, Darmayasa,Pejawaran,SAMSUDIN,"Banjarnegara, 13 Februari 1968","Darmayasa, Rt 01 rw 04",081215961722,SMA,2017,141.32/11/2017,Kasi Pemerintahan
+725, Darmayasa,Pejawaran,SUCIP,"Banjarnegara, 15 Juni 1973",Darmayasa Rt 03 Rw 04,085292698720,SMA,2003,141/01/2003,Kaur Keuangan
+726, Darmayasa,Pejawaran,EMI WIDIASTUTI,"Banjarnegara, 24 Januari 1990",Darmayasa Rt 02 Rw 06,085225300881,D2,2017,141.32/46/2017,Kaur Perencanaan
+727, Darmayasa,Pejawaran,ANI,"Banjarnegara, 22 November 1990",Darmayasa Rt 07 Rw 02,085291178627,S1,2017,141.32/10/2017,Kaur TU dan Umum
+728, Darmayasa,Pejawaran,TUMAR,"Banjarnegara, 02 Juni 1969",Darmayasa Rt 03 rw 01,085113376770,SMA,2025,400.10.2/599 Tahun 2024,Kepala Desa
+729, Darmayasa,Pejawaran,PURWATI,"Banjarnegara, 07 Oktober 1990",Darmayasa Rt 02 Rw 04,085293103162,S1,2017,141.31/38/2017,Sekretaris Desa
+730, Darmayasa,Pejawaran,TUNUT,"Banjarnegara, 23 Juli 1976",Darmayasa Rt 02 Rw 08,085878751646,SMA,2017,141.32/15/2017,Staf Seksi Pemerintahan
+731, Darmayasa,Pejawaran,AGUNG NUGROHO,"Londut, 21-02-1993",Darmayasa Rt 01 rw 08,082389008668,S1,2023,140/1079 TAHUN 2023,Anggota BPD
+732, Darmayasa,Pejawaran,SUHATNO,"Banjarnegara, 10-05-1983",Darmayasa Rt 02 rw 05,085328903712,SMP,2023,140/1079 TAHUN 2023,Anggota BPD
+733, Darmayasa,Pejawaran,MUALIMAH,"Banjarnegara, 23-05-1994",Darmayasa Rt 01 rw 06,083874643771,SMA,2023,140/1079 TAHUN 2023,Anggota BPD
+734, Darmayasa,Pejawaran,MANSUR,"Banjarnegara, 13-03-1992",Darmayasa Rt 02 rw 07,085866422571,SMP,2023,140/1079 TAHUN 2023,Anggota BPD
+735, Darmayasa,Pejawaran,MULUD,"Banjarnegara, 08 April 1950",Darmayasa Rt 05 Rw 02,08122437563,SMP,2023,140/1079 TAHUN 2023,Ketua BPD
+736, Darmayasa,Pejawaran,SUTRISNO,"Banjarnegara, 13-07-1976",Darmayasa Rt 02 Rw 04,083154700362,SMA,2023,141/01/2003,Sekretaris BPD
+737, Darmayasa,Pejawaran,NURKHAMDI,"Banjarnegara, 08-05-1993",Darmayasa Rt 08 rw 03,0895391850986,SMA,2023,140/1079 TAHUN 2023,Wakil Ketua BPD
+738, Dawuhan,Madukara,TAUFIK ISMAIL AL AKHMAD,"Banjarnegara, 16 Februari 1997",Dawuhan 03/01 Madukara Banjarnegara,081231518522,SMA,2024,141/28 TAHUN 2024,KADUS 1
+739, Dawuhan,Madukara,MUHLISIN,"Banjarnegara, 25 Desember 1993",Dawuhan 04/01 Madukara Banjarnegara,081228071334,SMA,2017,141/26 TAHUN 2017,KADUS 2
+740, Dawuhan,Madukara,PAWIT PRIYADI,"Banjarnegara, 28 Oktober 1984",Dawuhan 01/02 Madukara Banjarnegara,085245260068,SMA,2017,141/27 TAHUN 2017,KADUS 3
+741, Dawuhan,Madukara,TRI MARGONO,"Banjarnegara, 4 September 1994",Dawuhan 04/02 Madukara Banjarnegara,081227250071,S1,2018,141/27 TAHUN 2018,KADUS 4
+742, Dawuhan,Madukara,SITI UTAMI,"Banjarnegara, 15 Desember 1984",Dawuhan 05/02 Madukara Banjarnegara,081229758776,SMA,2013,141/11 TAHUN 2013,KADUS 5
+743, Dawuhan,Wanayasa,RUDIONO,"Banjarnegara, 02 Juli 1972",RT 02 RW 02 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,085743097462,SMA,2017,141.1 TAHUN 2017,KADUS I
+744, Dawuhan,Wanayasa,ALWANTO,"Banjarnegara, 18 Oktober 1981",RT 01 RW 02 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,081232222871,SMA,2017,141.5 TAHUN 2017,KADUS II
+745, Dawuhan,Wanayasa,TUTI,"Banjarnegara, 07 November 1981",RT 01 RW 03 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,082325093547,D2,2017,141.5 TAHUN 2017,KADUS III
+746, Dawuhan,Wanayasa,NUR KODAR,"Banjarnegara, 19 April 1990",RT 01 RW 01 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,085727825262,S1,2025,141.3/20 TAHUN 2025,KASI KESEJAHTERAAN
+747, Dawuhan,Madukara,TEKAD SETYABUDI,"Banjarnegara, 28 Februari 1987",Dawuhan 04/02 Madukara Banjarnegara,08816706878,D II,2013,141/11 TAHUN 2013,KASI KESEJAHTERAAN
+748, Dawuhan,Madukara,LISTIANTO RAHARJO,"Banjarnegara, 30 Oktober 1989",Dawuhan 02/02 Madukara Banjarnegara,081362254457,SMA,2018,141/32 TAHUN 2023,KASI PELAYANAN
+749, Dawuhan,Wanayasa,MISNO,"Banjarnegara, 08 Agustus 1996",RT 02 RW 03 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,082323978455,SMA,2021,141/20 TAHUN 20121,KASI PELAYANAN
+750, Dawuhan,Wanayasa,SARMAN,"Banjarnegara, 21 November 1972",RT 01 RW 02 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,085291610415,SMA,2017,141.1 TAHUN 2017,KASI PEMERINTAHAN
+751, Dawuhan,Madukara,SUNTORO,"Banjarnegara, 16 Maret 1978",Dawuhan 01/01 Madukara Banjarnegara,085600432438,S1,2018,141/11 TAHUN 2018,KASI PEMERINTAHAN
+752, Dawuhan,Madukara,CHAFID ROHMAN,"Banjarnegara, 9 April 1992",Dawuhan 02/01 Madukara Banjarnegara,089665692046,S1,2017,141/25 TAHUN 2017,KAUR KEUANGAN
+753, Dawuhan,Wanayasa,TUHRI,"Banjarnegara, 25 Juni 1977",RT 01 RW 01 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,081329311836,SMA,2017,141.1 TAHUN 2017,KAUR KEUANGAN
+754, Dawuhan,Wanayasa,CHAWAMI,"Banjarnegara, 09 April 1975",RT 02 RW 02 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,085228968080,SMA,2017,141.5 TAHUN 2017,KAUR PERENCANAAN
+755, Dawuhan,Madukara,MUHAMAD LUFI ANDI,"Banjarnegara, 8 Maret 1989",Dawuhan 05/02 Madukara Banjarnegara,082221448340,S1,2018,141/25 TAHUN 2018,KAUR PERNCANAAN
+756, Dawuhan,Madukara,HARMONO,"Banjarnegara, 15 Oktober 1971",Dawuhan 04/02 Madukara Banjarnegara,085200843151,SMA,2001,141/01 TAHUN 2001,KAUR TU &amp; UMUM
+757, Dawuhan,Wanayasa,SUPRIYANTO,"Sleman, 01 Juni 1979",RT 02 RW 01 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,081210224432,SMA,2017,141.1 TAHUN 2017,KAUR TU DAN UMUM
+758, Dawuhan,Madukara,MUHTAR,"Banjarnegara, 9 Mei 1974",Dawuhan 02/02 Madukara Banjarnegara,081227420333,SMA,2019,191.1/1108/2025,Kepala Desa
+759, Dawuhan,Wanayasa,SAHID,"Banjarnegara, 22 Oktober 1991",DAWUHAN RT 04 RW 03 KEC. WANAYASA,081285307735,D3,2019,141.1/939/2019,KEPALA DESA
+760, Dawuhan,Wanayasa,PURWONO,"Banjarnegara, 26 Juni 1990",DAWUHAN RT 01 RW 01 KEC. WANAYASA,082136375703,S1,2018,141.1 26 TAHUN 2018,Sekertaris Desa
+761, Dawuhan,Madukara,AMIN PRATIKNO,"Banjarnegara, 6 Februari 1982",Dawuhan 01/01 Madukara Banjarnegara,085385430399,S1,2017,141/20 TAHUN 2017,Sekretaris Desa
+762, Dawuhan,Wanayasa,ARIFFUL MU'MIN,"Wonosobo, 28 September 1993",RT 03 RW 02 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,081359095654,SMA,2023,140/1303 TAHUN 2023,ANGGOTA
+763, Dawuhan,Wanayasa,ARIF MAHMUDIN,"Banjarnegara, 08 Mei 1998",RT 02 RW 03 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,085726208150,SMA,2023,140/1303 TAHUN 2023,ANGGOTA
+764, Dawuhan,Wanayasa,IMAM KOBUL,"Banjarnegara, 16 November 1993",RT 04 RW 02 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,0859130962516,SMA,2023,140/1303 TAHUN 2023,ANGGOTA
+765, Dawuhan,Wanayasa,KHAMID,"Banjarnegara, 02 Mei 1991",RT 01 RW 03 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,081215379559,SMP,2023,140/1303 TAHUN 2023,ANGGOTA
+766, Dawuhan,Madukara,FATCHUR ROZAQ,"Banjarnegara, 14 Maret 1978",Dawuhan 05/01 Madukara Banjarnegara,081225235789,SMA,2023,140/1145 TAHUN 2023,ANGGOTA BPD
+767, Dawuhan,Madukara,FAIZAH NURUL HIDAYAH,"Banjarnegara, 26 Juni 1990",Dawuhan 05/02 Madukara Banjarnegara,0895401680359,SMA,2023,140/1145 TAHUN 2023,ANGGOTA BPD
+768, Dawuhan,Madukara,WAHYUDIN,"Banjarnegara, 24 Juni 1981",Dawuhan 06/01 Madukara Banjarnegara,081808148082,SMA,2023,140/1145 TAHUN 2023,ANGGOTA BPD
+769, Dawuhan,Madukara,BAGUS ADI SAPUTRO,"Banjarnegara, 13 Agustus 1995",Dawuhan 03/01 Madukara Banjarnegara,085194489243,SMA,2023,140/1145 TAHUN 2023,ANGGOTA BPD
+770, Dawuhan,Madukara,RIBUT PRIHATIN,"Banjarnegara, 12 Juni 1980",Dawuhan 01/02 Madukara Banjarnegara,082310782756,SMA,2023,140/1145 TAHUN 2023,ANGGOTA BPD
+771, Dawuhan,Madukara,WINDI SURYA MAULANA,"Banjarnegara, 4 September 1994",Dawuhan 03/02 Madukara Banjarnegara,085700679194,SMA,2023,140/1145 TAHUN 2023,ANGGOTA BPD
+772, Dawuhan,Wanayasa,KASWAN,"Banjarnegara, 05 April1976",RT 02 RW 01 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,085227412477,SMA,2023,140/1303 TAHUN 2023,KETUA
+773, Dawuhan,Madukara,SARWOTO,"Banjarnegara, 29 Maret 1968",Dawuhan 02/01 Madukara Banjarnegara,085600441941,SMP,2023,140/1145 TAHUN 2023,KETUA BPD
+774, Dawuhan,Wanayasa,ZULVINA EMAN TRIANA NURILAHI,"Banjarnegara, 11 Desember 1998",RT 02 RW 01 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,082313450104,S1,2023,140/1303 TAHUN 2023,SEKRETARIS
+775, Dawuhan,Wanayasa,UDIN SURYADI,"Banjarnegara, 11 Oktober 1997",RT 04 RW 01 Desa Dawuhan Kec. Wanayasa Kab. Banjarnegara,089509996967,S1,2023,140/1303 TAHUN 2023,WAKIL KETUA
+776, Depok,Bawang,ARDIYANTO,"Banjarnegara, 11 Juni 1989",Depok RT 004 RW 001,085741792199,SMK,2017,140.3/08/I  Tahun  2017,Kasi Kesra dan Pelayanan
+777, Depok,Bawang,FEPTI UTAMI,"Banjarnegara, 12 Februari 1987",Depok RT 003 RW 001,085385630277,D2,2017,140.3/04/I Tahun  2017,Kaur Keuangan
+778, Depok,Bawang,SAHADI,"Banjarnegara, 15 Oktober 1975",Depok RT 004 RW 001,082220187662,SMP,2017,140.3/02/I  Tahun  2017,Kaur Umum dan Perencanaan
+779, Depok,Bawang,SUBADRIN,"Banjarnegara, 13 April 1986",Depok RT 005 RW 001,081338556719,SMK,2019,141.1/981 Tahun 2019,Kepala Desa
+780, Depok,Bawang,NUR BUDI SEDIYANTO,"Banjarnegara, 4 Desember 1977",Depok RT 003 RW 001,082322405505,SMK,2009,141.1/20/XII/ 2009,Kepala Dusun 1
+781, Depok,Bawang,DARTO,"Banjarnegara, 12 April 1985",Depok RT 004 RW 002,085191310502,SMP,2014,141/07/2014,Kepala Dusun 2
+782, Depok,Bawang,ASIF KHAIRUL ANWAR,"Banjarnegara, 11 Desember 1986",Depok RT 004 RW 001,081392000943,S1,2017,141.3/26 Tahun  2017,Sekretaris Desa
+783, Depok,Bawang,SARYO,"Banjarnegara, 18 Maret 1967",Depok RT 003 RW 002,085291158289,SMP,2017,140.3/12/I  Tahun  2017,Staf Kesra dan Pelayanan
+784, Depok,Bawang,SUTARYONO,"Banjarnegara, 8 Februari 1977",Depok RT 004 RW 001,082137289304,SMK,2017,140.3/10/I Tahun 2017,Staf Kesra dan Pelayanan
+785, Depok,Bawang,DENY WIHARSANA,"Jepara, 5 Desember 1964",Depok RT 004 RW 001,081391687730,SMA,2023,140/1399 Tahun 2023,Ketua
+786, Depok,Bawang,AGUS TRIYONO,"Banjarnegara, 16 April 1984",Depok RT 003 RW 002,081225761136,SMA,2023,140/1399 Tahun 2023,Ketua Bidang 1 &amp; 3
+787, Depok,Bawang,TEGUH SIAMTO,"Banjarnegara, 12 Mei 1988",Depok RT 003 RW 001,085878944600,SMA,2023,140/1399 Tahun 2023,Ketua Bidang 2 &amp; 4
+788, Depok,Bawang,DWI SETYORINI,"Banjarnegara, 29 Juni 1981",Depok RT 003 RW 002,081227098482,D3,2023,140/1399 Tahun 2023,Sekretaris
+789, Depok,Bawang,MARJI,"Banjarnegara, 3 April 1965",Depok RT 003 RW 001,085227610884,SMA,2023,140/1399 Tahun 2023,Wakil Ketua
+790, Derik,Susukan,M LATIF WAHYU WIBOWO,Banjarnegara 28-07-1998,Derik rt 006 rw 003,081295240463,S1,2025,141/01,Kasi KESRA
+791, Derik,Susukan,FAJAR KARUNIA PUTRA,Banjarnegara 06-12-1991,Derik rt 03 rw 002,085327995799,D3,2017,141.32/13,Kasi pelayanan
+792, Derik,Susukan,RISYANTI,Banjarnegara 04-07-1983,Derik rt 003 rw 002,0818801123,SMA,2025,141/01,Kasi Pemerintahan
+793, Derik,Susukan,KARSIN,Banjarnegara 30-03-1968,Derik rt 006 rw 003,081390990002,SMA,20005,141/15,Kaur Keuangan
+794, Derik,Susukan,YUSUF CAHYANTO,Banjarnegara 08-08-1993,Derik rt 003 rw 002,0882005709811,SMA,2017,141.32/14,Kaur Perencanaan
+795, Derik,Susukan,WARSAN,Banjarnegara 27-09-1965,Derik rt 003 rw 001,088221220386,SMA,1991,141.32/13,Kaur TU
+796, Derik,Susukan,"MARDIKA WULAN SARI,M.Pd",Banjarnegara 09 Agustus 1990,Derik rt 04 rw 002,085228658585,S2,2021,141/89 Tahun 2021,Kepala desa
+797, Derik,Susukan,SUPAN,Banjarnegara 28-08-1972,Derik rt 002 rw 001,081293707912,SMA,1998,141/14,Ketua Dusun I
+798, Derik,Susukan,WARYAN,Banjarnegara 04-04-1972,Derik rt 003 rw 002,0882008862262,SMA,2000,141/14,Ketua Dusun II
+799, Derik,Susukan,JUPRI GIRI EDI,Banjarnegara 27-06-1970,Derik rt 004 rw 003,082133244143,SMA,2016,141/15,Ketua Dusun III
+800, Derik,Susukan,RETNO JATININGSIH,Banjarnegara 15 Agustus 1977,Derik rt 04 rw 002,081225184871,D3,2017,141/12 TAHUN 2017,Sekretaris Desa
+801, Derik,Susukan,ARIF SUTOMO,Banjarnegara 10-05-1998,Derik rt 001 rw 003,088210397717,SMA,2023,01 TAHUN 2023,ANGGOTA
+802, Derik,Susukan,WACHIDIN,Banjarnegara 09-04-1994,Derik rt 006 rw 003,081391680372,Paket C,2023,01 TAHUN 2023,Anggota
+803, Derik,Susukan,SUGITO JONI TRIONO,Banjarnegara 27-06-1973,Derik rt 003 rw 002,082323014878,SMA,2023,01 TAHUN 2023,Ketua  Bidang Pembangunan dan Pemberdayaan Masyara
+804, Derik,Susukan,RATNO,Banjarnegara 30-08-1979,Derik rt 04 rw 001,081390015659,SMA,2023,01 TAHUN 2023,Ketua Bidang Pemerintahan Dan Kemasyarakatan
+805, Derik,Susukan,SUNARTO,Banjarnegara 02-09-1965,Derik rt 004 rw 002,085325911185,S1,2023,01 TAHUN 2023,KETUA BPD
+806, Derik,Susukan,INDRIYANI,Banjarnegara 16-06-1986,Derik rt 007 rw 001,081225647733,SMA,2023,01 TAHUN 2023,Sekretaris
+807, Derik,Susukan,DIAN RESTU WIDIYANTO,Banjarnegara 03-07-1992,Derik rt 006 rw 001,088980848364,S1,2023,01 TAHUN 2023,Wakil Ketua
+808, Dermasari,Susukan,SUTOMO,"Banjarnegara, 14 November 1982","Dermasari, RT 002 RW 03",085227709329,SMA,2017,01 TAHUN 2017,Kasi Kesra
+809, Dermasari,Susukan,DWI OKTARINA,"Datar Lebuay, 02 Oktober 1985","Dermasari, RT 002 RW 01",082135769933,S1,2017,141/09 TAHUN 2017,Kasi Pelayanan
+810, Dermasari,Susukan,SUPRIYATNO,"Banjarnegara, 06 Juni 1970","Dermasari, RT 001 RW 03",085291000946,S1,2017,01 TAHUN 2017,Kasi Pemerintahan
+811, Dermasari,Susukan,BUDIARTO,"Banjarnegara, 23 April 1973","Dermasari, RT 002 RW 01",085227478899,D III,2017,01 TAHUN 2017,Kaur Keuangan
+812, Dermasari,Susukan,MOHAMMAD NURUDIN,"Banjarnegara, 24 Juli 1980","Dermasari, RT 003 RW 03",081327575324,S1,2017,01 TAHUN 2017,Kaur Perencanaan
+813, Dermasari,Susukan,SRI MURNIASIH,"Banjarnegara, 19 April 1979","Dermasari, RT 003RW 02",085647750025,S1,2017,01 TAHUN 2017,Kaur TU dan Umum
+814, Dermasari,Susukan,SUKIRMAN,"Banjarnegara, 20 April 1980","Dermasari, RT 002 RW 02",081280674762,SLTP,2019,141.1/960 TAHUN 2019,Kepala Desa
+815, Dermasari,Susukan,SUDIN,"Banjarnegara, 25 Februari 1969","Dermasari, RT 003 RW 01",085878855864,SMA,2018,141/22/ TAHUN 2018,Kepala Dusun
+816, Dermasari,Susukan,SUGONO,"Banjarnegara, 30 Juli 1968","Dermasari, RT 002 RW 03",082184462512,SMA,2017,01 TAHUN 2017,Kepala Dusun
+817, Dermasari,Susukan,KHODIRUN,"Banjarnegara, 23 Maret 1968","Dermasari, RT 004 RW 02",085227770146,SMA,2017,01 TAHUN 2017,Kepala Dusun
+818, Dermasari,Susukan,SAHRO KHAFIDIN,"Banjarnegara, 12 September 1992","Dermasari, RT 004 RW 02",085271221726,SMA,2017,141/09 TAHUN 2017,Sekretaris Desa
+819, Dermasari,Susukan,REYNALDI PRAMANA,"Banjarnegara, 02 November 1998","Dermasari, RT 004 RW 02",089696000838,SMA,2023,140/1246 TAHUN 2023,Anggota
+820, Dermasari,Susukan,ASRI PURWANTI,"Banjarnegara, 07 September 1994","Dermasari, RT 001 RW 01",081253853330,SMA,2023,140/1246 TAHUN 2023,Anggota
+821, Dermasari,Susukan,YULI DWIONO,"Banjarnegara, 23-07-1979","Dermasari, RT 002 RW 03",0882003256280,SMA,2023,140/1246 TAHUN 2023,Ketua
+822, Dermasari,Susukan,JOKO TRIONO,"Banjarnegara, 19 Juli 1983","Dermasari, RT 004 RW 03",085799301987,SMA,2023,140/1246 TAHUN 2023,Ketua Bidang Pembangunan dan Pemberdayaan Masyarak
+823, Dermasari,Susukan,MULYANTI,"Banjarnegara, 16 Maret 1979","Dermasari, RT 004 RW 02",085728953179,SMA,2023,140/1246 TAHUN 2023,Ketua Bidang Pemerintahan dan Kemasyarakatan
+824, Dermasari,Susukan,RASMINI,"Banjarnegara, 12 Agustus 1981","Dermasari, RT 003 RW 01",085712643118,SMA,2023,140/1246 TAHUN 2023,Sekretaris
+825, Dermasari,Susukan,KAMISAN,"Cilacap, 28 Mei 1979","Dermasari, RT 005 RW 01",082324420050,SLTP,2023,140/1246 TAHUN 2023,Wakil Ketua
+826, Dieng Kulon,Batur,CHATNO,BANJARNEGARA,"RT. 02 RW. 02DESA DIENG KULON, KECAMATAN BATUR, KABUPATEN BANJARNEGARA",08,SMP,2014,140//2014,BENDAHARA
+827, Dieng Kulon,Batur,HERIYANTO,"BANJARNEGARA, 23-10-1991","RT. 04 RW. 02 DESA DIENG KULON, KECAMATAN BATUR, KABUPATEN BANJARNEGARA",081239907619,SMA,2024,2024,KEPALA DESA
+828, Dieng Kulon,Batur,SABAR AL FARISTI,"BANJARNEGARA, 30-11-1980","RT. 01 RW. 01 DESA DIENG KULON, KECAMATAN BATUR, KABUPATEN BANJARNEGARA",085227030127,S1,2017,140//2017,SEKRETARIS DESA
+829, Gelang,Rakit,PUPUT SETYANINGRUM,"BANJARNEGARA, 04-03-1984","DUSUN II RT 01 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",082242047798,S1,2019,141.3/15/TAHUN 2019,KASI KESRA
+830, Gelang,Rakit,KASIRIN,"BANJARNEGARA, 11-03-1974","DUSUN V RT 03 RW 05 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085869650930,SLTA,2008,141.3/01/TH 2017,KASI PELAYANAN
+831, Gelang,Rakit,NURFITRI KHASANAH,"BANJARNEGARA, 26 Juli 1989","DUSUN V RT 03 RW 05 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",087804668492,S1,2025,100.3/18/TAHUN 2025,KASI PEMERINTAHAN
+832, Gelang,Rakit,AYI SUSENO,"DABO SINGKEP, 14-10-1979","DUSUN I RT 01 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085310585777,S1,2017,141.3/08 TH 2017,KAUR KEUANGAN
+833, Gelang,Rakit,HARIS FAUZI,"BANJARNEGARA, 30-01-1991","DUSUN IV RT 01 RW 04, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085227041277,SLTA,2017,141.3/07 TH 2017,KAUR PERENCANAAN
+834, Gelang,Rakit,MUSTAKIM,"BANJARNEGARA, 04-02-1978","DUSUN II RT 02 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",08953209912256,SLTA,2017,142.3/01 TH 2017,KAUR TU DAN UMUM
+835, Gelang,Rakit,MUH. ANSOR,"BANJARNEGARA, 08-02-1979","GELANG RT 01 RW 02 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",081235056474,SLTP,2019,141.1/1052 TH 2019,KEPALA DESA
+836, Gelang,Rakit,DIDI SETYAWAN,"BANJARNEGARA, 18-06-1981","DUSUN I RT 04 RW 01, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",089526851322,SLTA,2017,141.3/09/TAHUN 2017,KEPALA DUSUN 1
+837, Gelang,Rakit,WIDI NUGROHO,"BANJARNEGARA, 03-01-1987","DUSUN II RT 02 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",082134034683,S1,2025,100.3/16/TAHUN 2025,KEPALA DUSUN 2
+838, Gelang,Rakit,MU&#039;TI SYARIF,"BANJARNEGARA, 24-05-1977","DUSUN III RT 02 RW 03, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",082327971597,D3,2008,141.3/01/TH 2017,KEPALA DUSUN 3
+839, Gelang,Rakit,AGUS PUJIYANTO,"BANJARNEGARA, 24-08-1982","DUSUN IV RT 01 RW 04 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",081327837078,SLTA,2017,141.3/10 TH 2017,KEPALA DUSUN 4
+840, Gelang,Rakit,KHOLID,"BANJARNEGARA, 18-02-1983","DUSUN V RT 03 RW 05 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085226091026,SLTA,2025,100.3/17/TAHUN 2025,KEPALA DUSUN 5
+841, Gelang,Rakit,MIFTAHUL HAWAJI,"BANJARNEGARA, 10-02-1979","DUSUN III RT 01 RW 03, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085641417433,SLTA,2023,141/04/2003,SEKRETARIS DESA
+842, Gelang,Rakit,MURSI,"BANJARNEGARA, 08-01-1966","DUSUN I RT 01 RW 01, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",0,SLTA,2017,141.3/01/TAHUN 2017,STAF KASI PELAYANAN
+843, Gelang,Rakit,SLAMET RIYADI,"Banjarnegara, 21-12-1968","DUSUN I RT 04 RW 01, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085211722339,SLTP,2023,140/1130 Tahun 2023,ANGGOTA
+844, Gelang,Rakit,KHAFIDIN,"Purbalingga, 19-09-1983","DUSUN IV RT 01 RW 04 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",081392721935,SLTP,2023,140/1130 Tahun 2023,ANGGOTA
+845, Gelang,Rakit,MUTOHAR,"Banjarnegara, 30-04-1980","DUSUN III RT 02 RW 03, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",082225058076,D3,2023,140/1130 Tahun 2023,ANGGOTA
+846, Gelang,Rakit,NUR ISTIQOMAH,"Banjarnegara, 27-03-1981","DUSUN I RT 04 RW 01, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",081327186914,S1,2023,140/1130 Tahun 2023,ANGGOTA
+847, Gelang,Rakit,SITI KHODARIYAH,"Banjarnegara, 02-10-1986","DUSUN II RT 02 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",082255234111,S1,2023,140/1130 Tahun 2023,ANGGOTA
+848, Gelang,Rakit,UNAESATUZ ZAHROH,"Banjarnegara, 06-01-1996","DUSUN III RT 03 RW 03, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085842632015,S1,2023,140/1130 Tahun 2023,ANGGOTA
+849, Gelang,Rakit,NENI MURNIATI,"Banjarnegara, 04-11-1975","DUSUN II RT 04 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",082241102001,SLTP,2023,140/1130 Tahun 2023,ANGGOTA
+850, Gelang,Rakit,IMAM SAFANGAT,"BANJARNEGARA, 18-07-1973","DUSUN II RT 01 RW 02, DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",081391107808,SLTA,2023,140/1130 Tahun 2023,KETUA
+851, Gelang,Rakit,IKSAN,"Banjarnegara, 07-05-1963","DUSUN V RT 03 RW 05 DESA GELANG, KEC. RAKIT, KAB. BANJARNEGARA",085879059045,SLTP,2023,140/1130 Tahun 2023,WAKIL KETUA
+852, Gembol,Pejawaran,"PRASETYO, S.E.","Banjarnegara, 14 Juni 1969",Desa Gembol Rt. 01 Rw. 01 Kecamatan Pejawaran,085228874000,S1,2019,141.1/1046/ Tahun 2019,Kepala Desa
+853, Gembol,Pejawaran,DANI IRAWAN,"Banjarnegara, 06 Juni 1984",Desa Gembol Rt. 04 Rw. 01 Kecamatan Pejawaran,085227554345,SMA,2013,140/06/ Tahun 2017,Kepala Dusun 1
+854, Gembol,Pejawaran,SULTHON ARIF HAYAT,"Banjarnegara, 30 Agustus 1970",Desa Gembol Rt. 02 Rw. 02 Kecamatan Pejawaran,085201192621,SMA,2002,140/06/ Tahun 2017,Kepala Dusun 2
+855, Gembol,Pejawaran,"HARI WIBOWO, S.E.","Banjarnegara, 10 Januari 1997",Desa Gembol Rt. 01 Rw. 02 Kecamatan Pejawaran,085640982325,S1,2022,141/24/ Tahun 2022,Kepala Seksi Kesejahteraan
+856, Gembol,Pejawaran,ARMAN,"Banjarnegara, 06 Maret 1966",Desa Gembol Rt. 03 Rw. 01 Kecamatan Pejawaran,082136154844,SMP,2007,140/06/ Tahun 2017,Kepala Seksi Pelayanan
+857, Gembol,Pejawaran,FAIZIN AZIS,"Banjarnegara, 14 September 1998",Desa Gembol Rt. 04 Rw. 02 Kecamatan Pejawaran,082213141513,SMA,2022,141/23/ Tahun 2022,Kepala Seksi Pemerintahan
+858, Gembol,Pejawaran,INDAH YULIANTI,"Banjarnegara, 03 Juni 1993",Desa Gembol Rt. 01 Rw. 04 Kecamatan Pejawaran,085870838093,D3,2017,140/06/ Tahun 2017,Kepala Urusan Keuangan
+859, Gembol,Pejawaran,ROSHID RIDLO,"Banjarnegara, 13 November 1982","Desa Gembol Rt. 03 Rw. 04, Kecamatan Pejawaran",085227888679,SMA,2006,140/06/ Tahun 2017,Kepala Urusan Perencanaan
+860, Gembol,Pejawaran,MUNAJI,"Banjarnegara, 05 Pebruari 1970",Desa Gembol Rt. 01 Rw. 03 Kecamatan Pejawaran,085228223036,SD,2002,140/06/ Tahun 2017,Kepala Urusan TU dan Umum
+861, Gembol,Pejawaran,AMIN DIDIK HARTOJI,"Banjarnegara, 03 Juni 1978",Desa Gembol Rt. 04 Rw. 01 Kecamatan Pejawaran,082225420992,S1,2017,141.32/06/ Tahun 2017,Sekretaris Desa
+862, Gembol,Pejawaran,BUSAR,"Banjarnegara, 19 November 1976",Desa Gembol Rt. 04 Rw. 04 Kecamatan Pejawaran,082221664394,S1,2006,140/06/ Tahun 2017,Staf Kepala Seksi Pelayanan
+863, Gembol,Pejawaran,"FUAD SYARIFUDIN, Amd","Banjarnegara, 08 Desember 1996",Desa Gembol Rt. 03 Rw. 03 Kecamatan Pejawaran,082226333084,D3,2023,140/1494 Tahun 2023,Anggota
+864, Gembol,Pejawaran,EKA ASTUTI,"Banjarnegara, 11 September 1980",Desa Gembol Rt. 03 Rw. 02 Kecamatan Pejawaran,082223781554,SMA,2023,140/1494 Tahun 2023,Anggota
+865, Gembol,Pejawaran,LUKMAN HAWAZI,"Banjarnegara, 04 April 1973",Desa Gembol Rt. 01 Rw. 02 Kecamatan Pejawaran,085641878759,SMA,2023,140/1494 Tahun 2023,ketua
+866, Gembol,Pejawaran,PURWADIYANTORO,"Banjarnegara, 21 Pebruari 1985",Desa Gembol Rt. 02 Rw. 05 Kecamatan Pejawaran,082314109986,SMA,2023,140/1494 Tahun 2023,Ketua Bidang Pembangunan Desa dan pemberdayaan Mas
+867, Gembol,Pejawaran,MOKO YUDIANTO,"Banjarnegara, 06 Desember 1985",Desa Gembol Rt. 03 Rw. 01 Kecamatan Pejawaran,081338387765,SMP,2023,140/1494 Tahun 2023,Ketua Bidang Penyelenggaraan Pemerintahan Desa dan
+868, Gembol,Pejawaran,"Muswati, S.Pd","Banjarnegara, 08 Juni 1982",Desa Gembol Rt. 01 Rw. 05 Kecamatan Pejawaran,082223356042,S1,2023,140/1494 Tahun 2023,Sekretaris
+869, Gembol,Pejawaran,"JOKO WICAKSONO, S.E.","Banjarnegara, 22 April 1977",Desa Gembol Rt. 01 Rw. 03 Kecamatan Pejawaran,08121553604,S1,2023,140/1494 Tahun 2023,Wakil Ketua
+870, Gembongan,Sigaluh,TUKIJO,"BANJARNEGARA, 30-12-1972",GEMBONGAN RT001 RW004,081390884707,SLTA,2017,141/1-6-KEP/TAHUN 2017,KASI KESRA
+871, Gembongan,Sigaluh,DANITA AGUSTIANA,"BANJARNEGARA, 15-8-1991",GEMBONGAN RT001 RW004,085227517130,S1,2017,141/15 TAHUN 2017,KASI PELAYANAN
+872, Gembongan,Sigaluh,SLAMET RIYANTO,"BANJARNEGARA, 3-6-1966",GEMBONGAN RT003 RW001,08156800242,SLTA,2017,141/1-6-KEP/TAHUN 2017,KASI PEMERINTAHAN
+873, Gembongan,Sigaluh,WRESTI NURYAKTI,"BANJARNEGARA, 12-8-1988",GEMBONGAN RT002 RW005,085868862134,DIII,2017,141/17 TAHUN 2017,KAUR KEUANGAN
+874, Gembongan,Sigaluh,HARYANI,"BANJARNEGARA, 20-3-1985",GEMBONGAN RT003 RW006,08170603025,S1,2017,141/18 TAHUN 2017,KAUR PERENCANAAN
+875, Gembongan,Sigaluh,MUNARYO,"BANJARNEGARA, 29-1-1982",GEMBONGAN RT002 RW005,085291255567,SLTA,2017,141/16 TAHUN 2017,KAUR TU &amp; UMUM
+876, Gembongan,Sigaluh,RAKIM,"BANJARNEGARA, 13-2-1968",GEMBONGAN RT005 RW005,085780031535,S1,2025,400.10.2/575 TAHUN 2024,KEPALA DESA
+877, Gembongan,Sigaluh,RIDHO FAJAR RINI,"BANJARNEGARA, 21-1-1997",GEMBONGAN RT003 RW001,085878801540,S1,2019,141/22 TAHUN 2019,KEPALA DUSUN 1
+878, Gembongan,Sigaluh,AGRIYAR DWI NURCAHYO,"BANJARNEGARA, 6-6-1990",GEMBONGAN RT001 RW004,085291034007,SLTA,2017,141/19 TAHUN 2017,KEPALA DUSUN 2
+879, Gembongan,Sigaluh,GIYAT ROMADON,"BANJARNEGARA, 20-12-1998",GEMBONGAN RT006 RW005,082138470214,SLTA,2022,141/31 TAHUN 2022,KEPALA DUSUN 3
+880, Gembongan,Sigaluh,KUSTIANTO,"BANJARNEGARA, 6-11-1986",GEMBONGAN RT003 RW006,085141642747,SLTA,2017,141/1-6-KEP/TAHUN 2017,KEPALA DUSUN 4
+881, Gembongan,Sigaluh,FAUZAN AMIN,"BANJARNEGARA, 17-3-1985",GEMBONGAN RT003 RW005,082142579604,S1,2017,141/14 TAHUN 2017,SEKRETARIS DESA
+882, Gembongan,Sigaluh,RAKIMIN,"BANJARNEGARA, 24-7-1985",GEMBONGAN RT003 RW006,081338395145,SLTP,2023,140/1211 TAHUN 2023,ANGGOTA
+883, Gembongan,Sigaluh,TUGIYO,"BANJARNEGARA, 10-6-1964",GEMBONGAN RT003 RW004,08818194836,SLTP,2023,140/1211 TAHUN 2023,ANGGOTA
+884, Gembongan,Sigaluh,POEDJI ASTUTI,"BANJARNEGARA, 16-5-1975",GEMBONGAN RT003 RW002,085227266500,SLTA,2023,140/1211 TAHUN 2023,ANGGOTA
+885, Gembongan,Sigaluh,JUWARTI,"BANJARNEGARA, 17-10-1980",GEMBONGAN RT002 RW005,085326686989,SLTA,2023,140/1211 TAHUN 2023,ANGGOTA
+886, Gembongan,Sigaluh,SUWITO,"REMBANG, 4-12-1960",GEMBONGAN RT001 RW003,081225928745,SLTA,2023,140/1211 TAHUN 2023,KETUA
+887, Gembongan,Sigaluh,ARIF JAYUSMAN,"BANJARNEGARA, 23-2-1989",GEMBONGAN RT001 RW001,082123741624,DIII,2023,140/1211 TAHUN 2023,SEKRETARIS
+888, Gembongan,Sigaluh,SUPENO,"BANJARNEGARA, 21-10-1974",GEMBONGAN RT005 RW005,082137199612,SLTP,2023,140/1211 TAHUN 2023,WAKIL KETUA
+889, Gemuruh,Bawang,HUDI SULANTORO,"BANJARNEGARA, 21 MEI 1966",GEMURUH RT 02 RW 08,085227266171,S1,2002,Nomor 141/07/2002,Kasi Kesejahteraan
+890, Gemuruh,Bawang,JAENUDIN,"BANJARNEGARA, 15 JULI 1970",GEMURUH RT 01 RW 03,081228857063,SLTA,2002,Nomor 141/07/2002,Kasi Pelayanan
+891, Gemuruh,Bawang,YUMI LANTI LATIFAH,"BANJARNEGARA, 02 JULI 1997",GEMURUH RT 03 RW 03,08981409449,SLTA,2018,Nomor 19 TAHUN 2018,Kasi Pemerintahan
+892, Gemuruh,Bawang,ROKHMAT,"BANJARNEGARA, 17 FEBRUARI 1966",GEMURUH RT 03 RW 10,089657510815,SLTA,1991,Nomor 141/02/1991,Kaur Keuangan
+893, Gemuruh,Bawang,YOVITA SUNDARININGSIH,"BANJARNEGARA, 28 JUNI 1991",GEMURUH RT 01 RW 02,082137445222,S1,2017,Nomor 141.3/12/Tahun 2017,Kaur Perencanaan
+894, Gemuruh,Bawang,ANNISA RATNANINGTYAS,"BANJARNEGARA, 23 OKTOBER 1991",GEMURUH RT 02 RW 03,085325250847,D3,2017,Nomor 141.3/11/Tahun 2017,Kaur Umum dan TU
+895, Gemuruh,Bawang,HERMAN PRINOWO YULIANTO,"BANJARNEGARA, 31 JULI 1966",GEMURUH RT 03 RW 04,082261247009,SLTA,2019,Nomor 400.10.2/803 Tahun 2024,Kepala Desa Gemuruh
+896, Gemuruh,Bawang,WITRIYADI,"BANJARNEGARA, 15 DESEMBER 1984",GEMURUH RT 03 RW 09,085154831984,SLTA,2019,Nomor 22 Tahun 2019,Kepala Dusun Kaliwuluh
+897, Gemuruh,Bawang,SURATMAN,"BANJARNEGARA, 6 MARET 1968",GEMURUH RT 03 RW 07,085227199924,SLTA,1994,Nomor 141/06/1994,Kepala Dusun Kesatrian
+898, Gemuruh,Bawang,GIAT DWI NURSETYO,"BANJARNEGARA, 23 NOVEMBER 1991",GEMURUH RT 01 RW 02,081217786282,S1,2017,Nomor 141.3/13/Tahun 2017,Kepala Dusun Sireok
+899, Gemuruh,Bawang,ADIS,"BANJARNEGARA, 06 NOVEMBER 1969",GEMURUH RT 02 RW 04,081392082369,SLTA,2002,Nomor 141/01/2002,Kepala Dusun Wiragunan
+900, Gemuruh,Bawang,EKO SULISTIYONO,"BANJARNEGARA, 01 MARET 1977",GEMURUH RT 03 RW 01,089508936274,SLTA,2012,Nomor 141/04 Tahun 2012,Sekretaris Desa
+901, Gemuruh,Bawang,SUGENG NUGORHO,"BANJARNEGARA, 09-06-1983",GEMURUH RT 03 RW 02,085227581582,S2,2023,Nomor 140/1140 Tahun 2023,Anggota
+902, Gemuruh,Bawang,AFIF NURHIDAYAT,"BANJARNEGARA, 24-08-1984",GEMURUH RT 03 RW 03,081226630639,S1,2023,Nomor 140/1140 Tahun 2023,Anggota
+903, Gemuruh,Bawang,JANATUN YAN RAHARJO,"WONOSOBO, 05-01-1967",GEMURUH RT 01 RW 06,085728571724,SLTA,2023,Nomor 140/1140 Tahun 2023,Anggota
+904, Gemuruh,Bawang,ADE SIDIK GUNAWAN,"SARKO, 28-12-1989",GEMURUH RT 03 RW 09,085747880001,S1,2023,Nomor 140/1140 Tahun 2023,Anggota
+905, Gemuruh,Bawang,WIDIANTORO,"BANJARNEGARA, 01-11-1981",GEMURUH RT 04 RW 08,081226630639,SLTA,2023,Nomor 140/1140 Tahun 2023,Anggota
+906, Gemuruh,Bawang,RUJIMAN,"BANTUL, 18-11-1969",GEMURUH RT 01 RW 10,081328815601,S1,2023,Nomor 140/1140 Tahun 2023,Ketua
+907, Gemuruh,Bawang,SULIYAH,"BANJARNEGARA, 12-02-1979",GEMURUH RT 01 RW 05,087777147743,S1,2023,Nomor 140/1140 Tahun 2023,Sekretaris BPD
+908, Gemuruh,Bawang,AGUS HERU PRAWOTO,"KEBUMEN, 20-08-1968",GEMURUH RT 01 RW 01,08122759759,S1,2023,Nomor 140/1140 Tahun 2023,Wakil Ketua
+909, Gentansari,Pagedongan,Supriyono,"Banjarnegara, 30 November 1970","Mabul, RT 05 RW 02 Desa Gentansari Kecamatan Pagedongan",081391415222,S1,2019,141.1/1010 Tahun 2019,Kepala Desa
+910, Gentansari,Pagedongan,Heri Riyanto,"Banjarnegara, 04 November 1974","Gentangunung, RT 12 RW 04 Desa Gentansari Kec. Pagedongan",085227419888,SMA,2017,141/10 Tahun 2017,Kepala Dusun IV Gentansari
+911, Gentansari,Pagedongan,Mujiono,"Banjarnegara, 6 Desember 1975","Jaten, RT 04 RW 05 Desa Gentansari Kec. Pagedongan",085291494647,SMA,2017,141/45/IX/Tahun 2017,Kepala Dusun V Gentansari
+912, Gentansari,Pagedongan,Dhian Ekawati Murbaningsih,"Banjarnegara, 08 Mei 1981","Wandansari, RT 03 RW 02 Desa Gentansari Kec. Pagedongan",085291201782,S1,2017,141/06 Tahun 2017,Kepala Seksi Kesejahteraan
+913, Gentansari,Pagedongan,Sri Utami,"Banjarnegara,  01 Februari 1985","Mabul, RT 05 RW 02 Desa Gentansari Kecamatan Pagedongan",081229030792,S1,2017,141/20 Tahun 2017,Kepala Seksi Pelayanan
+914, Gentansari,Pagedongan,Yunita Wijayanti,"Banjarnegara, 21 Juni 1993","Prapatan, RT 10 RW 04 Desa Gentansari Kec. Pagedongan",081326485941,S1,2021,141.3/31 Tahun 2021,Kepala Seksi Pemerintahan
+915, Gentansari,Pagedongan,Pujiono,"Banjarnegara, 15 April 1969","Karangjambu, RT 05 RW 01 Desa Gentansari Kec. Pagedongan",081391942722,MTs,2017,141/03 Tahun 2017,Kepala Urusan Keuangan
+916, Gentansari,Pagedongan,Barkah Fitriyanto,"Banjarnegara, 26 April 1990","Semayun, RT 04 RW 03 Desa Gentansari Kec. Pagedongan",085747334373,D3,2020,141/09 Tahun 2020,Kepala Urusan Perencanaan
+917, Gentansari,Pagedongan,Heru Wiharso,"Banjarnegara, 30 Mei 1975","Wandansari, RT 03 RW 02 Desa Gentansari Kec. Pagedongan",085219234786,S1,2017,141/19 Tahun 2017,Sekretaris Desa
+918, Gentansari,Pagedongan,Hesti Retno Ningsih,"Banajrnegara, 8 Februari 1995",Jaten RT 02 RW 05 Desa GEntansari Kecamatan Pagedongan,081294926782,SMK,2023,140/1254 Tahun 2023,Anggota
+919, Gentansari,Pagedongan,Ikbal Santosa,"Banjarnegara, 7 Agustus 1999",Gelapan RT  06 RW 03 Desa GEntansari Kecamatan Pagedongan,081227984055,S1,2023,140/1254 Tahun 2023,Anggota
+920, Gentansari,Pagedongan,Rizky Fitriani,"Surakarta, 8 Desember 1988",Semayun RT 02 RW 03 Desa GEntansari Kecamatan Pagedpngan,085725089135,S1,2023,140/1254 Tahun 2023,Anggota
+921, Gentansari,Pagedongan,Ratri Nurhidayah,"Banjarnegara, 2 September 1991",Gentangunung RT 04 RW 04 Desa GEntansari Kecamatan Pagedongan,085290920890,SMK,2023,140/1254 Tahun 2023,Anggota
+922, Gentansari,Pagedongan,Ana Yunia Santoso,"Banjarnegara, 1 Juni 1989",Mabul RT 05 RW 02 Desa Gentansari Kecmatan Pagedongan,088289058892,SMK,2023,140/1254 Tahun 2023,Anggota
+923, Gentansari,Pagedongan,Kukuh Bakti Agung Ababil,"Banjarnegara, 14 November 1999",Prapatan RT 10 RW 04 Desa GEntansari Kecamatan Pagedongan,087788498489,D3,2023,140/1254 Tahun 2023,Anggota
+924, Gentansari,Pagedongan,Heri Priyono,"Banjarnegara, 21 Juli 1985",Gentan Jurang RT 02 RW 04 Desa Gentansari Kec. Pagedongan,081310108833,SMK,2023,140/1254 Tahun 2023,Ketua
+925, Gentansari,Pagedongan,Ika Prasetia,"Banjarnegara, 8 Januari 1990",Karangjambu RT 05 RW 01 Desa Gentansari Kecamatan Pagedongan,083839466109,S1,2023,140/1254 Tahun 2023,Sekretaris
+926, Gentansari,Pagedongan,Muslimin,"Banjarnegara, 10 Oktober 1983",Siteki RT 01 RW 01 Desa Gentansari Kecamatan Pagedongan,082220768334,SMP,2023,140/1254 Tahun 2023,Wakil Ketua
+927, Glempang,Mandiraja,Sukono,"Banjarnegara, 15 Juli 1968","Desa Glempang RT.04/RW.03, Kecamatan Mandiraja - Kabupaten Banjarnegara",081339949563,SMA,2017,141/03 Tahun 2017,Kasi Kesejahteraan
+928, Glempang,Mandiraja,Tiyas Aprillyani Prasetyo,"Banjarnegara, 18 April 1996","Desa Glempang RT.01/RW.02, Kecamatan Mandiraja - Kabupaten Banjarnegara",082265475859,D3,2017,141/19/ V Tahun 2017,Kasi Pelayanan
+929, Glempang,Mandiraja,Sahlan Muchidin,"Banjarnegara, 04 November 1978","Desa Glempang RT.04/RW.01, Kecamatan Mandiraja - Kabupaten Banjarnegara",081327657616,S1,2017,141/04 Tahun 2017,Kasi Pemerintahan
+930, Glempang,Mandiraja,Rian Desi Widi Astuti,"Banjarnegara, 25 Desember 1992",Desa Glempang RT.01/RW.01 Kecamatan Mandiraja - Kabupaten Banjarnegara,085602119207,D3,2018,141/01 Tahun 2018,Kaur Keuangan
+931, Glempang,Mandiraja,Sugeng Riyadi,"Banjarnegara, 16 April 1990","Desa Glempang RT.04/RW.04, Kecamatan Mandiraja - Kabupaten Banjarnegara",082385203133,SMA,2019,141/ 00 Tahun 2019,Kaur Perencanaan
+932, Glempang,Mandiraja,Mangsudiono,"Banjarnegara, 01 januari 1975","Desa Glempang RT.01/RW.03, Kecamatan Mandiraja - Kabupaten Banjarnegara",082223313331,S1,2011,141/01 Tahun 2011,Kaur TU dan Umum
+933, Glempang,Mandiraja,Sugiyono,"Banjarnegara,","Desa Glempang RT.03/RW.03, Kecamatan Mandiraja - Kabupaten Banjarnegara",082324444830,S1,2019,0001,Kepala Desa
+934, Glempang,Mandiraja,Imam Supangat,"Banjarnegara, 19 Maret 1974","Desa Glempang RT.04/RW.01, Kecamatan Mandiraja - Kabupaten Banjarnegara",081226777474,S1,2024,141/25/I Tahun 2024,Kepala Dusun 1
+935, Glempang,Mandiraja,Sukarso,"Banjarnegara, 01 januari 1974","Desa Glempang RT.05/RW.02, Kecamatan Mandiraja - Kabupaten Banjarnegara",-,SMA,2016,141/07 Tahun 2016,Kepala Dusun 2
+936, Glempang,Mandiraja,Sudarno,"Banjarnegara,19 September 1974","Desa Glempang RT.04/RW.03, Kecamatan Mandiraja - Kabupaten Banjarnegara",085113332288,SMA,2017,141/08 Tahun 2017,Kepala Dusun 3
+937, Glempang,Mandiraja,Riyadi,"Banjarnegara, 01 September 1974","Desa Glempang RT.04/RW.04, Kecamatan Mandiraja - Kabupaten Banjarnegara",081391171133,SMA,2002,141/04 Tahun 2002,Kepala Dusun 4
+938, Glempang,Mandiraja,Arie Sutono,"Banjarnegara, 30 Agustus 1966","Desa Glempang RT.05/RW.05, Kecamatan Mandiraja - Kabupaten Banjarnegara",081229555512,SMA,2017,141/10 Tahun 2017,Kepala Dusun 5
+939, Glempang,Mandiraja,Anggit Purwanto,"Banjarnegara,",Desa Glempang RT.06/RW.01 Kecamatan Mandiraja - Kabupaten Banjarnegara,081329358899,S1,2017,141/18/ V Tahun 2017,Sekretaris Desa
+940, Glempang,Mandiraja,Sudarto,"Banjarnegara, 19 Agustus 1980","Desa Glempang RT.04/RW.02, Kecamatan Mandiraja - Kabupaten Banjarnegara",085642641550,SMA,2017,141/18/V Tahun 2017,Staf Kasi Kesejahteraan
+941, Glempang,Mandiraja,Imam Sutono,"Banjarnegara, 08 Mei 1968","Desa Glempang RT.04/RW.04, Kecamatan Mandiraja - Kabupaten Banjarnegara",085876344890,SMA,2002,141/23 Tahun 2002,Staf Kasi Pelayanan
+942, Glempang,Mandiraja,Suwardi,"Banjarnegara,","Desa Glempang RT.01/RW.02, Kecamatan Mandiraja - Kabupaten Banjarnegara",-,S1,2024,-,Ketua BPD
+943, Gripit,Banjarmangu,Agus Purnomo,"Banjarnegara, 29 November 1984",Gripit RT 02 RW 01,082221514187,SMA,2017,141.3/25 Tahun 2017,Kadus 1
+944, Gripit,Banjarmangu,Sabar Santosa,"Banjarnegara, 05 Mei 1978",Gripit RT 02 RW 03,082243902289,SMA,2017,141.3/25 Tahun 2017,Kadus 2
+945, Gripit,Banjarmangu,Listya Suqma Permadi,"Banjarnegara, 29 Juni 1989",Gripit RT 02 RW 01,082227410979,SMA,2017,141.3/25 Tahun 2017,Kasi Kesejahteraan
+946, Gripit,Banjarmangu,Hartoyo,"Bannjarnegara, 24 Desember 1976",Gripit RT 02 RW 03,085290227908,SMA,2002,141.3/004/kep/ Ds Gripit/2016,Kasi Pelayanan
+947, Gripit,Banjarmangu,Refalani Egnain Hidayah,"Banjarnegara, 24 Juni 1989",Gripit RT 01 RW 02,08081390419833,SMA,2017,141.3/ 25 Tahun 2017,Kasi Pemerintahan
+948, Gripit,Banjarmangu,Tri Setyo Raharjo,"Banjarnegara, 08 Oktober 1975",Gripit RT 02 RW 01,082326951534,SMA,2002,141.3/003/Kep/Ds Gripit/2016,Kaur Keuangan
+949, Gripit,Banjarmangu,Sugeng,"Banjarnegara, 04 Agustus 1964",Gripit RT 01 RW 01,082134502182,SMA,2025,291.1/673 2018,Kepala Desa
+950, Gripit,Banjarmangu,Anggita Savrida,"Banjarnegara, 10 Juli 1994",Gripit RT 01 RW  01,081322750702,S1,2017,141.3/25 Tahun 2017,Sekretaris Desa
+951, Gripit,Banjarmangu,Mistono,"Banjarnegara, 16 September 1974",Gripit RT 02 RW 03,081391240760,SMA,2009,141.3/007/Kep/ Ds Gripit/ 2016,Staff Kasi Pelayanan
+952, Grogol,Pejawaran,Wulandari,"Bamjarnegara, 9 Januari 1993",Grogol Rt 01 Rw 02,085225912443,S2,2022,141/24/2022,Kasi Kesejahteraan
+953, Grogol,Pejawaran,Muawal,"Banjarnegara,27 Mei 1988",Grogol Rt 04 Rw 03,082328312300,SMA,2017,141/01/2017,Kasi Pelayanan
+954, Grogol,Pejawaran,Supriyanto,"Banjarnegara, 11 Agustus 1984",Grogol Rt 04 Rw 02,085222361711,SMA,2017,141/02/2017,Kasi Pemerintahan
+955, Grogol,Pejawaran,Harry Budiyono,"Banjarnegara, 18 April 1978",Grogol Rt 01 Rw 01,0852314124345,SMA,2016,141/11/2016,Kaur Keuangan
+956, Grogol,Pejawaran,Edi Susanto,"Banjarnegara, 13 Februari 1978",Grogol Rt 01 Rw 03,085200444919,SMA,2016,141/10/2016,Kaur Perencanaan
+957, Grogol,Pejawaran,Karwati,"Banjarnegara, 13 Oktober 1991",Grogol Rt 04 Rw 02,082224080799,SMA,2021,141/20/2021,Kaut Tu dan Umum
+958, Grogol,Pejawaran,Alik Sandra,"Banjaregara,12 Mei 1984",Grogol Rt 01 Rw 03,08527377254,SMP,2019,141.1/1856 Tahun 2019,Kepala Desa
+959, Grogol,Pejawaran,Mistur,"Banjarnegara, 01 April 1971",Grogol Rt 03 Rw 01,081393804191,SMA,2016,141/14/2016,Kepala Dusun I
+960, Grogol,Pejawaran,Aditya Pranata Putra,"Banjarnegara, 26 Januari 2025",Grogol Rt 01 Rw 02,082132832626,S1,2022,141/25/2022,Kepala Dusun II
+961, Grogol,Pejawaran,Miswan,"Banjarnegara, 10 Agustus 1978",Grogol Rt,082145118470,SMA,2016,141/10/2016,Kepala Dusun III
+962, Grogol,Pejawaran,Wahyu Sarifudin,"Banjarnegara, 20 Juli 1991",Grogol Rt 02 Rw 01,085385848324,SMA,2017,141/23/2017,Sekretaris Desa
+963, Grogol,Pejawaran,Abas Rosyadi,"Banjarnegara, 03 Mei 1992",Grogol Rt 07 RW 01,082241307637,SMP,2023,140/1381 Tahun 2023,Anggota
+964, Grogol,Pejawaran,Bintus Arya Nugroho,"Banjarnegara, 24 Maret 1995",Grogol Rt 05 Rw 03,082123017716,SMP,2023,140/1381 Tahun 2023,Anggota
+965, Grogol,Pejawaran,Adi Prasetio,"Banjarnegara, 25 Juli 1997",Grogol Rt 06 Rw 02,082327932490,SMA,2023,140/1381 Tahun 2023,Anggota
+966, Grogol,Pejawaran,Robi Martiani,"Bnjarnegara, 20 Maret 1995",Grogol Rt 04 Rw 01,082224098898,SMA,2023,140/1381 Tahun 2023,Anggota
+967, Grogol,Pejawaran,Erwin Indar Wibowo,"Banjarnegara, 10 Januari 1991",Grogol RT 01 RW 01,085227812311,SMA,2023,140/1381 Tahun 2023,Ketua BPD
+968, Grogol,Pejawaran,So'imah,"Banjarnegara, 22 September 1981",Grogol Rt 01 Rw 02,082221537184,SMA,2023,140/1381 Tahun 2023,Sekretaris BPD
+969, Grogol,Pejawaran,Kholidun,"Banjarnegara, 08 September 1995",Grogol Rt 07 Rw 03,082223697860,SMA,2023,140/1381 Tahun 2023,Wakil Ketua BPD
+970, Gumelar,Karangkobar,Khotimah,"Banjarnegara, 05-07-1972",RT 001 RW 01,081226218713,SMA,2017,141/12/IX/Tahun 2017,Kadus I
+971, Gumelar,Karangkobar,Suparno,"Banjarnegara, 18-11-1972",RT 001 RW 02,085329879211,SMA,2017,141/13/IX/Tahun 2017,Kadus II
+972, Gumelar,Karangkobar,Aziz Mustaghfirin,"Banjarnegara, 31-10-1992",RT 002 RW 02,081226020194,SMA,2017,141/15/IX/Tahun 2017,Kasi Kesra
+973, Gumelar,Karangkobar,Suradi,"Banjarnegara, 10-04-1966",RT 001 RW 02,081228644493,SMA,2017,141/11/IX/Tahun 2017,Kasi Pelayanan
+974, Gumelar,Karangkobar,Sunarti,"Banjarnegara, 10-05-1982",RT 001 RW 02,081227253813,SMA,2017,141/10/IX/Tahun 2017,Kasi Pemerintahan
+975, Gumelar,Karangkobar,Kusnan,"Banjarnegara, 11-07-1967",RT 003 RW 01,081227555814,SMA,2022,141.1/18/KEP/II/2022,Kaur Keuangan
+976, Gumelar,Karangkobar,Subagyo,"Banjarnegara, 22-10-1990",RT 002 RW 02,081326823376,SMA,2022,141.1/19/KEP/II/2022,Kaur Perencanaan
+977, Gumelar,Karangkobar,Sugeng Santoso,"Banjarnegara, 29-05-1995",RT 001 RW 01,082224209812,SMA,2017,141/17/IX/Tahun 2017,Kaur TU&amp;Umum
+978, Gumelar,Karangkobar,Suyono,"Banjarnegara, 11-04-1958",RT 002 RW 02,085864144120,SMA,2019,141.1/1060/Tahun 2019,Kepala Desa
+979, Gumelar,Karangkobar,Sibghatullah Baihaqi Mujadidi,"Banjarnegara, 26-01-1992",RT 002 RW 02,081227139575,S1,2017,141/14/IX/Tahun 2017,Sekretaris Desa
+980, Gumelar,Karangkobar,MUHAMAD FAOYAN,"Banjarnegara, 11 Februari 1982",RT 003 RW 01,082324666076,SMA,2023,.,Anggota BPD
+981, Gumelar,Karangkobar,TEGUH HARYANTO,"Banjarnegara, 10 Agustus 1985",RT 001 RW 01,083815228337,SMP,2023,.,Anggota BPD
+982, Gumelar,Karangkobar,"PURWOKO, S.Pd.I.","Banjarnegara, 25 November 1972",RT 001 RW 02,082139649832,S1,2023,.,Ketua BPD
+983, Gumelar,Karangkobar,"ISMI KHUSNI LATIFAH, A.Md.,KL.","Banjarnegara, 29 September 1994",RT 002 RW 02,082324790030,D3,2023,.,Sekretaris BPD
+984, Gumelar,Karangkobar,REBAN,"Banjarnegara, 04 Februari 1970",RT 002 RW 02,082236084016,SMP,2023,.,Wakil Ketua BPD
+985, Gumelem Wetan,Susukan,Eko Setya Budi,"Banjarnegara,17 Maret 1988",RT 001 RW 004 Desa Gumelem Wetan,087715223448,SMA,2016,141/16/2016,Kaur Keuangan
+986, Gumelem Wetan,Susukan,Nur Indah Astuti,"Banjarnegara,01 Maret 1991",RT 001 RW 002 Desa Gumelem Wetan,083862596231,S 1,2017,15 Tahun 2017,Kaur Perencanaan
+987, Gumelem Wetan,Susukan,Dwi Utami,"Banjarnegara,07 Juni 1988",RT 001 RW 002 Desa Gumelem Wetan,088232785376,SMA,2017,15 Tahun 2017,Kaur TU dan Umum
+988, Gumelem Wetan,Susukan,Cartun,"Banjarnegara,16 Desember 1963",RT 002 RW 007 Desa Gumelem Wetan,081226938878,SMP,2019,400.10.2/937 Tahun 2024,Kepala Desa
+989, Gumelem Wetan,Susukan,Sunardi,"Banjarnegara,12 Desember 1970",RT 005 RW 001 Desa Gumelem Wetan,081391581070,SMP,2016,141/16/2016,Kepala Dusun 1
+990, Gumelem Wetan,Susukan,Sutarto,"Banjarnegara,26 April1973",RT 004 RW 006 Desa Gumelem Wetan,085227745587,SMA,2016,141/16/2016,Kepala Dusun 2
+991, Gumelem Wetan,Susukan,Dwi Priyanto,"Banjarnegara,10 Maret 1986",RT 001 RW 008 Desa Gumelem Wetan,081329172153,SMA,2018,141/20/XII/2018,Kepala Dusun 3
+992, Gumelem Wetan,Susukan,Tumin,"Banjarnegara,12 Juli 1972",RT 002 RW 010 Desa Gumelem Wetan,082264131773,SMP,2016,141/16/2016,Kepala Dusun 4
+993, Gumelem Wetan,Susukan,Agus Winaryanto,"Banjarnegara,04 Juni 1969",RT 001 RW 005 Desa Gumelem Wetan,081318178979,SMA,2016,141/16/2016,Kepala Seksi Kesejahteraan
+994, Gumelem Wetan,Susukan,Rusmin,"Banjarnegara,11 November 1971",RT 003 RW 009 Desa Gumelem Wetan,0882003089149,SMA,2021,141.3/22/Tahun 2021,Kepala Seksi Pelayanan
+995, Gumelem Wetan,Susukan,Pardirin,"Banjarnegara,10 Mei 1969",RT 005 RW 007 Desa Gumelem Wetan,082134915293,SMA,2016,141/16/2016,Kepala Seksi Pemerintahan
+996, Gumelem Wetan,Susukan,Mokh.Bustanul Arifin,"Kebumen,14 Februari 1979",RT 002 RW 007 Desa Gumelem Wetan,0838623888609,SMA,2017,15 Tahun 2017,Sekretaris Desa
+997, Gumelem Wetan,Susukan,Priyatno,"Banjarnegara,04 Oktober 1968",RT 005 RW 001 Desa Gumelem Wetan,0838623888609,SMA,2016,141/17/2016,Staf Kasi Kesejahteraan
+998, Gumelem Wetan,Susukan,Sujeri,"Banjarnegara,27 Juli1967",RT 001 RW 001 Desa Gumelem Wetan,088216721879,SMP,2016,141/17/2016,Staf Kasi Kesejahteraan
+999, Gumelem Wetan,Susukan,Hamamudin,"Temanggung,05 Desember 1966",RT 001 RW 002 Desa Gumelem Wetan,083826061092,SMA,2016,141/17/2016,Staf Kasi Pelayanan
+1000, Gumelem Wetan,Susukan,Wakirah,"Banjarnegara,25 Juni 1966",RT 003 RW 003 Desa Gumelem Wetan,085227711164,SMA,2016,141/17/2016,Staf Kasi Pelayanan
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
